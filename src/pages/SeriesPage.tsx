@@ -5,7 +5,7 @@ import Seo from '../components/Seo';
 import Picture from '../components/Picture';
 import Lightbox from '../components/Lightbox';
 import NotFound from './NotFound';
-import { adjacentSeries, getPhoto, getSeries, seriesList, type Photo } from '../data/manifest';
+import { adjacentSeries, getPhoto, getSeries, type Photo } from '../data/manifest';
 import { useLang } from '../i18n/LanguageContext';
 import './SeriesPage.css';
 
@@ -37,23 +37,20 @@ export default function SeriesPage() {
 
   if (!series) return <NotFound message={t.series.notFound} />;
 
-  const idx = seriesList.findIndex((s) => s.slug === slug);
   const title = pick(series, 'title');
   const desc = pick(series, 'description');
   const { prev, next } = adjacentSeries(slug);
-  const num = String(idx + 1).padStart(2, '0');
-  const tot = String(seriesList.length).padStart(2, '0');
 
   return (
     <>
       <Seo title={title} description={desc || title} image={series.hero} />
-      <Hero photo={getPhoto(series.hero)} alt={title} kicker={`${t.series.label} ${num} / ${tot}`} title={title} sub={desc} size="tall" />
+      <Hero photo={getPhoto(series.hero)} alt={title} title={title} sub={desc} size="tall" />
 
       <section className="book wrap" aria-label={title}>
         {groups.map((g, gi) => (
           <div key={gi} className={`book__row book__row--${g.length === 2 ? 'pair' : 'single'}${gi % 4 === 2 ? ' book__row--shift' : ''}`}>
             {g.map(({ p, i }) => {
-              const ptitle = pick(p, 'title');
+              const ptitle = pick(p, 'title') || `${title} ${String(i + 1).padStart(2, '0')}`;
               return (
                 <figure key={series.photos[i]} className="plate" style={{ ['--ar' as string]: `${p.width} / ${p.height}` }}>
                   <button type="button" className="plate__btn" onClick={() => setOpen(i)} aria-label={`${t.series.openPhoto}: ${ptitle}`}>
@@ -64,12 +61,11 @@ export default function SeriesPage() {
                       decorative
                     />
                   </button>
-                  <figcaption className="plate__cap">
-                    <span className="meta plate__num">{String(i + 1).padStart(2, '0')}</span>
-                    <span className="meta plate__title">{ptitle}</span>
-                    {p.caption && <span className="meta plate__caption">{p.caption}</span>}
-                    {p.date && <span className="meta plate__date">{p.date}</span>}
-                  </figcaption>
+                  {p.caption && (
+                    <figcaption className="plate__cap">
+                      <span className="meta plate__caption">{p.caption}</span>
+                    </figcaption>
+                  )}
                 </figure>
               );
             })}

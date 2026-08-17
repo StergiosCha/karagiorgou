@@ -139,7 +139,7 @@ export default function Lightbox({ photos, index, onClose, onIndex }: Props) {
             sizes="(min-width: 900px) 88vw, 100vw"
             width={photo.width}
             height={photo.height}
-            alt={title}
+            alt={title || t.lightbox.dialogLabel}
             decoding="async"
             onLoad={() => setImgLoaded(true)}
             style={{ opacity: imgLoaded ? 1 : 0 }}
@@ -147,9 +147,8 @@ export default function Lightbox({ photos, index, onClose, onIndex }: Props) {
           />
         </div>
         <figcaption className="lb__cap">
-          <span className="lb__title">{title}</span>
+          {title && <span className="lb__title">{title}</span>}
           {photo.caption && <span className="lb__caption">{photo.caption}</span>}
-          {photo.date && <span className="meta lb__date">{photo.date}</span>}
           {photo.print?.available && (
             <span className="meta lb__print">
               {t.lightbox.printAvailable}
