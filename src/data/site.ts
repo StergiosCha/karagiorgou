@@ -23,7 +23,7 @@ export const site: SiteConfig = {
   afm: '',                                             // PLACEHOLDER ΑΦΜ
   doy: '',                                             // PLACEHOLDER ΔΟΥ
   address: '',                                         // PLACEHOLDER έδρα (city is enough)
-  city: 'Θεσσαλονίκη',
+  city: 'Γρεβενά',
   /** optional cookie-free analytics: 'plausible' | 'goatcounter' | '' ; set the domain/code in index.html */
   analytics: '',
 };

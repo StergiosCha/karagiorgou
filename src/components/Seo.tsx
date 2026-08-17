@@ -90,7 +90,7 @@ export default function Seo({ title, description, image, type = 'website' }: Pro
       url: `${SITE_ORIGIN}${base}/`,
       image: img,
       sameAs: [photographer.instagram, photographer.flickr],
-      address: { '@type': 'PostalAddress', addressLocality: 'Thessaloniki', addressCountry: 'GR' },
+      address: { '@type': 'PostalAddress', addressLocality: 'Grevena', addressCountry: 'GR' },
     };
     upsertJsonLd('person', person);
     const commercial = pathname.startsWith('/services') || pathname.startsWith('/quote') || pathname.startsWith('/contact');
@@ -106,8 +106,8 @@ export default function Seo({ title, description, image, type = 'website' }: Pro
             url: `${SITE_ORIGIN}${base}/services`,
             email: site.email,
             ...(site.phone ? { telephone: site.phone } : {}),
-            address: { '@type': 'PostalAddress', addressLocality: 'Thessaloniki', addressRegion: 'Central Macedonia', addressCountry: 'GR' },
-            areaServed: 'Thessaloniki, Northern Greece',
+            address: { '@type': 'PostalAddress', addressLocality: 'Grevena', addressRegion: 'Western Macedonia', addressCountry: 'GR' },
+            areaServed: 'Grevena, Thessaloniki, Northern Greece',
             priceRange: '€€',
             makesOffer: [
               { '@type': 'Offer', itemOffered: { '@type': 'Service', name: t.services.items.wedding.title } },

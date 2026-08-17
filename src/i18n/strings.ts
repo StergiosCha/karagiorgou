@@ -52,7 +52,7 @@ const dict = {
         wedding: {
           title: 'Γάμος & Βάπτιση',
           body: 'Ολοήμερη ή μερική κάλυψη, χωρίς στημένες πόζες — η μέρα όπως έγινε. Παράδοση επεξεργασμένων αρχείων σε online γκαλερί· άλμπουμ και prints κατόπιν συνεννόησης.',
-          bullets: ['Θεσσαλονίκη & Βόρεια Ελλάδα — μετακίνηση παντού', 'Φιλμ ή ψηφιακό, ή συνδυασμός', 'Παράδοση σε 4–8 εβδομάδες'],
+          bullets: ['Γρεβενά, Θεσσαλονίκη & Βόρεια Ελλάδα — μετακίνηση παντού', 'Φιλμ ή ψηφιακό, ή συνδυασμός', 'Παράδοση σε 4–8 εβδομάδες'],
           note: 'ΥΠΟΔΕΙΓΜΑ κειμένου — να επιβεβαιωθούν όροι, τιμές, χρόνοι παράδοσης',
         },
         music: {
@@ -70,7 +70,7 @@ const dict = {
       },
       printsAvailableTitle: 'Διαθέσιμα έργα',
       printsAvailableEmpty: 'Η λίστα διαθέσιμων prints ενημερώνεται. Ρώτησε για οποιοδήποτε έργο του portfolio.',
-      metaDescription: 'Φωτογράφος γάμου & βάπτισης στη Θεσσαλονίκη, φωτογραφία συγκροτημάτων και live, prints και συνεργασίες με γκαλερί — Παναγιώτα Καραγιώργου.',
+      metaDescription: 'Φωτογράφος γάμου & βάπτισης στα Γρεβενά και τη Θεσσαλονίκη, φωτογραφία συγκροτημάτων και live, prints και συνεργασίες με γκαλερί — Παναγιώτα Καραγιώργου.',
     },
     quote: {
       title: 'Ζήτησε προσφορά',
@@ -106,14 +106,14 @@ const dict = {
       viber: 'Viber',
       mailtoNote: 'Θα ανοίξει το πρόγραμμα email σου με έτοιμο μήνυμα.',
       required: 'υποχρεωτικό',
-      metaDescription: 'Ζήτησε προσφορά για φωτογράφιση γάμου, βάπτισης, συγκροτήματος ή για prints — Παναγιώτα Καραγιώργου, Θεσσαλονίκη.',
+      metaDescription: 'Ζήτησε προσφορά για φωτογράφιση γάμου, βάπτισης, συγκροτήματος ή για prints — Παναγιώτα Καραγιώργου, Γρεβενά.',
     },
     about: {
       title: 'Βιογραφικό',
       placeholderNote: 'ΚΕΙΜΕΝΟ-ΥΠΟΔΕΙΓΜΑ — προς αντικατάσταση',
       body: [
         'Η Παναγιώτα Καραγιώργου (Prunak) φωτογραφίζει από το 2013 τον βορρά της Ελλάδας και τα Βαλκάνια — ό,τι απομένει όταν οι άνθρωποι φεύγουν: κτίσματα που φθίνουν, πεδιάδες μέσα στην ομίχλη, στάσιμα νερά, χιόνι.',
-        'Δουλεύει κυρίως με φιλμ — Zenit ET, Zenit 122, Mamiya ZE2, Mamiya Universal — με διπλές εκθέσεις, freelensing και κυανοτυπίες, και ψηφιακά με Nikon. Ζει και εργάζεται στη Θεσσαλονίκη.',
+        'Δουλεύει κυρίως με φιλμ — Zenit ET, Zenit 122, Mamiya ZE2, Mamiya Universal — με διπλές εκθέσεις, freelensing και κυανοτυπίες, και ψηφιακά με Nikon. Ζει και εργάζεται στα Γρεβενά.',
       ],
       portraitAlt: 'Πορτρέτο της Παναγιώτας Καραγιώργου',
       cvTitle: 'Βιογραφικό σημείωμα',
@@ -132,7 +132,7 @@ const dict = {
         online: { title: 'Online', items: ['Flickr — prunak, από το 2013, ~1.000 φωτογραφίες', 'Instagram — @karagiorgou_panagiota'] },
       },
       downloadCv: 'Λήψη CV (PDF)',
-      metaDescription: 'Βιογραφικό της φωτογράφου Παναγιώτας Καραγιώργου (Prunak), Θεσσαλονίκη — φιλμ, κυανοτυπία, βόρεια τοπία.',
+      metaDescription: 'Βιογραφικό της φωτογράφου Παναγιώτας Καραγιώργου (Prunak), Γρεβενά — φιλμ, κυανοτυπία, βόρεια τοπία.',
     },
     journal: {
       title: 'Ημερολόγιο',
@@ -156,7 +156,7 @@ const dict = {
       afm: 'ΑΦΜ',
       doy: 'ΔΟΥ',
       based: 'Έδρα',
-      metaDescription: 'Επικοινωνία με τη φωτογράφο Παναγιώτα Καραγιώργου, Θεσσαλονίκη.',
+      metaDescription: 'Επικοινωνία με τη φωτογράφο Παναγιώτα Καραγιώργου, Γρεβενά.',
     },
     notFound: { title: 'Δεν βρέθηκε', body: 'Η σελίδα δεν υπάρχει.', home: 'Επιστροφή στην αρχική' },
     footer: { rights: 'Όλα τα δικαιώματα διατηρούνται.', copyright: 'Παναγιώτα Καραγιώργου', licence: 'Οι φωτογραφίες δεν επιτρέπεται να αναπαραχθούν χωρίς άδεια.' },
@@ -212,7 +212,7 @@ const dict = {
         wedding: {
           title: 'Weddings & Christenings',
           body: 'Full-day or partial coverage, no staged poses — the day as it happened. Edited files delivered in an online gallery; albums and prints by arrangement.',
-          bullets: ['Thessaloniki & northern Greece — will travel anywhere', 'Film or digital, or both', 'Delivery in 4–8 weeks'],
+          bullets: ['Grevena, Thessaloniki & northern Greece — will travel anywhere', 'Film or digital, or both', 'Delivery in 4–8 weeks'],
           note: 'PLACEHOLDER copy — terms, prices and delivery times to be confirmed',
         },
         music: {
@@ -230,7 +230,7 @@ const dict = {
       },
       printsAvailableTitle: 'Available works',
       printsAvailableEmpty: 'The list of available prints is being updated. Ask about any work in the portfolio.',
-      metaDescription: 'Wedding & christening photographer in Thessaloniki, band and live music photography, prints and gallery collaborations — Panagiota Karagiorgou.',
+      metaDescription: 'Wedding & christening photographer in Grevena and Thessaloniki, band and live music photography, prints and gallery collaborations — Panagiota Karagiorgou.',
     },
     quote: {
       title: 'Get a quote',
@@ -266,14 +266,14 @@ const dict = {
       viber: 'Viber',
       mailtoNote: 'This opens your email app with a prepared message.',
       required: 'required',
-      metaDescription: 'Request a quote for wedding, christening or band photography, or for prints — Panagiota Karagiorgou, Thessaloniki.',
+      metaDescription: 'Request a quote for wedding, christening or band photography, or for prints — Panagiota Karagiorgou, Grevena.',
     },
     about: {
       title: 'About',
       placeholderNote: 'PLACEHOLDER — replace this text',
       body: [
         'Panagiota Karagiorgou (Prunak) has photographed northern Greece and the Balkans since 2013 — whatever remains when people leave: buildings in decline, plains under fog, still water, snow.',
-        'She works mostly on film — Zenit ET, Zenit 122, Mamiya ZE2, Mamiya Universal — with double exposures, freelensing and cyanotypes, and digitally on Nikon. She lives and works in Thessaloniki.',
+        'She works mostly on film — Zenit ET, Zenit 122, Mamiya ZE2, Mamiya Universal — with double exposures, freelensing and cyanotypes, and digitally on Nikon. She lives and works in Grevena.',
       ],
       portraitAlt: 'Portrait of Panagiota Karagiorgou',
       cvTitle: 'Curriculum vitae',
@@ -292,7 +292,7 @@ const dict = {
         online: { title: 'Online', items: ['Flickr — prunak, since 2013, ~1,000 photographs', 'Instagram — @karagiorgou_panagiota'] },
       },
       downloadCv: 'Download CV (PDF)',
-      metaDescription: 'About the photographer Panagiota Karagiorgou (Prunak), Thessaloniki — film, cyanotype, northern landscapes.',
+      metaDescription: 'About the photographer Panagiota Karagiorgou (Prunak), Grevena — film, cyanotype, northern landscapes.',
     },
     journal: {
       title: 'Journal',
@@ -316,7 +316,7 @@ const dict = {
       afm: 'VAT no.',
       doy: 'Tax office',
       based: 'Based in',
-      metaDescription: 'Contact the photographer Panagiota Karagiorgou, Thessaloniki.',
+      metaDescription: 'Contact the photographer Panagiota Karagiorgou, Grevena.',
     },
     notFound: { title: 'Not found', body: 'This page does not exist.', home: 'Back to home' },
     footer: { rights: 'All rights reserved.', copyright: 'Panagiota Karagiorgou', licence: 'Photographs may not be reproduced without permission.' },
