@@ -169,10 +169,10 @@
   },
   {
    "slug": "animals",
-   "title_el": "Τα Ζώα του Τόπου",
-   "title_en": "The Animals Here",
-   "description_el": "Σκύλοι, γάτες, άλογα, πουλιά — οι μόνιμοι κάτοικοι.",
-   "description_en": "Dogs, cats, horses, birds — the permanent residents.",
+   "title_el": "Μόνιμοι Περαστικοί",
+   "title_en": "Permanent Passers-by",
+   "description_el": "Περαστικοί θαμώνες — σκύλοι, γάτες, άλογα, πουλιά.",
+   "description_en": "Passing regulars — dogs, cats, horses, birds.",
    "hero": "flickr_52578224467",
    "photos": [
     "flickr_52578224467",
