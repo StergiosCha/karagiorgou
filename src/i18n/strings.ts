@@ -14,11 +14,11 @@ const dict = {
       seriesLabel: 'Σειρές',
       enter: 'Είσοδος',
       metaDescription:
-        'Prunak — φωτογραφικό portfolio της Παναγιώτας Καραγιώργου. Βαλκανική φθορά, ομίχλη, αστική μελαγχολία, ασπρόμαυρη σιωπή, βόρειες ακτές.',
+        'Prunak — φωτογραφικό portfolio της Παναγιώτας Καραγιώργου. Ομίχλη, φθορά, αστική μελαγχολία, αρνητικός χώρος, στάσιμα νερά, χειμώνας.',
     },
     portfolio: {
       title: 'Portfolio',
-      lead: 'Πέντε σειρές. Δέκα φωτογραφίες η καθεμία.',
+      lead: 'Δέκα σειρές. Δέκα φωτογραφίες η καθεμία.',
       photos: 'φωτογραφίες',
       metaDescription: 'Οι φωτογραφικές σειρές της Παναγιώτας Καραγιώργου.',
     },
@@ -174,11 +174,11 @@ const dict = {
       seriesLabel: 'Series',
       enter: 'Enter',
       metaDescription:
-        'Prunak — the photographic portfolio of Panagiota Karagiorgou. Balkan decay, fog, urban melancholy, monochrome silence, northern coastlines.',
+        'Prunak — the photographic portfolio of Panagiota Karagiorgou. Fog, decay, urban melancholy, negative space, still waters, winter.',
     },
     portfolio: {
       title: 'Portfolio',
-      lead: 'Five series. Ten photographs each.',
+      lead: 'Ten series. Ten photographs each.',
       photos: 'photographs',
       metaDescription: 'The photographic series of Panagiota Karagiorgou.',
     },

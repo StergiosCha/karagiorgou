@@ -9,7 +9,7 @@ type Key = 'wedding' | 'music' | 'prints';
 
 /** one photograph per offer — pulled from the manifest so nothing is hard-coded to a file */
 function offerPhoto(key: Key) {
-  const bySlug: Record<Key, string> = { wedding: 'urban-melancholy-solitude', music: 'monochrome-silence', prints: 'fog-empty-landscapes' };
+  const bySlug: Record<Key, string> = { wedding: 'urban-melancholy', music: 'negative-space', prints: 'fog-and-haze' };
   const s = getSeries(bySlug[key]) ?? seriesList[0];
   return getPhoto(s.hero);
 }

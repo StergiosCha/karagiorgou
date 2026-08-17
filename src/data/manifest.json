@@ -5,169 +5,914 @@
   "instagram": "https://www.instagram.com/karagiorgou_panagiota/",
   "flickr": "https://www.flickr.com/photos/prunak/"
  },
- "hero": "flickr_12911774214",
+ "hero": "flickr_51611397376",
  "series": [
   {
-   "slug": "balkan-decay-ruins",
-   "title_el": "Αισθητική της Φθοράς",
-   "title_en": "Aesthetics of Decay",
-   "description_el": "Εγκαταλελειμμένες δομές, σοσιαλιστική αρχιτεκτονική και η σιωπηλή φθορά του χρόνου.",
-   "description_en": "Abandoned structures, socialist-era architectural remnants, and quiet decay.",
-   "hero": "flickr_15908805949",
-   "photos": [
-    "flickr_39126725584",
-    "flickr_15908805949",
-    "flickr_39564126122",
-    "flickr_26641177895",
-    "flickr_43367444161",
-    "flickr_45905049712",
-    "flickr_18009964426",
-    "flickr_28820373074",
-    "flickr_25271961628",
-    "flickr_32306347314"
-   ]
-  },
-  {
-   "slug": "fog-empty-landscapes",
+   "slug": "fog-and-haze",
    "title_el": "Ομίχλη και Αντάρα",
    "title_en": "Fog and Haze",
-   "description_el": "Αχανείς ορίζοντες, πυκνή ομίχλη και απομονωμένα αγροτικά τοπία.",
-   "description_en": "Vast horizons, thick mist, and isolated rural landscapes.",
-   "hero": "flickr_18121757224",
+   "description_el": "Ομίχλη, άχνη, αντάρα — τοπία που σβήνουν πριν τελειώσουν.",
+   "description_en": "Fog, mist, haze — landscapes that fade before they end.",
+   "hero": "flickr_51817247234",
    "photos": [
-    "flickr_39606765290",
-    "flickr_46563570212",
-    "flickr_51163702659",
-    "flickr_18121757224",
-    "flickr_25608223902",
-    "flickr_28489738112",
-    "flickr_36445767685",
-    "flickr_12911774214",
-    "flickr_29533491316",
-    "flickr_30961873075"
+    "flickr_51817247234",
+    "flickr_51611397376",
+    "flickr_51721845326",
+    "2025-10-31_10-26-18_UTC_DQeF9c_ip1t_3",
+    "flickr_51612054404",
+    "3791721335395880666_3791721321026178841",
+    "2026-04-29_15-14-55_UTC_DXuGE3vCgqx_1",
+    "flickr_48717682278",
+    "2025-12-07_15-41-08_UTC_DR97Zu9Cr0Q_1",
+    "flickr_48028316142"
    ]
   },
   {
-   "slug": "urban-melancholy-solitude",
+   "slug": "aesthetics-of-decay",
+   "title_el": "Αισθητική της Φθοράς",
+   "title_en": "Aesthetics of Decay",
+   "description_el": "Ρωγμές, σκουριά, ξεφλουδισμένοι σοβάδες, εγκαταλελειμμένα κτίσματα.",
+   "description_en": "Cracks, rust, peeling plaster, abandoned structures.",
+   "hero": "flickr_18650742343",
+   "photos": [
+    "flickr_18650742343",
+    "flickr_11757193914",
+    "2026-04-05_07-04-02_UTC_DWvazi-imeC",
+    "flickr_17267943106",
+    "flickr_41927671911",
+    "2025-08-22_11-39-27_UTC_DNp-sCBK6RP",
+    "flickr_40867728053",
+    "2026-07-10_11-12-46_UTC_DanDlSLAfU1",
+    "flickr_31622224475",
+    "flickr_31970923063"
+   ]
+  },
+  {
+   "slug": "urban-melancholy",
    "title_el": "Αστική Μελαγχολία",
    "title_en": "Urban Melancholy",
-   "description_el": "Μοναχικές φιγούρες, σκιές κτιρίων και η ησυχία των πόλεων τις πρώτες ώρες.",
-   "description_en": "Solitary figures, geometric building shadows, and early morning urban silence.",
-   "hero": "flickr_35321602491",
+   "description_el": "Άνθρωποι στην πόλη — περιμένοντας, περνώντας, μόνοι.",
+   "description_en": "People in the city — waiting, passing, alone.",
+   "hero": "flickr_38322486755",
    "photos": [
-    "flickr_42542257951",
-    "flickr_35321602491",
-    "flickr_32257648233",
-    "flickr_24022716086",
-    "flickr_31392818580",
-    "flickr_34611144650",
-    "flickr_28578340024",
-    "flickr_24782813149",
-    "flickr_29185327113",
-    "flickr_28571683786"
+    "flickr_38322486755",
+    "flickr_47526442862",
+    "flickr_37007197663",
+    "flickr_38618588045",
+    "flickr_24122910537",
+    "2025-07-18_08-54-54_UTC_DMPkCJgtWvv",
+    "flickr_39329237804",
+    "flickr_22702028713",
+    "flickr_42486112092",
+    "flickr_46729476985"
    ]
   },
   {
-   "slug": "monochrome-silence",
+   "slug": "negative-space",
    "title_el": "Αρνητικός Χώρος",
    "title_en": "Negative Space",
-   "description_el": "Υψηλής Αντίθεσης ασπρόμαυρες συνθέσεις με έμφαση στο κενό και την αφαίρεση.",
-   "description_en": "High contrast black and white compositions focusing on empty space and minimalism.",
-   "hero": "flickr_12819198494",
+   "description_el": "Ελάχιστα στοιχεία, πολύ κενό — ασπρόμαυρη σιωπή.",
+   "description_en": "Few elements, much emptiness — monochrome silence.",
+   "hero": "flickr_30365125681",
    "photos": [
-    "flickr_38684222970",
-    "flickr_33420408804",
-    "flickr_38697369875",
-    "flickr_40740230965",
-    "flickr_40536654072",
-    "flickr_12819198494",
-    "flickr_19808987399",
-    "flickr_37437810630",
-    "flickr_43332991335",
-    "flickr_31678896248"
+    "flickr_30365125681",
+    "3858386716725374170_3858386505600878482",
+    "flickr_50978644367",
+    "flickr_33036310275",
+    "flickr_14909107459",
+    "flickr_14931007544",
+    "flickr_41565990915",
+    "flickr_16063956623",
+    "flickr_15274822831",
+    "flickr_41566015565"
    ]
   },
   {
-   "slug": "coastal-desolation-water",
+   "slug": "still-waters",
    "title_el": "Στάσιμα Νερά",
    "title_en": "Still Waters",
-   "description_el": "Έρημες παραλίες, παλιές προβλήτες και στάσιμα γκρίζα νερά.",
-   "description_en": "Deserted beaches, weathered piers, and calm gray coastal waters.",
-   "hero": "flickr_21728964326",
+   "description_el": "Λίμνες, θάλασσα, λακκούβες, αντανακλάσεις — νερό που δεν κινείται.",
+   "description_en": "Lakes, sea, puddles, reflections — water that does not move.",
+   "hero": "flickr_16490542203",
    "photos": [
-    "flickr_21728964326",
-    "flickr_39086327755",
-    "flickr_33381476686",
-    "flickr_24042950952",
-    "flickr_40133584502",
-    "flickr_44857084014",
-    "flickr_39484688382",
-    "flickr_50820293728",
-    "flickr_31771472817",
-    "flickr_48718290032"
+    "flickr_16490542203",
+    "2025-11-12_09-59-46_UTC_DQ88dqJCvS1",
+    "flickr_51722095698",
+    "flickr_19111368330",
+    "flickr_27448777213",
+    "flickr_51316617171",
+    "flickr_27861168783",
+    "flickr_18121757224",
+    "2026-06-10_09-00-15_UTC_DZZklgigD3__3",
+    "2025-09-15_09-44-12_UTC_DOnkk3OCj9e_1"
+   ]
+  },
+  {
+   "slug": "winter",
+   "title_el": "Χειμώνας",
+   "title_en": "Winter",
+   "description_el": "Χιόνι, πάγος, παγετός — ο βορράς τον χειμώνα.",
+   "description_en": "Snow, ice, frost — the north in winter.",
+   "hero": "2026-01-28_06-24-08_UTC_DUC0_tnjL02_3",
+   "photos": [
+    "2026-01-28_06-24-08_UTC_DUC0_tnjL02_3",
+    "flickr_39715707293",
+    "flickr_23495360764",
+    "2025-12-05_12-10-26_UTC_DR4ZsxJCt3b_1",
+    "flickr_16138916316",
+    "2026-01-13_11-41-07_UTC_DTcxWLmCgfb_6",
+    "flickr_31984292786",
+    "flickr_38684222970",
+    "flickr_15551591884",
+    "flickr_32231638175"
+   ]
+  },
+  {
+   "slug": "hard-light",
+   "title_el": "Σκληρό Φως",
+   "title_en": "Hard Light",
+   "description_el": "Μεσημέρι, ίσκιοι κοφτοί, τοίχοι που καίνε.",
+   "description_en": "Noon, sharp shadows, walls that burn.",
+   "hero": "2026-03-16_16-34-10_UTC_DV88J6EiquQ",
+   "photos": [
+    "2026-03-16_16-34-10_UTC_DV88J6EiquQ",
+    "flickr_16537240823",
+    "2026-08-03_12-31-07_UTC_Dbk_pKmgJSu_4",
+    "2025-07-25_09-11-02_UTC_DMhncc4MYe7_1",
+    "flickr_37923854075",
+    "flickr_26458806856",
+    "flickr_35325078855",
+    "flickr_51176891765",
+    "2026-06-08_08-25-53_UTC_DZUXCuhA1pc",
+    "flickr_33589190278"
+   ]
+  },
+  {
+   "slug": "behind-glass",
+   "title_el": "Πίσω από το Τζάμι",
+   "title_en": "Behind Glass",
+   "description_el": "Παράθυρα, βιτρίνες, θολά τζάμια — ο κόσμος από μέσα.",
+   "description_en": "Windows, shopfronts, clouded glass — the world from inside.",
+   "hero": "flickr_24966100347",
+   "photos": [
+    "flickr_24966100347",
+    "flickr_51163702654",
+    "flickr_23970186057",
+    "flickr_38545604741",
+    "2025-12-01_11-15-55_UTC_DRuASC0igOJ_1",
+    "flickr_20117386233",
+    "2025-11-13_11-30-39_UTC_DQ_rqMJimdu_2",
+    "flickr_40043149505",
+    "flickr_27305052670",
+    "flickr_18590828026"
+   ]
+  },
+  {
+   "slug": "animals",
+   "title_el": "Τα Ζώα του Τόπου",
+   "title_en": "The Animals Here",
+   "description_el": "Σκύλοι, γάτες, άλογα, πουλιά — οι μόνιμοι κάτοικοι.",
+   "description_en": "Dogs, cats, horses, birds — the permanent residents.",
+   "hero": "flickr_52578224467",
+   "photos": [
+    "flickr_52578224467",
+    "flickr_47465807781",
+    "2025-10-26_11-45-17_UTC_DQRXBiriSEZ",
+    "flickr_45731332085",
+    "flickr_30953881247",
+    "flickr_30569193243",
+    "2025-06-18_10-36-25_UTC_DLCfzf-KPXQ_2",
+    "flickr_32068133718",
+    "2025-06-18_10-36-25_UTC_DLCfzf-KPXQ_3",
+    "flickr_19266761744"
+   ]
+  },
+  {
+   "slug": "forest-and-leaves",
+   "title_el": "Δάσος και Φύλλα",
+   "title_en": "Forest and Leaves",
+   "description_el": "Δέντρα, φυλλωσιές, φθινόπωρο — το δάσος από κοντά.",
+   "description_en": "Trees, foliage, autumn — the forest up close.",
+   "hero": "flickr_9454086354",
+   "photos": [
+    "flickr_9454086354",
+    "flickr_15303760000",
+    "flickr_36216906002",
+    "flickr_21925358990",
+    "2025-11-09_11-32-49_UTC_DQ1YujVig84_1",
+    "2025-11-09_11-32-49_UTC_DQ1YujVig84_3",
+    "2025-10-24_11-42-32_UTC_DQMNHpMihQ-",
+    "2025-11-17_11-53-33_UTC_DRKBdWcCj2j",
+    "2026-05-25_09-42-09_UTC_DYwcqUpAMw6_1",
+    "2025-11-16_12-44-20_UTC_DRHiecHimaK_2"
    ]
   }
  ],
  "photos": {
-  "flickr_12819198494": {
+  "flickr_51817247234": {
    "src": {
-    "1600": "web/1600/flickr_12819198494.webp",
-    "800": "web/800/flickr_12819198494.webp",
-    "400": "web/400/flickr_12819198494.webp"
-   },
-   "width": 1600,
-   "height": 1200,
-   "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABwBACdASoYABIAPrVQnUqnJSKhqA1Q4BaJaQAAves2xmxgiKxPD56CblJ5gAD+/hMtjCvQQKYsubUEG8Bi4CW0xs7PBfpD+TYrR46ls1lkAAAA",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/12819198494"
-  },
-  "flickr_12911774214": {
-   "src": {
-    "1600": "web/1600/flickr_12911774214.webp",
-    "800": "web/800/flickr_12911774214.webp",
-    "400": "web/400/flickr_12911774214.webp"
-   },
-   "width": 1600,
-   "height": 1200,
-   "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAABwAwCdASoYABIAPrVKnkmnJCKhMAgA4BaJZwAAccGuXnOL64AA/vTS8/HynvA/WDqUNd/pnbOh9RywUfRwWpYW2oAAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/12911774214"
-  },
-  "flickr_15908805949": {
-   "src": {
-    "1600": "web/1600/flickr_15908805949.webp",
-    "800": "web/800/flickr_15908805949.webp",
-    "400": "web/400/flickr_15908805949.webp"
-   },
-   "width": 1600,
-   "height": 1064,
-   "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAwCdASoYABAAPrVIn0mnJCKhMAgA4BaJaQAAKtf05RCElVQAAP7p0sqEU0xB4f9BgJkb8tLgjecoypaK7SMOPmy9NXvXmyAAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/15908805949"
-  },
-  "flickr_18009964426": {
-   "src": {
-    "1600": "web/1600/flickr_18009964426.webp",
-    "800": "web/800/flickr_18009964426.webp",
-    "400": "web/400/flickr_18009964426.webp"
+    "1600": "web/1600/flickr_51817247234.webp",
+    "800": "web/800/flickr_51817247234.webp",
+    "400": "web/400/flickr_51817247234.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAAAQBQCdASoYABgAPrVQoUynJKMiKAqo4BaJZQDDcA9o0qox8mBhb/YZwvnVvUtOXVAAAP73WburoDt8yXNSoOdzMWMP/6ZBrrxHFARwUgZZccgreqn8dnBgBgwzWEtpvvDflli3tmn4KTgMo6Tl2dQpXrBEq9w98UViPXTYbvS2HZ9dYXV6QwmCgAA=",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRrgAAABXRUJQVlA4IKwAAABQBQCdASoYABgAPu1qqVAppaOiqA1RMB2JYwDI1BETGhHBby2hyhB8GfY81cI3Q675yIAA/vN0EeCKtp+NpC9gbVm3Rl7zx2s0JIniaK8Eav2vBKqhTnAHRw3QK/zQr6FPjDfhbX73qGvV7lewQsgZPTmiDGmO7z0RqgEKoYsm/FzmIHi02bz6XXKIcqQqX4zURf7kmFh9ZVl1VQjGInAcV8iEzaTjc7GNpGAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/18009964426"
+   "source_url": "https://www.flickr.com/photos/prunak/51817247234"
+  },
+  "flickr_51611397376": {
+   "src": {
+    "1600": "web/1600/flickr_51611397376.webp",
+    "800": "web/800/flickr_51611397376.webp",
+    "400": "web/400/flickr_51611397376.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABwBACdASoYABgAPu1sq08ppiOiMBgIATAdiWUAAC5pWHOCO1DnZ7b3JWkqAAD+828t0S0uZrFBLjLwxzpRu8fW0Ul03Onkw0reS/TCHR/Iuemv/RwOhh8QRLzkbtOQa//zPcyESFxWZwavz2mPYPj7dkAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/51611397376"
+  },
+  "flickr_51721845326": {
+   "src": {
+    "1600": "web/1600/flickr_51721845326.webp",
+    "800": "web/800/flickr_51721845326.webp",
+    "400": "web/400/flickr_51721845326.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAABwBACdASoYABgAPuFgp02opiOiMAwBEBwJaQAAW+qMKviTlHnRrN+vst0MAAD+9M2ML9ar/EFT2cwBHw8G/WxoUb/e71WETqp2IxUeNDt1wprTzfdL2iuTqHEFoQAAAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/51721845326"
+  },
+  "2025-10-31_10-26-18_UTC_DQeF9c_ip1t_3": {
+   "src": {
+    "1600": "web/1600/2025-10-31_10-26-18_UTC_DQeF9c_ip1t_3.webp",
+    "800": "web/800/2025-10-31_10-26-18_UTC_DQeF9c_ip1t_3.webp",
+    "400": "web/400/2025-10-31_10-26-18_UTC_DQeF9c_ip1t_3.webp"
+   },
+   "width": 1080,
+   "height": 720,
+   "blur": "data:image/webp;base64,UklGRloAAABXRUJQVlA4IE4AAADwAwCdASoYABAAPu1kq04ppaQiMAgBMB2JaQAAYf9z+80C4DxDDJrwAP4mlblfN/OnyOYg6KWfN9hHI+GE5itL4QuXOHGPCJavUXiSQAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-10-31",
+   "source_url": "https://www.instagram.com/p/DQeF9c_ip1t/"
+  },
+  "flickr_51612054404": {
+   "src": {
+    "1600": "web/1600/flickr_51612054404.webp",
+    "800": "web/800/flickr_51612054404.webp",
+    "400": "web/400/flickr_51612054404.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwBACdASoYABgAPulepU2pJSOiMAwBIB0JZQDI1B6RB6NMlyXYOdfg1IjweHlyRQAA/vN/wyUAdc2+nAj3vJBYeYL1BclEK3xEmosdWRzlTTCD/wr7Tgoe5rjgBr+vsKfc13ZX/qJDP4bhmO+AAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/51612054404"
+  },
+  "3791721335395880666_3791721321026178841": {
+   "src": {
+    "1600": "web/1600/3791721335395880666_3791721321026178841.webp",
+    "800": "web/800/3791721335395880666_3791721321026178841.webp",
+    "400": "web/400/3791721335395880666_3791721321026178841.webp"
+   },
+   "width": 1440,
+   "height": 960,
+   "blur": "data:image/webp;base64,UklGRlIAAABXRUJQVlA4IEYAAACwAwCdASoYABAAPu1kq04ppaQiMAgBMB2JZQCw7CHMs6K/Y9Gu6AD+6rbaOg97eiR3zunxuHojDQdE+iltVFcYamaj4AAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.instagram.com/karagiorgou_panagiota/"
+  },
+  "2026-04-29_15-14-55_UTC_DXuGE3vCgqx_1": {
+   "src": {
+    "1600": "web/1600/2026-04-29_15-14-55_UTC_DXuGE3vCgqx_1.webp",
+    "800": "web/800/2026-04-29_15-14-55_UTC_DXuGE3vCgqx_1.webp",
+    "400": "web/400/2026-04-29_15-14-55_UTC_DXuGE3vCgqx_1.webp"
+   },
+   "width": 1080,
+   "height": 720,
+   "blur": "data:image/webp;base64,UklGRlYAAABXRUJQVlA4IEoAAACQAwCdASoYABAAPu1kqk2ppaQiMAgBMB2JQAALe4W9+Wgym0IAAP7TKVqHL045qVmrQLgOwc7/cnXFIZAcqvz1B6MP8F4yJbAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2026-04-29",
+   "source_url": "https://www.instagram.com/p/DXuGE3vCgqx/"
+  },
+  "flickr_48717682278": {
+   "src": {
+    "1600": "web/1600/flickr_48717682278.webp",
+    "800": "web/800/flickr_48717682278.webp",
+    "400": "web/400/flickr_48717682278.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAADwAwCdASoYABgAPu1au12po6amlAEwHYlAAB1YSjHaytUuaXR0eNxAAP74sEV7FwT2DRppJwDNa9HH97P/sQwDVPW9L0UYoNDMONEKmKhyFnrjhG5NnnwhKWOUxow3YHOiMgR1qKaCBr88wAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/48717682278"
+  },
+  "2025-12-07_15-41-08_UTC_DR97Zu9Cr0Q_1": {
+   "src": {
+    "1600": "web/1600/2025-12-07_15-41-08_UTC_DR97Zu9Cr0Q_1.webp",
+    "800": "web/800/2025-12-07_15-41-08_UTC_DR97Zu9Cr0Q_1.webp",
+    "400": "web/400/2025-12-07_15-41-08_UTC_DR97Zu9Cr0Q_1.webp"
+   },
+   "width": 1080,
+   "height": 720,
+   "blur": "data:image/webp;base64,UklGRlgAAABXRUJQVlA4IEwAAABwAwCdASoYABAAPu1iqk2ppaQiMAgBMB2JQAALebZ/ioACrNYA/uqzQfRi79mVefPXrWfcoDV3uDUpv1V6BZBYKX94I2tXu0wUAAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-12-07",
+   "source_url": "https://www.instagram.com/p/DR97Zu9Cr0Q/"
+  },
+  "flickr_48028316142": {
+   "src": {
+    "1600": "web/1600/flickr_48028316142.webp",
+    "800": "web/800/flickr_48028316142.webp",
+    "400": "web/400/flickr_48028316142.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAACwBACdASoYABgAPu1mqE4ppaOiMBgMATAdiWMAxNgRT37KqD6343JL0QatJLEAAP7zfyWmp7+XgOfMQa9RbmS8HTtrFKPubZd/drz4xv9JfPvNyoPsp+HHbpx60ahGR9r+eB3fkQcJC3FeInMAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/48028316142"
+  },
+  "flickr_18650742343": {
+   "src": {
+    "1600": "web/1600/flickr_18650742343.webp",
+    "800": "web/800/flickr_18650742343.webp",
+    "400": "web/400/flickr_18650742343.webp"
+   },
+   "width": 1064,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoQABgAPu1kqk2ppaQiMAgBMB2JaQAAYePWchOCd41sCdgA/vLFOhJc5kMsYlhJGgb+8sWW37HatpzabfSjCkKDPcwu17dNHwH/9AAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/18650742343"
+  },
+  "flickr_11757193914": {
+   "src": {
+    "1600": "web/1600/flickr_11757193914.webp",
+    "800": "web/800/flickr_11757193914.webp",
+    "400": "web/400/flickr_11757193914.webp"
+   },
+   "width": 1200,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASoSABgAPt1apE2opSOmN/qoARAbiWkAAFu5k/jPStWYX9Ul2y184AAA/uQYW/Imo2SzFS9UZxzvSmJ8tURZCP2sObnyauKq64xHsNvNfQrmfhXCaKmQ1XjT2SAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/11757193914"
+  },
+  "2026-04-05_07-04-02_UTC_DWvazi-imeC": {
+   "src": {
+    "1600": "web/1600/2026-04-05_07-04-02_UTC_DWvazi-imeC.webp",
+    "800": "web/800/2026-04-05_07-04-02_UTC_DWvazi-imeC.webp",
+    "400": "web/400/2026-04-05_07-04-02_UTC_DWvazi-imeC.webp"
+   },
+   "width": 1080,
+   "height": 1439,
+   "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADQBACdASoSABgAPu1ur1IppiQiqAgBMB2JZQC2yBBNc/bKrYZ0fwpb0jn/srwIAAD+4MMdW2w8a3Yk0275yQ33RkineCt1Uj/owignTO8008yPRRBU1ZwwFdLhzcPmyAuADehM+KkmMp9j08AeX0px5pRgJcu7aI0FJLAAAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2026-04-05",
+   "source_url": "https://www.instagram.com/p/DWvazi-imeC/"
+  },
+  "flickr_17267943106": {
+   "src": {
+    "1600": "web/1600/flickr_17267943106.webp",
+    "800": "web/800/flickr_17267943106.webp",
+    "400": "web/400/flickr_17267943106.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAACwBACdASoYABgAPu1mrE6ppaQiKA1RMB2JYwAAKdSoaIQavIsC3VtGlPl1jOAAAP7zgvYvlffghvwMi0hooh3APVxozJxA4Ry4AoQ7Ovurptn1WSmWN02VSEJWmE2IUI8EQwpugnWNZQ1SjBk4KjONObYJqfiiZA4mMDRP1N7dfQaWkuNQ040V0Z6JwEUAAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/17267943106"
+  },
+  "flickr_41927671911": {
+   "src": {
+    "1600": "web/1600/flickr_41927671911.webp",
+    "800": "web/800/flickr_41927671911.webp",
+    "400": "web/400/flickr_41927671911.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAADQBACdASoYABgAPu1gqU4ppSOiMBgMATAdiWMAyJgQ78Wgales/eO1i0xozb9GAAD+8270JcwsZPJJDZUHkPdBjEqM7A71UIAxCLWvOGdY6i9Z90z/hCOUROUzt66oC0a6JZFixAk+fxqsfBs1GTj6904qrH0cbnIUoWMWIdROcSm3N3AmP6WAAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/41927671911"
+  },
+  "2025-08-22_11-39-27_UTC_DNp-sCBK6RP": {
+   "src": {
+    "1600": "web/1600/2025-08-22_11-39-27_UTC_DNp-sCBK6RP.webp",
+    "800": "web/800/2025-08-22_11-39-27_UTC_DNp-sCBK6RP.webp",
+    "400": "web/400/2025-08-22_11-39-27_UTC_DNp-sCBK6RP.webp"
+   },
+   "width": 1080,
+   "height": 725,
+   "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAQBACdASoYABAAPu1orU2ppqSiMAgBMB2JZQAAW+uPlHEXVc02azEBAAD+8qBwwDtjRJSKQC4VlA1bg4K4qKbd77baJwyc3qQV7rORR2L9CRidg5sT/ruXEI0JjnYdzqx7jzXX7OHkx7A2TiqWICgcclH6T/2BVbufRRof+D9JJGPwAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-08-22",
+   "source_url": "https://www.instagram.com/p/DNp-sCBK6RP/"
+  },
+  "flickr_40867728053": {
+   "src": {
+    "1600": "web/1600/flickr_40867728053.webp",
+    "800": "web/800/flickr_40867728053.webp",
+    "400": "web/400/flickr_40867728053.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAADQBACdASoYABgAPu1kq06ppaQiKA1RMB2JYwDO7BEZ5O+vQLe1BvyqhNYqk+LgAAD+83AaDhzxI6IHvfIMlPgm4J2CxfJJaN3l8GiDnukFv/Z0ZsXvIS0iujZxVwZLBPXZYbDtaZRTfLlkr+XwAblSS9fvRcauG7jXl/nFOnEBt4xiBpv1r7KCzVm8gZnkeRut9xt+/n7g/UpyQv611TxwAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/40867728053"
+  },
+  "2026-07-10_11-12-46_UTC_DanDlSLAfU1": {
+   "src": {
+    "1600": "web/1600/2026-07-10_11-12-46_UTC_DanDlSLAfU1.webp",
+    "800": "web/800/2026-07-10_11-12-46_UTC_DanDlSLAfU1.webp",
+    "400": "web/400/2026-07-10_11-12-46_UTC_DanDlSLAfU1.webp"
+   },
+   "width": 1080,
+   "height": 1440,
+   "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAAAwBACdASoSABgAPu1ipk6ppSMiMBgMATAdiUAXZmX4DgVBLKEmKshDIQAA/FcxlWY72tZ170TzxEcpXdon9+RF1afP3bwJB5ua3xh6ln5ZyfdD5dx8kL5RySxG30lemjZLf72SbWeZHPH+IHuBeG6gsfmIniIolrFkWIj863W9heAABvgAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2026-07-10",
+   "source_url": "https://www.instagram.com/p/DanDlSLAfU1/"
+  },
+  "flickr_31622224475": {
+   "src": {
+    "1600": "web/1600/flickr_31622224475.webp",
+    "800": "web/800/flickr_31622224475.webp",
+    "400": "web/400/flickr_31622224475.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAADQBACdASoYABgAPu1aq02ppKQiMBgMATAdiWMAvdAQ7UNm9+DGCOGPIosv0eU4AAD+82yf3giU/+kTiy6OUjWW9ohjhwWzPgMvj8SOIif6EbLMWNG1zlI6duIUhE1Wu63L1/fCcKu3WSxz17wT6P/7Op7EtynTZYlMR5Aq+qghK7jl3CGWzmSTHXusx0AiNWhgrtSXc6uq4T+0vWnMj/8RTT58cAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/31622224475"
+  },
+  "flickr_31970923063": {
+   "src": {
+    "1600": "web/1600/flickr_31970923063.webp",
+    "800": "web/800/flickr_31970923063.webp",
+    "400": "web/400/flickr_31970923063.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACwBACdASoYABgAPu1irE+ppSQiMBgIATAdiWwAw6wQ7Tvybr6JoheTnaRS98gAAP7zcAhgpUQmV/qK/3bVskVBlseR3sG7tdyyviIxVw3TtVpQvC46lRxovYNkIW2eldXE3fVxD2/jW9aVfjmClfGvRsrRI2lCmnAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/31970923063"
+  },
+  "flickr_38322486755": {
+   "src": {
+    "1600": "web/1600/flickr_38322486755.webp",
+    "800": "web/800/flickr_38322486755.webp",
+    "400": "web/400/flickr_38322486755.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAABQBACdASoYABgAPu1oqU+ppiOiKA1RMB2JaQAALnCrKmOAE11AfcKNjq8AAP7zb+AEqYS/SxSjM4icP8CK3EwkHvnt3QgU0KT6IzPl7CfHFXOPFv11deZjOuLN/6Ozg/7EtO7XK1uViFXmJoGY0FnxJgujcDgs/eYqGug9+WCgEKGCcZ+hwgAAAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/38322486755"
+  },
+  "flickr_47526442862": {
+   "src": {
+    "1600": "web/1600/flickr_47526442862.webp",
+    "800": "web/800/flickr_47526442862.webp",
+    "400": "web/400/flickr_47526442862.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAAAQBQCdASoYABgAPu1oqU+ppaOiKA1RMB2JaQAFEB7uiFaSkX1vJZYUQrRQ3uc8eRgAAP7zbJ9zctm/xthxKdl6Sj2I7PFrrv7jx71Py8mxNCEBVERhicdvUqPZB/iNeP8tZpEsXZ78Nm+4Au721zh+UFOSTF+SFyhS/tyt5gZJo5O0ViK4C9q/8qN+LQ41zZlefIB/OBZ58Lb3CQAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/47526442862"
+  },
+  "flickr_37007197663": {
+   "src": {
+    "1600": "web/1600/flickr_37007197663.webp",
+    "800": "web/800/flickr_37007197663.webp",
+    "400": "web/400/flickr_37007197663.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAACwBACdASoYABgAPu1qrVCppiQiqAqpMB2JYwDKtdwAegB9XQwKO/h8G4nW5jkAAP7zb/7UsbJDfjwVAx/BIhbseUKXzhBd02Afnf41WGIeMTJxH8v1OGpwN+FSa8rPI70X1GHzB7ovu9z1B+wQW935TnUuPSi0NPF2beCQYkGSyYP7twcJXHXgiCKGH3txWx+NRhKV3iIGMVTdnMAY02c6gAAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/37007197663"
+  },
+  "flickr_38618588045": {
+   "src": {
+    "1600": "web/1600/flickr_38618588045.webp",
+    "800": "web/800/flickr_38618588045.webp",
+    "400": "web/400/flickr_38618588045.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABwBACdASoYABgAPu1qqFAppiOiqA1RMB2JZQDKABEde4RhPzk3ev0v2602cAD+82yf+tkPSU53RQjnR9VKqQU2ahNSl2Dl3Cldo5SF9wMpde/iq+htPa/hzGxJ7B3otbTvi7n1H6lJxkP2L0u+f4KzIpgIDFgU8f+3X5O2eb/bK9uKH+vSBESYZ1NFv44P3bmzyfvRPO8nmO1xujGmq7Iyn4AAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/38618588045"
+  },
+  "flickr_24122910537": {
+   "src": {
+    "1600": "web/1600/flickr_24122910537.webp",
+    "800": "web/800/flickr_24122910537.webp",
+    "400": "web/400/flickr_24122910537.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAACQBACdASoYABgAPu1cqU4ppKOiMBgMATAdiWUAxNgPSD262oTxB2eWWvYeLwAA/vOCtRSjnohd51l41pwdz40PzjTFUOQEwmzNbGL8fuhr3fUm5cf4Nv1gjavsOoJyx3rpViP3Z9PwxAloTHKeCV9UME15VrXvwO6DPWir1WUfoUOmNVQfMOvGlQenFeT47m/mQAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/24122910537"
+  },
+  "2025-07-18_08-54-54_UTC_DMPkCJgtWvv": {
+   "src": {
+    "1600": "web/1600/2025-07-18_08-54-54_UTC_DMPkCJgtWvv.webp",
+    "800": "web/800/2025-07-18_08-54-54_UTC_DMPkCJgtWvv.webp",
+    "400": "web/400/2025-07-18_08-54-54_UTC_DMPkCJgtWvv.webp"
+   },
+   "width": 1080,
+   "height": 1350,
+   "blur": "data:image/webp;base64,UklGRr4AAABXRUJQVlA4ILIAAACQBQCdASoTABgAPu1qq1EppaOiqAqpMB2JZQC/OywnAIAcInu4ORHK/SalMUOAXHMkmKdrAADMAbHR7zki85WCo+dAKuLMZvabavWRaFivSl7pN33p0f+Kiv/QXakFGRmz3lLUEy1niE/rkNMkj6O+APXxbFIUXTil7nBevJaPX4aBBA1mY/+34EnjyC4qRCwy7O/ui8JNK2CYf1YwwQhqeS4p7JW2kOIqAnGPSgF4AAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-07-18",
+   "source_url": "https://www.instagram.com/p/DMPkCJgtWvv/"
+  },
+  "flickr_39329237804": {
+   "src": {
+    "1600": "web/1600/flickr_39329237804.webp",
+    "800": "web/800/flickr_39329237804.webp",
+    "400": "web/400/flickr_39329237804.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAABQBACdASoYABgAPu1kq04ppaQiKA1RMB2JaQAALrKK6EPkU/eFBnSYrbgAAP7zfwn/DNOheILWm6yY/08JopgOxuAU7aDR9B/fKqc/Y0bKER7qB8QfkUWOid9iFkpPVVh+J+SM28Hj01sUdFh2ZKCe7U/olp7HmKdO7Tr0BGYsP5/q/6ZAAAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/39329237804"
+  },
+  "flickr_22702028713": {
+   "src": {
+    "1600": "web/1600/flickr_22702028713.webp",
+    "800": "web/800/flickr_22702028713.webp",
+    "400": "web/400/flickr_22702028713.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABwBACdASoYABgAPu1krE4ppaQiKA1RMB2JaQAAJbzHpG10M10G3uMhSBwEAAD+84HI3WnzmuaVBMRp7k80qYhYxiboq7k/THpDzfQeE45mprZJO2eewB+STVB1POsk+FJnSgocj9ARi5HThSs12j2YRZTUPl0IvTBklhNSj1eHkEd+ET+tv+TLXK8tAAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/22702028713"
+  },
+  "flickr_42486112092": {
+   "src": {
+    "1600": "web/1600/flickr_42486112092.webp",
+    "800": "web/800/flickr_42486112092.webp",
+    "400": "web/400/flickr_42486112092.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACwBACdASoYABgAPu1qqFCppaOiqA1RMB2JZwAFEAFu1a17uL91H6YEWY6SjBAAAP7zbu/2sZczVVQlzDNChgQhgVDp59YNr68qtNNP+sh6aJCqHiKuQq3K/1hk43yjgXJZU53X1mC86ZE2V2HSOo6LVaNpMHGmy2HcZeCYJZJFi0NFBZHQlUx1d2cfYAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/42486112092"
+  },
+  "flickr_46729476985": {
+   "src": {
+    "1600": "web/1600/flickr_46729476985.webp",
+    "800": "web/800/flickr_46729476985.webp",
+    "400": "web/400/flickr_46729476985.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAABwBACdASoYABgAPu1aq02ppKQiMBgMATAdiWcAzUgQ6lT4r7O/wYfpYPfAAAD+82yfykwkvKNW+P7zyg8nOj7QVRmtDwWYkyqz6bReTqhgw4DIMXP5W3ZEKO3P38mPcPxtZYXKd4mRXr1Rd56tSG4Ic9jkZn4XZfHIkJczcQWKWDR0wdXM/a0KkcLOAAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/46729476985"
+  },
+  "flickr_30365125681": {
+   "src": {
+    "1600": "web/1600/flickr_30365125681.webp",
+    "800": "web/800/flickr_30365125681.webp",
+    "400": "web/400/flickr_30365125681.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABwBACdASoYABgAPu1qqFAppiOiqA1RMB2JaQAAKdTTBe0+sUg+pICx6DjYAAD+83t9FSKtpte1Q3cib0zk0qKHv/fG2/pOTK5pc+n9T/QHdevYW2rTjekJwqZBpixIe2Yo4Yn7Kfhx26chiZevDzcEisTGuu8Q8boAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/30365125681"
+  },
+  "3858386716725374170_3858386505600878482": {
+   "src": {
+    "1600": "web/1600/3858386716725374170_3858386505600878482.webp",
+    "800": "web/800/3858386716725374170_3858386505600878482.webp",
+    "400": "web/400/3858386716725374170_3858386505600878482.webp"
+   },
+   "width": 1440,
+   "height": 960,
+   "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADQAwCdASoYABAAPu1iqk2ppaQiMAgBMB2JaQAAXFfI7QDY8eXaEAAA/c8GtgzJO0uJcNmoK/ueSTw3p++j3MT6S0ZdjRW9kjbwXRSREhMK9q0Tzt/pa/V4A0r/mX/Db8eI492kmzAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.instagram.com/karagiorgou_panagiota/"
+  },
+  "flickr_50978644367": {
+   "src": {
+    "1600": "web/1600/flickr_50978644367.webp",
+    "800": "web/800/flickr_50978644367.webp",
+    "400": "web/400/flickr_50978644367.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAAAQBQCdASoYABgAPu1kq06ppaQiKA1RMB2JagCdEf/gGOjs0awPQ5LSb+0bE+HnWgjUAP7x4OlJVXHslkLs8AOYBVwGYz9TgaRJ6EsZTQIojFNFBgoPlV7lkTXhIKfn/YTrR1IgLrpfIE4sJ971FTiTO4ThQMirVB7I0Fs2iAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/50978644367"
+  },
+  "flickr_33036310275": {
+   "src": {
+    "1600": "web/1600/flickr_33036310275.webp",
+    "800": "web/800/flickr_33036310275.webp",
+    "400": "web/400/flickr_33036310275.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAACQBACdASoYABgAPu1kq06ppaQiKA1RMB2JaQAALnasudwmUCaoTWVfDgmncAAA/vNvvzIgRaDSBdu0g4xjilY8FHtFFnuS05E4uJc+kjams2qFVjug7Hy2igyOHMnwx+7h+/1UL8zIilsEGsB3UxqdFvMzQkVgAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/33036310275"
+  },
+  "flickr_14909107459": {
+   "src": {
+    "1600": "web/1600/flickr_14909107459.webp",
+    "800": "web/800/flickr_14909107459.webp",
+    "400": "web/400/flickr_14909107459.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACQBACdASoYABgAPu1oqk8ppiOiMBgIATAdiWkAAC7TrUKYP4XY0R5Xg4KQAAAA/vQnI780eH+rz1hC4ZPh5m34EKEMGxKpGnQEdoLq3mGCf/h24tiGZAdh8SxhihSXLZGQza3uyzP83FNpZVH57ctMEAAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/14909107459"
+  },
+  "flickr_14931007544": {
+   "src": {
+    "1600": "web/1600/flickr_14931007544.webp",
+    "800": "web/800/flickr_14931007544.webp",
+    "400": "web/400/flickr_14931007544.webp"
+   },
+   "width": 1600,
+   "height": 1064,
+   "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAADQAwCdASoYABAAPu1mq04ppaQiMAgBMB2JaQABHu/frhZiMAXi6DAA/vwVDhtaaqBl1pmIYg6FbetPWW/rGrQumspNdXGKiZC/Fh1zpLvwO+3NSnruri8mKfwaM1NFAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/14931007544"
+  },
+  "flickr_41565990915": {
+   "src": {
+    "1600": "web/1600/flickr_41565990915.webp",
+    "800": "web/800/flickr_41565990915.webp",
+    "400": "web/400/flickr_41565990915.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABwBACdASoYABgAPu1mq06ppaOiKA1RMB2JaQAAL3hDOU8p/l6245zNTEkwAAD+838lprlgBEAaQQPAZJ18wS/P93clDSyO8cXgnJ9VeYa6iaOu8OVoRp92xDDCcj6md9lu92KIX1Dmwtf26O0y6SsZv5VJZpzphv1KV4gAAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/41565990915"
+  },
+  "flickr_16063956623": {
+   "src": {
+    "1600": "web/1600/flickr_16063956623.webp",
+    "800": "web/800/flickr_16063956623.webp",
+    "400": "web/400/flickr_16063956623.webp"
+   },
+   "width": 1064,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQBACdASoQABgAPu1iqU2ppaOiMAgBMB2JaQAAV7HfKRVFMXgBzzHnQAD+9DKoMIjNPbcfajBxfG3uOzB4jYkITbK/wjugRtbrtA3/bRykpUxMqrKt85E18EN9xpmVy9Po2C3PPYpWqZVMyAAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/16063956623"
+  },
+  "flickr_15274822831": {
+   "src": {
+    "1600": "web/1600/flickr_15274822831.webp",
+    "800": "web/800/flickr_15274822831.webp",
+    "400": "web/400/flickr_15274822831.webp"
+   },
+   "width": 1600,
+   "height": 1064,
+   "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAACQAwCdASoYABAAPu1iqU2ppaQiMAgBMB2JaQAAWyV39ce8fuD8AP7ehOkPfH2lpWahLHea7MGli/NGoMA6IgpS/S0l09rw5xqGooFpyUbZVEAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/15274822831"
+  },
+  "flickr_41566015565": {
+   "src": {
+    "1600": "web/1600/flickr_41566015565.webp",
+    "800": "web/800/flickr_41566015565.webp",
+    "400": "web/400/flickr_41566015565.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAQBACdASoYABgAPu1oqlAppaOiqA1RMB2JaQAAKdUKJLih0orN6DCGAAD+83t9B7ZacNt2dJBVluEpHqy7B132CNrfOellQR8nWinD2MeVzGHp1DmwhW5b8G367Q0AAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/41566015565"
+  },
+  "flickr_16490542203": {
+   "src": {
+    "1600": "web/1600/flickr_16490542203.webp",
+    "800": "web/800/flickr_16490542203.webp",
+    "400": "web/400/flickr_16490542203.webp"
+   },
+   "width": 1064,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwAwCdASoQABgAPu1iqU2ppaOiMAgBMB2JaQAAVWURFx4Qm6K0xLIAAP6su0M+wT9NPizQM400BxnknupPZalnhRc0AaXTxHOJKFagCierg3ldZzfAg4DGhkfN2VjMwNVzdrZhndkeJuQf/DDGLSRq8l0V9UPegAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/16490542203"
+  },
+  "2025-11-12_09-59-46_UTC_DQ88dqJCvS1": {
+   "src": {
+    "1600": "web/1600/2025-11-12_09-59-46_UTC_DQ88dqJCvS1.webp",
+    "800": "web/800/2025-11-12_09-59-46_UTC_DQ88dqJCvS1.webp",
+    "400": "web/400/2025-11-12_09-59-46_UTC_DQ88dqJCvS1.webp"
+   },
+   "width": 1080,
+   "height": 720,
+   "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZQC7ABoywIwEE2sNWLHdWAD+8N90jkQg3xaIsbEHIxeyR/YB3jieu4ldpCDjmkgJmAP4nFGXGAVNJEFkM1VPdY4qOM9DtvwCN5NcORiuKE0sdgAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-11-12",
+   "source_url": "https://www.instagram.com/p/DQ88dqJCvS1/"
+  },
+  "flickr_51722095698": {
+   "src": {
+    "1600": "web/1600/flickr_51722095698.webp",
+    "800": "web/800/flickr_51722095698.webp",
+    "400": "web/400/flickr_51722095698.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAAAwBQCdASoYABgAPu1qqVAppiOiqA1RMB2JQBWEH+AuVNd8nIbRae33BxNyNYxAr7LNoAD+8d6Xzk7nodh5xK91GelqJTvtN2PxWbeeLn/bOV8PWaQ6/NW+bwZyjOk5/0CK7k8Hg1Ew+sk5y3bcWCbJMTLqp5G0+6SvofRVFdTvwLQIapciMCUf0rkq3+Dz/T5tCE8aYxSxdzTEe2lBCZCDpTtAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/51722095698"
+  },
+  "flickr_19111368330": {
+   "src": {
+    "1600": "web/1600/flickr_19111368330.webp",
+    "800": "web/800/flickr_19111368330.webp",
+    "400": "web/400/flickr_19111368330.webp"
+   },
+   "width": 1103,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABwBACdASoRABgAPu1irFAppSQjMBgIATAdiWcAy2gPDGlccE1lcV0hrp85oAD+6kZRApppMxM0t/dtioLnePOZp8p1ys2VlqlxxSgu7+K0di6juL3bvxZcHdPztqaFYlluF1Oq/lBchliwW9FeisiGibv8HOtUzGAw7TGY47BEBxrgqvAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/19111368330"
+  },
+  "flickr_27448777213": {
+   "src": {
+    "1600": "web/1600/flickr_27448777213.webp",
+    "800": "web/800/flickr_27448777213.webp",
+    "400": "web/400/flickr_27448777213.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADwBACdASoYABgAPuVgpk2pJaOiN/VYASAciWUAUwADyUKmFhGFTp33/abP6aWE0QAA/vNwCnhMKrsGjYWT+HwtP2MrRNhGSS5UyDd1/P2du8tBronMuta95L6sDQV2d8BXy2om3XdE4KdWeVVnd2whjpTdQCIOGn/V/uJcgAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/27448777213"
+  },
+  "flickr_51316617171": {
+   "src": {
+    "1600": "web/1600/flickr_51316617171.webp",
+    "800": "web/800/flickr_51316617171.webp",
+    "400": "web/400/flickr_51316617171.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAABwBACdASoYABgAPu1mqk8ppaOiKA1RMB2JZQDImBESadxY56sXSvU66xPDgAD+83AdUWD5e/Sw6t7YLeMQDDD7quOm6ibfImofsXQqZt6GRg2K3oebgPTDFyhcpJxJTkAbEBODknT3d6RjI5886IpEQqWiEX9nA7E8C8ZVN/um0zeuJdCFaUGRXT7cAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/51316617171"
+  },
+  "flickr_27861168783": {
+   "src": {
+    "1600": "web/1600/flickr_27861168783.webp",
+    "800": "web/800/flickr_27861168783.webp",
+    "400": "web/400/flickr_27861168783.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAACwBACdASoYABgAPu1oqk+ppiOiKA1RMB2JZwDNSBEeBb1LrCHHWiGj2NJwnxAAAP7zb3bLefjeda6NI8wJBVf/vLBgMTeHfCLFZMUyc4yunRyDh6YwvxdND/3504Ao/s55gts5iiqDWRfboN67onBUtXK1tcti/+g2pfGGRXd+ulYA9mHZ5pBBbfAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/27861168783"
   },
   "flickr_18121757224": {
    "src": {
@@ -177,402 +922,147 @@
    },
    "width": 1600,
    "height": 1064,
-   "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQBACdASoYABAAPrVKn0onJCKhsAgA4BaJQBOmUABWfv/Zc4pnG60+JM1AAP7RJAdvodBNZZbHOBQKIfkQ8i+Hl81b7kJSuu9BKIzikhQI2Hkv4HzFA9yHfL263+tU2ke2gm7wP5ktpF7ODA4ILKDBVnuAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRqoAAABXRUJQVlA4IJ4AAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYgCdABrgPQ0lvmyXqqfAb3AAAP6qsOJt3ntfJg9BEvmidl32N4kY8wgR6QEwGFIGeYjLksHDCZjwc1UKgwhsD02xe0SDc98kgR1QZdInTVRjf6xd4UP6ub062pIz75++8hieiOcpf1SqFTzP6ziA1GfJ3fV9M0el9iiN30nY59z0yMgAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
    "source_url": "https://www.flickr.com/photos/prunak/18121757224"
   },
-  "flickr_19808987399": {
+  "2026-06-10_09-00-15_UTC_DZZklgigD3__3": {
    "src": {
-    "1600": "web/1600/flickr_19808987399.webp",
-    "800": "web/800/flickr_19808987399.webp",
-    "400": "web/400/flickr_19808987399.webp"
+    "1600": "web/1600/2026-06-10_09-00-15_UTC_DZZklgigD3__3.webp",
+    "800": "web/800/2026-06-10_09-00-15_UTC_DZZklgigD3__3.webp",
+    "400": "web/400/2026-06-10_09-00-15_UTC_DZZklgigD3__3.webp"
    },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADwBACdASoYABgAPrVGnEmnI6KhMBgMAOAWiWkAAC5s/Zko2wj2OVzte3frS6+t9QAA/vfmiCIYf9MG8p3auGoaP6lstt7oFeCdL+ckO+AIno7tM6xetToWcsOsR5crc6Ao+KMTl7hZfIPSVwAAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "width": 1080,
+   "height": 1440,
+   "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAADQBQCdASoSABgAPu1grFAppKQisBgIATAdiWoAnTLrsYAlyiaIPQQhMm8Yv2gZb9jKUJR8nebYAP7gyy6OfvknTDnbCesbS/zbyD8O6dGgz1V2HTIw/bVaruRXLGQPUdkp3c32v0f8m2Y3a4QsKwNhoBuaWMU5z1aEV7QGn79oRDvqz3/FNlxExCX58wD0+8P1vyF6HxHOOr6xd96hH5TVwfXvKpgoAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/19808987399"
+   "date": "2026-06-10",
+   "source_url": "https://www.instagram.com/p/DZZklgigD3_/"
   },
-  "flickr_21728964326": {
+  "2025-09-15_09-44-12_UTC_DOnkk3OCj9e_1": {
    "src": {
-    "1600": "web/1600/flickr_21728964326.webp",
-    "800": "web/800/flickr_21728964326.webp",
-    "400": "web/400/flickr_21728964326.webp"
+    "1600": "web/1600/2025-09-15_09-44-12_UTC_DOnkk3OCj9e_1.webp",
+    "800": "web/800/2025-09-15_09-44-12_UTC_DOnkk3OCj9e_1.webp",
+    "400": "web/400/2025-09-15_09-44-12_UTC_DOnkk3OCj9e_1.webp"
    },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAQBQCdASoYABgAPrVSn0snJSKhsBgIAOAWiWUAtOgRd8jVrnT7503uw43JdfILuM8AAP74FCR0xJP8D6fXgV9Zxdg+uoClVucn4/7uEvVZs/gIGU20pyfi8IQ1ZbW9yO3xv/7YCQmiqOzRzVCm0Teu3rtgLVK0U0TsEAAA",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "width": 1080,
+   "height": 1080,
+   "blur": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAAAwBQCdASoYABgAPu1kqU2ppaQiMBgMATAdiUAYapU4KvJ12Dt8Vd6YJtheMY/uVNuPYAD+9JGZ91W+ZApu/XpFqpHiebhDcYI+Plw3If7715WjOXfFtqL/FlGhzqOP0TN80GzIai2cl1NUShVt5KKqp8foB+L0JG8s+yjwSS7nvPf0/q4HU6PQAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/21728964326"
+   "date": "2025-09-15",
+   "source_url": "https://www.instagram.com/p/DOnkk3OCj9e/"
   },
-  "flickr_24022716086": {
+  "2026-01-28_06-24-08_UTC_DUC0_tnjL02_3": {
    "src": {
-    "1600": "web/1600/flickr_24022716086.webp",
-    "800": "web/800/flickr_24022716086.webp",
-    "400": "web/400/flickr_24022716086.webp"
+    "1600": "web/1600/2026-01-28_06-24-08_UTC_DUC0_tnjL02_3.webp",
+    "800": "web/800/2026-01-28_06-24-08_UTC_DUC0_tnjL02_3.webp",
+    "400": "web/400/2026-01-28_06-24-08_UTC_DUC0_tnjL02_3.webp"
    },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAACQBACdASoYABgAPplCmEmlpCKhN+gAsBMJYgAAiMJFVxC6vTe8r80XZQ2ORwAA/vqpB2vpUaZmapkZM+Kt3uVMXuIjSuLyMzIM4Kut3e3acQhqldsNpwH72/YKolNdSDwNrMqn0d6b302akioqJg8KelpZAAAA",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "width": 1080,
+   "height": 720,
+   "blur": "data:image/webp;base64,UklGRmAAAABXRUJQVlA4IFQAAADwAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JZwCuHCHfuNP/elB6Q8AAAP7qdG6UNCdDikwIuLga1jT8QS00RFGmObRmUvW+5knT8hdBP9i2MUHGwAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/24022716086"
+   "date": "2026-01-28",
+   "source_url": "https://www.instagram.com/p/DUC0_tnjL02/"
   },
-  "flickr_24042950952": {
+  "flickr_39715707293": {
    "src": {
-    "1600": "web/1600/flickr_24042950952.webp",
-    "800": "web/800/flickr_24042950952.webp",
-    "400": "web/400/flickr_24042950952.webp"
+    "1600": "web/1600/flickr_39715707293.webp",
+    "800": "web/800/flickr_39715707293.webp",
+    "400": "web/400/flickr_39715707293.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADQBACdASoYABgAPrVIoUmnJCOhMBgMAOAWiWUAtQiTwYFN7lgIjEyIYeNh5GT7kAD+9+nE96vApsek2K+gGfSPHxeAaqe29amaqHZ23X8ureIzXx9R89QFTy51BNLnJLj8NU3YTM7FvdbUPonAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAADQBACdASoYABgAPu1qrlCppaQiqAqpMB2JZgCdINiBhJ3/QlVygV3mQaBA3IxQAAD+83AnFE1Dw+2JBD52QSIc4reTP/pby4g0/mm2b/s+cW/r6iXlRwh7RCe3eJ088pmjxCmRkdrEvWyh+24VaGpt06YhFutQtbvEzYgzFvXQvKX2KaOZYAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/24042950952"
+   "source_url": "https://www.flickr.com/photos/prunak/39715707293"
   },
-  "flickr_24782813149": {
+  "flickr_23495360764": {
    "src": {
-    "1600": "web/1600/flickr_24782813149.webp",
-    "800": "web/800/flickr_24782813149.webp",
-    "400": "web/400/flickr_24782813149.webp"
+    "1600": "web/1600/flickr_23495360764.webp",
+    "800": "web/800/flickr_23495360764.webp",
+    "400": "web/400/flickr_23495360764.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASoYABgAPrVSoUwnJKMiKA1Q4BaJZwAAvdNW65cZ83sbWIMULOGeGAAA/vx5Mko/NmfwH6TWy2D36uBKh8jvNg2GnP4UQZSBcy3T+LFN+10D+qCQuDuFMcbzclWoAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAABQBACdASoYABgAPu1mqk8ppaOiKA1RMB2JaQAAL/uQuHhuE8UOL/Z85RgAAP7zdz1GZ0Ic54B+KxfsI7fIePZ/j/eZ8Hw1yOZUGUJpKit2UExiT5XL3u6sZqQl0iixOU+kBJa6dZ1aUE13KCz+si7TugG1vHeMkkx0X6qyrKN8xoEA5pZClowoDPa9K8+dHRwEZNYNOuXKDJoeJBiIAAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/24782813149"
+   "source_url": "https://www.flickr.com/photos/prunak/23495360764"
   },
-  "flickr_25271961628": {
+  "2025-12-05_12-10-26_UTC_DR4ZsxJCt3b_1": {
    "src": {
-    "1600": "web/1600/flickr_25271961628.webp",
-    "800": "web/800/flickr_25271961628.webp",
-    "400": "web/400/flickr_25271961628.webp"
+    "1600": "web/1600/2025-12-05_12-10-26_UTC_DR4ZsxJCt3b_1.webp",
+    "800": "web/800/2025-12-05_12-10-26_UTC_DR4ZsxJCt3b_1.webp",
+    "400": "web/400/2025-12-05_12-10-26_UTC_DR4ZsxJCt3b_1.webp"
    },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAADwBACdASoYABgAPrVEnkmnI6KhN/VYAOAWiWcAAC3q3r6pPD9Fb98Fe8S36B2lFIAA/viydT9jMz175ds/OVsbbgy8wOzm1uqAYooZbJkWVkpxY82CN6vJfXU6vcah77VUVGY0Gjn96wYAHmnkqpZsKYkyKAAA",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "width": 1080,
+   "height": 720,
+   "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAABwAwCdASoYABAAPu1iqU2ppaQiMAgBMB2JYwC06BVdXBdC1nAA4RMs2YyGDE8gwVAv8LIR8nyvcsPmIRPavuQx/5eoXu/wBCMEHZOXOHZO9JFtxZAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/25271961628"
+   "date": "2025-12-05",
+   "source_url": "https://www.instagram.com/p/DR4ZsxJCt3b/"
   },
-  "flickr_25608223902": {
+  "flickr_16138916316": {
    "src": {
-    "1600": "web/1600/flickr_25608223902.webp",
-    "800": "web/800/flickr_25608223902.webp",
-    "400": "web/400/flickr_25608223902.webp"
+    "1600": "web/1600/flickr_16138916316.webp",
+    "800": "web/800/flickr_16138916316.webp",
+    "400": "web/400/flickr_16138916316.webp"
    },
    "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwBACdASoYABgAPrVWpE2nJKOiKAgA4BaJYgC+aP8HvzMWt3daPvhH8O22g7YPXQAA/v4xzl39MO1m3i8lEwYIndadlVUqAMXAJQQHPJ1SvaUT4OqFUiihPGaibyqhfYljaQGR84CbxnAA",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "height": 1064,
+   "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZwAFEAHpAkG6SvVcpEFMAAD7Evu8iMFiPlyPCwLa/AlYv2+UNO+l9XadtRvoIdOgj5Bly59g1UxFH/xr2o3NkvbH3oumOEwcdE8SURVcTz16/b3sKGhUyqsT+Q7Sl60JrSnUzJY+a3OuaRcE/DjD7raN6FAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/25608223902"
+   "source_url": "https://www.flickr.com/photos/prunak/16138916316"
   },
-  "flickr_26641177895": {
+  "2026-01-13_11-41-07_UTC_DTcxWLmCgfb_6": {
    "src": {
-    "1600": "web/1600/flickr_26641177895.webp",
-    "800": "web/800/flickr_26641177895.webp",
-    "400": "web/400/flickr_26641177895.webp"
+    "1600": "web/1600/2026-01-13_11-41-07_UTC_DTcxWLmCgfb_6.webp",
+    "800": "web/800/2026-01-13_11-41-07_UTC_DTcxWLmCgfb_6.webp",
+    "400": "web/400/2026-01-13_11-41-07_UTC_DTcxWLmCgfb_6.webp"
    },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRpYAAABXRUJQVlA4IIoAAAAQBQCdASoYABgAPrFInUmnJCKhMBgMAOAWCWUAyywQ77ZIgB3D2+wH8y/BrfVxEaqAAP74rhBBx1X6wSvJ8cN2ySJDy+6RL6Dd9zxt3GjuexEO+ZuUZI1j+kqzXwdQDI/JuR+0vxzyrWYAJ1b2Kz9UGnBhQEhs3895+7cb/wnezI1DpQ5RRoMAAAA=",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "width": 1080,
+   "height": 1440,
+   "blur": "data:image/webp;base64,UklGRrwAAABXRUJQVlA4ILAAAADQBQCdASoSABgAPu1ur1IppiQiqAgBMB2JYwDB0AgAsYsWSA+Q5Gp6LUzZyyAxFdQ5URofDd6AAP5n2Q0Bguci+vuVALgyJGKkIrJobAjY4bky5j+aIavwB4RPJQl2jx7ZOIaCOb8QGGJtM/Y78Vmnf+T9/rCxYBgoGahRN/NaUQPpwXpZBYqb7vzR/udJFj4f6LyJCfU+tTEjRL2WmsUfxbP2GsYnc31ey1nNPh8AAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/26641177895"
+   "date": "2026-01-13",
+   "source_url": "https://www.instagram.com/p/DTcxWLmCgfb/"
   },
-  "flickr_28489738112": {
+  "flickr_31984292786": {
    "src": {
-    "1600": "web/1600/flickr_28489738112.webp",
-    "800": "web/800/flickr_28489738112.webp",
-    "400": "web/400/flickr_28489738112.webp"
+    "1600": "web/1600/flickr_31984292786.webp",
+    "800": "web/800/flickr_31984292786.webp",
+    "400": "web/400/flickr_31984292786.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAACQBACdASoYABgAPplCmEmlpCKhN+gAsBMJaQAAe0P/E8MA/QplgwEnPVq+HAAA/vqtxiqYt03yBqPZzNZax+oxzI23rNq7Oo+Fd8dlxwL3oYCTiAzLorn5cMEJUxYFkYLVXz7zsAAAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAACQBACdASoYABgAPu1qqVAppiOiqA1RMB2JaQAD5Yj2Ik+YtIT7BkibWbdKngAA/vOCgRndLZVG6H2DVc/oGImdTUnuiVbEmlJyBPkk2yvaanHLGI3RaYtlk+Qbvwre4jzyqlD0peib8JGm3GkLjaAIOPrF+vkF5C1EMtfmHhQD1yeg6odKgY48oCKIAAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/28489738112"
-  },
-  "flickr_28571683786": {
-   "src": {
-    "1600": "web/1600/flickr_28571683786.webp",
-    "800": "web/800/flickr_28571683786.webp",
-    "400": "web/400/flickr_28571683786.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAAAQBQCdASoYABgAPrVIoEunI6MhsBgIAOAWiWkAAC5p2gUALS9+/aclwjHMHKmjtRAAAP736cW7a4FZJRlDFRNE9SV65Lglfry963xvqeo5Rd64p9Pt//lXzLrnOr4okwbwyUG4MZ1whTS+D7/NAK1illqdqJaAAAAAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/28571683786"
-  },
-  "flickr_28578340024": {
-   "src": {
-    "1600": "web/1600/flickr_28578340024.webp",
-    "800": "web/800/flickr_28578340024.webp",
-    "400": "web/400/flickr_28578340024.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACwBACdASoYABgAPrVGnkmnI6KhN/VYAOAWiWkAAClT8wwPVKLcz7JdL67ZERlwAP74uminwdh88Sv4j753lF/8aloV+AVHKpILFIORYv8+atqPLezSeA1CO2tgSAAA",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/28578340024"
-  },
-  "flickr_28820373074": {
-   "src": {
-    "1600": "web/1600/flickr_28820373074.webp",
-    "800": "web/800/flickr_28820373074.webp",
-    "400": "web/400/flickr_28820373074.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQBACdASoYABgAPrVIoUunI6MhsBgIAOAWiWkAAC5pwK+2VnrvVvdhpL/EsaCFgAD++K/h+JMQ9cFilLbUPhsZsHhBTfV+7I8ncmcyxWBoFePsQXKL212Arusd+HzgWr8Re+Ca+o4GSpDqJ0nb3jgQAAAAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/28820373074"
-  },
-  "flickr_29185327113": {
-   "src": {
-    "1600": "web/1600/flickr_29185327113.webp",
-    "800": "web/800/flickr_29185327113.webp",
-    "400": "web/400/flickr_29185327113.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACwBACdASoYABgAPrVEnkmnI6KhMBgMAOAWiWkAACnTtwLn7/vDjpHWwW4dpagAAP74tnZr+7G8HMHimBLmZiG9sBG8vURkTh9L5O3HfwVL4hB5/Mhv45LzBKOb62xj14aGwkRNnYQpDZVQ8Y+fdCAAAAA=",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/29185327113"
-  },
-  "flickr_29533491316": {
-   "src": {
-    "1600": "web/1600/flickr_29533491316.webp",
-    "800": "web/800/flickr_29533491316.webp",
-    "400": "web/400/flickr_29533491316.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAADQBACdASoYABgAPrVKoEsnJCMhsBgIAOAWiWkAAC5jO/XLcq9h4u/+kJN3wrXGYAD+9+hYW0dv492Guv+DO+3bjv9V2VSKXcCxOdHJnvs98VWmNuaRy//f+j1Vod3EoxDIG8Ps4FqpwHBUbdPqoCYBhGylz2UEcAAAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/29533491316"
-  },
-  "flickr_30961873075": {
-   "src": {
-    "1600": "web/1600/flickr_30961873075.webp",
-    "800": "web/800/flickr_30961873075.webp",
-    "400": "web/400/flickr_30961873075.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwBACdASoYABgAPq1GnUmmI6KhN/VYAMAViWoAy6RFV2SDCkudGZdVKQzwAvTnpYAA/vumRJb9Bjzg9yYOSYz7E5zseBGLz+8IdbInE+Q3czdwRr+vblM5RuMuySuvYPaz3gg3rOyaw8oLhwTncl+vzRkYnwMkwAA=",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/30961873075"
-  },
-  "flickr_31392818580": {
-   "src": {
-    "1600": "web/1600/flickr_31392818580.webp",
-    "800": "web/800/flickr_31392818580.webp",
-    "400": "web/400/flickr_31392818580.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABQBQCdASoYABgAPrVMoEqnJCMhqA1Q4BaJYgCxCYqgYQ70Nfei4WQvWgOet9RfSq9mMEAA/viwW1Vi6rUGDozpWTd9ZoGPfZgQTgxRE6CNN0vnIBure/d9PK4ablaAU5ggxoPLGBuxnE46whMnsMmML4KXwdnXHkRfWmAtvVXINzul0WgAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/31392818580"
-  },
-  "flickr_31678896248": {
-   "src": {
-    "1600": "web/1600/flickr_31678896248.webp",
-    "800": "web/800/flickr_31678896248.webp",
-    "400": "web/400/flickr_31678896248.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACwBACdASoYABgAPqlGnEmmJCMhN/qoAMAVCWcAAFue7UfGaDTw9Gwmj25CHowAAP75a9LBdr67AwgMissiL2KQjDjdr/VvMniWUspUs4x9scMdGSviJQSsrFnFdA1PQehsAAAA",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/31678896248"
-  },
-  "flickr_31771472817": {
-   "src": {
-    "1600": "web/1600/flickr_31771472817.webp",
-    "800": "web/800/flickr_31771472817.webp",
-    "400": "web/400/flickr_31771472817.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACQBACdASoYABgAPrVMoUqnJCMhsAgA4BaJQBYhhshgU3u6CcVRpuGL5MBbAAAA/vivNd+Qi81VRaBrtXcdUgC0+y7qhhb0wK43dIVRmifuowic+Gim8okUNMvMxLc9poyZ0Qp9p0SPS2gAAAA=",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/31771472817"
-  },
-  "flickr_32257648233": {
-   "src": {
-    "1600": "web/1600/flickr_32257648233.webp",
-    "800": "web/800/flickr_32257648233.webp",
-    "400": "web/400/flickr_32257648233.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAwBQCdASoYABgAPrVMoEsnJCMhqA1Q4BaJYgC06A9ok7gVYdjd7HhpZ9f55f18LR6uAAD++LpbtOIXLz0Qmn7piNS3TGQpgrtchRoKvUe5lkW/ZuZeNhcw+fAaQGqZuJAt9yBSbFrNVw5oLcp4zMiMDrD6TW8lwVpLoVSHoaKx3KJcKAA=",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/32257648233"
-  },
-  "flickr_32306347314": {
-   "src": {
-    "1600": "web/1600/flickr_32306347314.webp",
-    "800": "web/800/flickr_32306347314.webp",
-    "400": "web/400/flickr_32306347314.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABwBACdASoYABgAPrVMoUqnJCMhqA1Q4BaJaQAALmmzGWsqziSt148/3hDkIAD++LBFOo6s4wEPtOSDnUJZObuSjbBGpyUZ/Y+FeRRb6N+8RJZvjlqdniQMFopongt3vAAAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/32306347314"
-  },
-  "flickr_33381476686": {
-   "src": {
-    "1600": "web/1600/flickr_33381476686.webp",
-    "800": "web/800/flickr_33381476686.webp",
-    "400": "web/400/flickr_33381476686.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAAAQBQCdASoYABgAPrVQo0ynJKMiKAqo4BaJQBhqp3ArqI+ZIik1Ak1rp+KCiRWVaj8AAP74umdqnDO5hoPdsbmbnW7fQfxqs2GgoolQRbWQMXudqjE/9vjVX4hFf1oLrqpen/8MV0tE4k1/uUhfmwDS2b7ZdXN0ObGtRTKcmAFV7d4AAAA=",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/33381476686"
-  },
-  "flickr_33420408804": {
-   "src": {
-    "1600": "web/1600/flickr_33420408804.webp",
-    "800": "web/800/flickr_33420408804.webp",
-    "400": "web/400/flickr_33420408804.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAABwBACdASoYABgAPrVCrVanIqSklADgFolnAAAu6cF6xS4ks+zlKd/ZfDTtQAD++LBkccDBFhD2B+yRFj/+D6cMl4iyGBx/XzwewsToeHek+KAA",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/33420408804"
-  },
-  "flickr_34611144650": {
-   "src": {
-    "1600": "web/1600/flickr_34611144650.webp",
-    "800": "web/800/flickr_34611144650.webp",
-    "400": "web/400/flickr_34611144650.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADQBACdASoYABgAPrFIn0mnJCMhMBgMAOAWCWcAw6wQ7+BPXS0jSnaV6G8TrDl80AD++Lhg0lEwK0S+ueE8bKvXHSmepbjuBtwXjmvtglxGnF3/OtON2oG8A2ZWvN50SVCAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/34611144650"
-  },
-  "flickr_35321602491": {
-   "src": {
-    "1600": "web/1600/flickr_35321602491.webp",
-    "800": "web/800/flickr_35321602491.webp",
-    "400": "web/400/flickr_35321602491.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACwBACdASoYABgAPrVOoEsnJCMhqA1Q4BaJaQAALnCrESFBa9pm9am7+G7I1QAAAP736eXQtVNkOzRqx/Bcn1Ui+sPriLu/ywyevEKqw6S+XH/8NWjLepvvijcxfe7yp7tX4xr0HHyKJGwWChOjRm2Zy8ZYG2+SbBgAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/35321602491"
-  },
-  "flickr_36445767685": {
-   "src": {
-    "1600": "web/1600/flickr_36445767685.webp",
-    "800": "web/800/flickr_36445767685.webp",
-    "400": "web/400/flickr_36445767685.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAABQBACdASoYABgAPrVQoEwnJKMiKAqo4BaJQAAj3WbhkV5rY82pPG5fUUOAAP7+lUxlyPe7tWemONjIzLpg48cQ+nUDt1kghrB3bHMUOH+Sr63nEzkmCXQAV0OY96TQuG6ppbbHAmTi9L2/Q67wJAUJtAAAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/36445767685"
-  },
-  "flickr_37437810630": {
-   "src": {
-    "1600": "web/1600/flickr_37437810630.webp",
-    "800": "web/800/flickr_37437810630.webp",
-    "400": "web/400/flickr_37437810630.webp"
-   },
-   "width": 1600,
-   "height": 1600,
-   "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwBACdASoYABgAPrVGnUonI6KhsBgMAOAWiWkAAC5pvqQs0ijmuPGVyxClt5g4vgAA/viwawdWDV20fSG2Vphfx497qxNM/a6D5HsjVFUXukOnPjO1/b5d9gP7bdBg69S4rFT+q0x4AAAA",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/37437810630"
+   "source_url": "https://www.flickr.com/photos/prunak/31984292786"
   },
   "flickr_38684222970": {
    "src": {
@@ -582,282 +1072,642 @@
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAABQBACdASoYABgAPrVKnUmnJCKhMAgA4BaJaQDPoB6Q/r6MhooWWbzh/wAAAP74unQEHOwCN2Kk7XFL/JPsT5ei4Gp3+0rIVsX3j+xlXm3VcphOXODth7Kj9KH4AAAA",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRnwAAABXRUJQVlA4IHAAAADwBACdASoYABgAPu1mrE+ppSQiMBgIATAdiWcACwBHABHpuaymG350Xr0UHWuaAAAA/vOCz+6ER7PLpPfeEWPQ89gbsF8OtlMCb60QI+BHRZ7y3zXJVXr1uQFqXRCKqFxf6x3U2cTIJA0iR9aSgAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
    "source_url": "https://www.flickr.com/photos/prunak/38684222970"
   },
-  "flickr_38697369875": {
+  "flickr_15551591884": {
    "src": {
-    "1600": "web/1600/flickr_38697369875.webp",
-    "800": "web/800/flickr_38697369875.webp",
-    "400": "web/400/flickr_38697369875.webp"
+    "1600": "web/1600/flickr_15551591884.webp",
+    "800": "web/800/flickr_15551591884.webp",
+    "400": "web/400/flickr_15551591884.webp"
+   },
+   "width": 1064,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRnoAAABXRUJQVlA4IG4AAADQAwCdASoQABgAPu1mqk2ppaQiMAgBMB2JQBOgBDlusQyXlWItKoAA/E0GXpVQLJd0fZast4MBuPKkEw4fEkY+0jfE8DUEihOzoUlDMfrOqJgB3Ekt11DNTfJ7qTA07zWuFhIf1jS0LRC5ZpOAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/15551591884"
+  },
+  "flickr_32231638175": {
+   "src": {
+    "1600": "web/1600/flickr_32231638175.webp",
+    "800": "web/800/flickr_32231638175.webp",
+    "400": "web/400/flickr_32231638175.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAACQBACdASoYABgAPqVCm0mmI6KhN/qoAMAUiWkAAFu1Ytyl2GoR/Ab8oZJkKAAA/voRFS/+6nwZt3Ul3zj0+/6Zjt1/2A1Z1YyMpldNSVaAKmie7GcwDINN2+CWbnVLIX1AAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAABwBACdASoYABgAPu1oqU+ppaOiKA1RMB2JaQAALmzNucCZs9ltXM7b9DDUAAD+82yfywTT80E/Wn5MXZfxjMkO9eJWiob6x1JkRL1SDsNxo68L4PM6AC1Rp5hLhO91LhfF8QHxwz83cZbRf2n3gAGhdoqShhkBDsNp46kJ82EcJvLKAsxYS89QahAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/38697369875"
+   "source_url": "https://www.flickr.com/photos/prunak/32231638175"
   },
-  "flickr_39086327755": {
+  "2026-03-16_16-34-10_UTC_DV88J6EiquQ": {
    "src": {
-    "1600": "web/1600/flickr_39086327755.webp",
-    "800": "web/800/flickr_39086327755.webp",
-    "400": "web/400/flickr_39086327755.webp"
+    "1600": "web/1600/2026-03-16_16-34-10_UTC_DV88J6EiquQ.webp",
+    "800": "web/800/2026-03-16_16-34-10_UTC_DV88J6EiquQ.webp",
+    "400": "web/400/2026-03-16_16-34-10_UTC_DV88J6EiquQ.webp"
+   },
+   "width": 1080,
+   "height": 720,
+   "blur": "data:image/webp;base64,UklGRqQAAABXRUJQVlA4IJgAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JaQAOcAP96D3aEn5vAQvm44AA/sXQgyFhA/miYvJ3OB3WnQm4OQdAHOfCy7hjulJ7OYIJ3QUgdRCf6mwBdZPxTsdjNFf8Irj7jIWYCm4kvoJEsINLJIk2/EWNBlfGgajeFcUrjB3uTx99JyChl6WWAVak5Lep+aGHV7GhoQAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2026-03-16",
+   "source_url": "https://www.instagram.com/p/DV88J6EiquQ/"
+  },
+  "flickr_16537240823": {
+   "src": {
+    "1600": "web/1600/flickr_16537240823.webp",
+    "800": "web/800/flickr_16537240823.webp",
+    "400": "web/400/flickr_16537240823.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRo4AAABXRUJQVlA4IIIAAADwBACdASoYABgAPrVQn0unJKKhqA1Q4BaJYwC/WOZBhBowKgTVjlLdk+9/AD20OLwA/viwRLZUrdTd6SK+lwyCTazqNNA4o7CissjpTlqtiFQ0K0s9wsdz57Zb2LI8Wsr2wx4kM6PyZvHiDO5u1GvmeJBSHgoaYx/uqq+oqpRRZAAA",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRqAAAABXRUJQVlA4IJQAAABwBQCdASoYABgAPu1wrVEppqQiqAqpMB2JZQDLLDTurreQ7R1sFpSFa5oJd6XqsoNx7kgAAP70NIL/tGl6Xur/TGwy8jP3oGAtZ8/iME1p8T+1OMzf8HrokS54t61WBAG8SUHrf9smwiW2AzVy4kGrS71/XybmLPmBsfGKE326sR05/gogltowHu+xxQRh6AYyAAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/39086327755"
+   "source_url": "https://www.flickr.com/photos/prunak/16537240823"
   },
-  "flickr_39126725584": {
+  "2026-08-03_12-31-07_UTC_Dbk_pKmgJSu_4": {
    "src": {
-    "1600": "web/1600/flickr_39126725584.webp",
-    "800": "web/800/flickr_39126725584.webp",
-    "400": "web/400/flickr_39126725584.webp"
+    "1600": "web/1600/2026-08-03_12-31-07_UTC_Dbk_pKmgJSu_4.webp",
+    "800": "web/800/2026-08-03_12-31-07_UTC_Dbk_pKmgJSu_4.webp",
+    "400": "web/400/2026-08-03_12-31-07_UTC_Dbk_pKmgJSu_4.webp"
+   },
+   "width": 1080,
+   "height": 1439,
+   "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAADwBACdASoSABgAPu1ur1IppiQiqAgBMB2JaQAAKfZZLr1W2fNzx7/5FAX/pihANAAA/TZxdvGMgUswxPaHRPPFMuxJFqy69K2BTPZ6t3kFnfc1DwxV1d/YvsyW8BUIRWwNPaKxL4gavFG7ar9BWrIhQo0Mef6f131pyMqd+7O2zkSxYiX6r26X2lor65f12Oc4jrPQo/bRmRmqk8ovuricEE+AAAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2026-08-03",
+   "source_url": "https://www.instagram.com/p/Dbk_pKmgJSu/"
+  },
+  "2025-07-25_09-11-02_UTC_DMhncc4MYe7_1": {
+   "src": {
+    "1600": "web/1600/2025-07-25_09-11-02_UTC_DMhncc4MYe7_1.webp",
+    "800": "web/800/2025-07-25_09-11-02_UTC_DMhncc4MYe7_1.webp",
+    "400": "web/400/2025-07-25_09-11-02_UTC_DMhncc4MYe7_1.webp"
+   },
+   "width": 1080,
+   "height": 810,
+   "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAABQBACdASoYABIAPu1gq1AppSOisBgIATAdiWkAAB9pjfm0ESwvqkBINXMAAPKDW+njAfin5eR+BkLYbKVn+dP29nN4ZUBk7c0eW1m3Oc+Fj41uOckYfXrf3D5orpQR5SzAyYbM3kBBc/ccYCzEv2MbcNQLCJpt6lH4AA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-07-25",
+   "source_url": "https://www.instagram.com/p/DMhncc4MYe7/"
+  },
+  "flickr_37923854075": {
+   "src": {
+    "1600": "web/1600/flickr_37923854075.webp",
+    "800": "web/800/flickr_37923854075.webp",
+    "400": "web/400/flickr_37923854075.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBQCdASoYABgAPrVInUonJCKhsBgMAOAWiWMAwoAQ67jJvor5LoB2yLh4emPwzGkouAAA/viwRT+coe6LlK3/O4+CjtmeyX5DiUrRzeNAFiBGbmwzB484GSwTuxkxLKr2pCK/3o6B58j0tlw1RX2ccl9uX5/34Xvu4C2gV5K/zQUGhONqpzGvP5kvbaIEVMAAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABwBACdASoYABgAPu1qqFAppiOiqA1RMB2JaQAAKdTeVqK9UuDskY9ydkZnAAD+83dOZsW6fRQKBsnQYA8eOZxVqdtjlFa4X+pIwwwkmwNengjXAsROLH7I0LEJvBSVUl3JQeB3ijnCOeO45tiJnx565T6opeVvjwoQeZ29cSjURmJ0IAAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/39126725584"
+   "source_url": "https://www.flickr.com/photos/prunak/37923854075"
   },
-  "flickr_39484688382": {
+  "flickr_26458806856": {
    "src": {
-    "1600": "web/1600/flickr_39484688382.webp",
-    "800": "web/800/flickr_39484688382.webp",
-    "400": "web/400/flickr_39484688382.webp"
+    "1600": "web/1600/flickr_26458806856.webp",
+    "800": "web/800/flickr_26458806856.webp",
+    "400": "web/400/flickr_26458806856.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAADwBACdASoYABgAPrVQoUqnJSMhsBgIAOAWiWcAAC5wqy+aXfsvKeaQTtNOnUNXoLAA/vfmebs8xlSfmtfrbFLWLeicM/tHlThXnrY+KYzlQJGx4GDF6BNbKvBC/ekQf2rKihJqTn+ub4oIR/drxA6ZRrJ0om0/AAA=",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAAAwBACdASoYABgAPu1oqU+ppiOiKA1RMB2JaQAALmnOlEX6lua0WM25SAAA/vNv/tSxskN+OvhH9mH160+l7tWlXifmiuDV29J0OGT0Un7Xq7/96qnlj4ilhaNN+XuWgejGfExUjPxaszIV/DWog4/4j4W94L+wThNQAAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/39484688382"
+   "source_url": "https://www.flickr.com/photos/prunak/26458806856"
   },
-  "flickr_39564126122": {
+  "flickr_35325078855": {
    "src": {
-    "1600": "web/1600/flickr_39564126122.webp",
-    "800": "web/800/flickr_39564126122.webp",
-    "400": "web/400/flickr_39564126122.webp"
+    "1600": "web/1600/flickr_35325078855.webp",
+    "800": "web/800/flickr_35325078855.webp",
+    "400": "web/400/flickr_35325078855.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADQBACdASoYABgAPrVOoUmnJKOhMAgA4BaJQBm4A9IHnKKZ/rYOwFFHf9bOzAMVgAD++Lpa2kDYvo/QCwGkCy33AS6rNkjKY7yUlV6xWfgzb+osn+Ylf2zafid24CbPraH90dgXt2u80kBg2dLA190LOWtDf6JzOz5RpF/PbQoGS91v+xzAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAABQBACdASoYABgAPu1srFEppiQiqAqpMB2JQBkiAiMJIB6UEe2pyRXq1DYAAP7zcBn3nTLFFKxcOnPP2xLq4SiZZP03gOFO5eGky+hYNza3awLR/o56COTdwJQbF1WVnKgzeeqrZpp6VN6qwZJyk9up/tnoIZAUqk4PcA3ypF2m6sLxKzovmIuqKR8Ryv7FV72AAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/39564126122"
+   "source_url": "https://www.flickr.com/photos/prunak/35325078855"
   },
-  "flickr_39606765290": {
+  "flickr_51176891765": {
    "src": {
-    "1600": "web/1600/flickr_39606765290.webp",
-    "800": "web/800/flickr_39606765290.webp",
-    "400": "web/400/flickr_39606765290.webp"
+    "1600": "web/1600/flickr_51176891765.webp",
+    "800": "web/800/flickr_51176891765.webp",
+    "400": "web/400/flickr_51176891765.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADwBACdASoYABgAPqlGm0mmJCKhN/qoAMAVCWQAVf0HkAgGO9K6oMI3KpFXOFgDaIAA/vlr8cdMiagaFpPgqP9WraHiAnBde7189uDa6r1toztvqhF46J9FtHZEGE+skWV/lh3FdkwO6MYHJELMKEhqQAA=",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAQBQCdASoYABgAPu1oqk+ppiOiKA1RMB2JYwBWfIPDHHMktasl9FIF6bNDzOjSF/1AAP7x/RTouu3PbWQgcL5pJjwHUdNTqcg+RWXHB9XuKaz02rKUlWSrZGmMjUuhRpXfgyyM0YcS5sAbJdJ8Rcn8RkTkCt/c7xezSJn7xEXxGBwk3wfDOt7yjVmqnnpamEAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/39606765290"
+   "source_url": "https://www.flickr.com/photos/prunak/51176891765"
   },
-  "flickr_40133584502": {
+  "2026-06-08_08-25-53_UTC_DZUXCuhA1pc": {
    "src": {
-    "1600": "web/1600/flickr_40133584502.webp",
-    "800": "web/800/flickr_40133584502.webp",
-    "400": "web/400/flickr_40133584502.webp"
+    "1600": "web/1600/2026-06-08_08-25-53_UTC_DZUXCuhA1pc.webp",
+    "800": "web/800/2026-06-08_08-25-53_UTC_DZUXCuhA1pc.webp",
+    "400": "web/400/2026-06-08_08-25-53_UTC_DZUXCuhA1pc.webp"
+   },
+   "width": 1080,
+   "height": 810,
+   "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAACQBACdASoYABIAPu1mqk8ppaOiKA1RMB2JaQDLpAmZr0F/4F3hkVY+PUdstPAA/p78A45EFQY7S219g74qJwT5/n2rKRYka/pSXPxIDQVkSyMPWvKAVXymOmLMNmSkkAWYVofXtWnHgKgfnb1mBFzVJcwAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2026-06-08",
+   "source_url": "https://www.instagram.com/p/DZUXCuhA1pc/"
+  },
+  "flickr_33589190278": {
+   "src": {
+    "1600": "web/1600/flickr_33589190278.webp",
+    "800": "web/800/flickr_33589190278.webp",
+    "400": "web/400/flickr_33589190278.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRoIAAABXRUJQVlA4IHYAAAAQBQCdASoYABgAPq1Im0mmJCKhMAwAwBWJZQDKtCHcOiNK3fXl/Rp+ttVcOIO8CfQAAP75a55HzfP1dmtFWSst2KF4mJg2JInLXw9CxW/jog4EbBA5plTBjOsDVAj21IA4CV1cE2aajmrbyoG7emrEGkVGISAA",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAADwBACdASoYABgAPu1wr1IppiQiqAgBMB2JQBjTnMgwi6EbrsmRc85L+siyTL1myyAA/vNv4ASrvw/7YaovO3VYI6otbCk69Ou90TYUpA4zTEhAWjjrVjhS5FSnhzW5v1hqzxg6e1YNuTpjcEleDguCPM8m6rvb78XJUtTRW0FGzxWhipGC92EHF4fb6HO0oChzq4q/D2VpIUfzkjwH7gBDpuoAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/40133584502"
+   "source_url": "https://www.flickr.com/photos/prunak/33589190278"
   },
-  "flickr_40536654072": {
+  "flickr_24966100347": {
    "src": {
-    "1600": "web/1600/flickr_40536654072.webp",
-    "800": "web/800/flickr_40536654072.webp",
-    "400": "web/400/flickr_40536654072.webp"
+    "1600": "web/1600/flickr_24966100347.webp",
+    "800": "web/800/flickr_24966100347.webp",
+    "400": "web/400/flickr_24966100347.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRlAAAABXRUJQVlA4IEQAAAAwBACdASoYABgAPp08mEmlo6KhN+gAsBOJaQAAiMH2GIrA2hQgvMeBoAAA/vqnCiDqKw1UKtQzlzBTxe4FodDNCBAAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAACQBACdASoYABgAPu1oqVAppiOiqA1RMB2JaQAALnjANiNmZp3MwjFQU2EoAAAA/vNwGtqKnyqTPlEVwAZsg9d0SmvyJw+ZBiqh1Zu2atvKA6EMC8pAfMY0Ej+b3grR/Kcg5gXP8EjeCDoqHamixaD1QxhytmOi2UyurUumlHMWaArE4AAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/40536654072"
+   "source_url": "https://www.flickr.com/photos/prunak/24966100347"
   },
-  "flickr_40740230965": {
+  "flickr_51163702654": {
    "src": {
-    "1600": "web/1600/flickr_40740230965.webp",
-    "800": "web/800/flickr_40740230965.webp",
-    "400": "web/400/flickr_40740230965.webp"
+    "1600": "web/1600/flickr_51163702654.webp",
+    "800": "web/800/flickr_51163702654.webp",
+    "400": "web/400/flickr_51163702654.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAABwBACdASoYABgAPrVMoEqnJCMhqA1Q4BaJaQAALmmzlRM5JfuE5+QBbXaqAAD++Lb0/xJiJWsGCMzj6QBvCwYu/gbiV8P+q1zXjRvzChpkV0fK9VIIH2qCkoGAQ6iX9vQAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAADwBACdASoYABgAPu1qqVAppiOiqA1RMB2JbAATjkCbWD7X3CTVSjCSX+pOGFti5sAA/vHNfhttWZHlPjR76QnuemC+PRncl5+Meu+X1q73fifqknQcvUtnO3Vqk29mxGpz1XZlAZjyOT4rpbgkuEEszn6+rn4xkfBrTOG6q6qd5qvh5jVooZW6p7Bj9v+HFn78JamROfq+2PEf4qA5xUkrxcnAKaAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/40740230965"
+   "source_url": "https://www.flickr.com/photos/prunak/51163702654"
   },
-  "flickr_42542257951": {
+  "flickr_23970186057": {
    "src": {
-    "1600": "web/1600/flickr_42542257951.webp",
-    "800": "web/800/flickr_42542257951.webp",
-    "400": "web/400/flickr_42542257951.webp"
+    "1600": "web/1600/flickr_23970186057.webp",
+    "800": "web/800/flickr_23970186057.webp",
+    "400": "web/400/flickr_23970186057.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACQBACdASoYABgAPrVGn0mnI6KhMBgMAOAWiUAABc03mKtJ484nATsq2FHwYAAA/viwCqyJI4JSZFYFm6ZHyet2+KZdPMIL15BR/luY5wZFetSprIXCY2WLeGfO9H7qRlwo83Xj35AuQGdvp300IRvklaO904cVLxGAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAABwBACdASoYABgAPt1WpU2opKOiN/qoARAbiWUAAF6hbHq8i5Sh5UrMQA1gyAD+9N/EpnrXFOwLpW84rIevntvwjcFhfAPOiBXIMvccqJd/dw2/B1YcvK/GtH0PNQ17f5vIKUdqRVputEOYsWBFwV90J8OzD1NoAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/42542257951"
+   "source_url": "https://www.flickr.com/photos/prunak/23970186057"
   },
-  "flickr_43332991335": {
+  "flickr_38545604741": {
    "src": {
-    "1600": "web/1600/flickr_43332991335.webp",
-    "800": "web/800/flickr_43332991335.webp",
-    "400": "web/400/flickr_43332991335.webp"
+    "1600": "web/1600/flickr_38545604741.webp",
+    "800": "web/800/flickr_38545604741.webp",
+    "400": "web/400/flickr_38545604741.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAADwBACdASoYABgAPrFKnEmnJKKhMBgMAOAWCWkAAC5l6D5Om1Wgxbs6UtQ5ZjRQwgAA/viwaLuvtdH2dsAjBuP/lMhdiP8lVTQF4Eso6qFTB4Rq34oOqGpACY2Er5VYpdHIFMhPEETvAAAA",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRogAAABXRUJQVlA4IHwAAABQBACdASoYABgAPu1sqlEppaOiqAqpMB2JZwAAKdNpYexJ5hHHRgLV7mwAAP7zglwCk8XSWuEjsXC0f1gnNx2REFIMwtEgnfTj87FnSG5h+zUl4sjul95eSSb6/nmWSkrtominLLOyxDN+iHUfC1+bV7FyUsX09Fi20AAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/43332991335"
+   "source_url": "https://www.flickr.com/photos/prunak/38545604741"
   },
-  "flickr_43367444161": {
+  "2025-12-01_11-15-55_UTC_DRuASC0igOJ_1": {
    "src": {
-    "1600": "web/1600/flickr_43367444161.webp",
-    "800": "web/800/flickr_43367444161.webp",
-    "400": "web/400/flickr_43367444161.webp"
+    "1600": "web/1600/2025-12-01_11-15-55_UTC_DRuASC0igOJ_1.webp",
+    "800": "web/800/2025-12-01_11-15-55_UTC_DRuASC0igOJ_1.webp",
+    "400": "web/400/2025-12-01_11-15-55_UTC_DRuASC0igOJ_1.webp"
+   },
+   "width": 1080,
+   "height": 810,
+   "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAwBQCdASoYABIAPu1orVCppaQiqAqpMB2JYgCdMoR5aA3WNyOxve3ADM8xEUKnen4lgAD+xOTnFw+3522PChznAsXQ5Bna/RNI720H7nHEJD1cjR26IYjhlO1Qt3okp0WqmgCQJ3VbdW3mRRHF+qRqXqGyr8UceJE6vsgWs6zkhVwWkpggOHMxO96zD420CVZVE65dJjsLhUFUsp1d4F1QfFbf9aNkhQ97MR/B0ob5Qghjs2kVrFYAAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-12-01",
+   "source_url": "https://www.instagram.com/p/DRuASC0igOJ/"
+  },
+  "flickr_20117386233": {
+   "src": {
+    "1600": "web/1600/flickr_20117386233.webp",
+    "800": "web/800/flickr_20117386233.webp",
+    "400": "web/400/flickr_20117386233.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACwBACdASoYABgAPrVKoUmnJCOhMBgMAOAWiWcAAC5o5LlqOC2XPADFZVhPz/IAAP74sGsHVg2JyEyS8xLRdRjryRLrT2axy2Cfw4vo3Atefdxv+JgDMM0fgZ5XW3Qqq3opU0jDBab+/wpmTMTXdAL9UVcsROZ4hxQAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAABwBACdASoYABgAPu1mqU4ppaOiMAgBMB2JQBgBkBBGgxBQyMALdDJ5BeDiAAD+84F8TAjmK7Qs/aFJWu8VZeFlr7qEJZ3sduYeWuZOGeNLKwLOx2SEWoRmU3afWpy1+Dq3vhVb+nm8TQ4ibAltD7SSpjDG5k3JsUC9EvTH5t5pekGWF3qFb7cpM2uIdRCTZQBENAhLpqm7hOAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/43367444161"
+   "source_url": "https://www.flickr.com/photos/prunak/20117386233"
   },
-  "flickr_44857084014": {
+  "2025-11-13_11-30-39_UTC_DQ_rqMJimdu_2": {
    "src": {
-    "1600": "web/1600/flickr_44857084014.webp",
-    "800": "web/800/flickr_44857084014.webp",
-    "400": "web/400/flickr_44857084014.webp"
+    "1600": "web/1600/2025-11-13_11-30-39_UTC_DQ_rqMJimdu_2.webp",
+    "800": "web/800/2025-11-13_11-30-39_UTC_DQ_rqMJimdu_2.webp",
+    "400": "web/400/2025-11-13_11-30-39_UTC_DQ_rqMJimdu_2.webp"
+   },
+   "width": 1080,
+   "height": 720,
+   "blur": "data:image/webp;base64,UklGRmoAAABXRUJQVlA4IF4AAACQAwCdASoYABAAPu1iqU2ppaQiMAgBMB2JaQAAV6gGXOoqyFAAAPz2EKaZpV92yEB6Ih03OJ/Bx1GMiIDRwNF7X5Dz1w+3w5bpmuyMej9pJfdqayjmCA4GoMZ6dQAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-11-13",
+   "source_url": "https://www.instagram.com/p/DQ_rqMJimdu/"
+  },
+  "flickr_40043149505": {
+   "src": {
+    "1600": "web/1600/flickr_40043149505.webp",
+    "800": "web/800/flickr_40043149505.webp",
+    "400": "web/400/flickr_40043149505.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAACwBACdASoYABgAPqFCnEmmJCMhN+gAwBQJZQAAe0PgbMSpuUK5W1r8PJApp/OAAP76Gug0WirO55VC6sHmThahJho9zrv80GzgKgUrBX5Obd2YFLy/R55RYYGooHRHZ86ywA+ytm4t97tbsY4ErJmgAAA=",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRqwAAABXRUJQVlA4IKAAAABwBACdASoYABgAPu1mqk8ppaOiKA1RMB2JZQDLpA9of/YfJUJEaeE/iFwPAAD+84B7D3eM3qYZsFMGi0zXzYJBYFcbFcObaymjpsLbGGA4ls4rt/Km145UFt+1ylFRZHK08uJ3+qbQC5mG3ClMZKzBZ+uW085T+gIRbz+u7B19ck91NkSOlAbVK4c/4QtHOnBrsF8L2vdq7nMeSQjgAAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/44857084014"
+   "source_url": "https://www.flickr.com/photos/prunak/40043149505"
   },
-  "flickr_45905049712": {
+  "flickr_27305052670": {
    "src": {
-    "1600": "web/1600/flickr_45905049712.webp",
-    "800": "web/800/flickr_45905049712.webp",
-    "400": "web/400/flickr_45905049712.webp"
+    "1600": "web/1600/flickr_27305052670.webp",
+    "800": "web/800/flickr_27305052670.webp",
+    "400": "web/400/flickr_27305052670.webp"
+   },
+   "width": 1587,
+   "height": 1587,
+   "blur": "data:image/webp;base64,UklGRrIAAABXRUJQVlA4IKYAAADQBACdASoYABgAPu1srVEppiQiqAqpMB2JZgC90BEa2x/cvDwqw8Jez6f+d51EYAD+82/+62pbJ9SWotMvpb4aXLsbRH+W2gkaS2HWhzzm8dmhxQWqscLVj6zwOb+YQQmwMyddbx++nNe/INzD3DgUowr10X5Me1y4/eKpf0JM3uRSVNvxYKpG30QzeUGkHaJfSII4nUaTF9VIuvLux8bUBPYCJwAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/27305052670"
+  },
+  "flickr_18590828026": {
+   "src": {
+    "1600": "web/1600/flickr_18590828026.webp",
+    "800": "web/800/flickr_18590828026.webp",
+    "400": "web/400/flickr_18590828026.webp"
+   },
+   "width": 1064,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRnYAAABXRUJQVlA4IGoAAAAQBACdASoQABgAPu1qrU8ppiQiMAgBMB2JZQDMHBjCI5ubmCKI6bFd4AD+61dIi9OMW/meMdWdoej0jlbiOtxmo5kVTqf59S6gtuMklVpSNTmSrHgzy24D+9cm7f5rKXmocf+HrNlcAAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/18590828026"
+  },
+  "flickr_52578224467": {
+   "src": {
+    "1600": "web/1600/flickr_52578224467.webp",
+    "800": "web/800/flickr_52578224467.webp",
+    "400": "web/400/flickr_52578224467.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRoAAAABXRUJQVlA4IHQAAADQBACdASoYABgAPrVWpk4nJKOiKAgA4BaJZQDIXA9orGTxAy5HLCb7w00YAEK4AAD++Lnvf44uu+iKjRfxKcNWyJd77W0Klpv/2vwnA8tTPQAojAHGw/h7ZWDSGejYUoHSnkGw/CvROJgAK+j6L9uLmkAAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRnAAAABXRUJQVlA4IGQAAACQBACdASoYABgAPu1cqk4ppKQiMBgMATAdiWkAAC5wqP3cOlbFBOrujpR/jEAA/vHT/pFwOXHNbjczPz+ZpoyeIT8sp/ZnVfrw9u58ods9dyTQ7+8X7t27SevJn4vjeNFAAAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/45905049712"
+   "source_url": "https://www.flickr.com/photos/prunak/52578224467"
   },
-  "flickr_46563570212": {
+  "flickr_47465807781": {
    "src": {
-    "1600": "web/1600/flickr_46563570212.webp",
-    "800": "web/800/flickr_46563570212.webp",
-    "400": "web/400/flickr_46563570212.webp"
+    "1600": "web/1600/flickr_47465807781.webp",
+    "800": "web/800/flickr_47465807781.webp",
+    "400": "web/400/flickr_47465807781.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRngAAABXRUJQVlA4IGwAAACwBACdASoYABgAPqlInkmmJKMhN/qoAMAVCWkAAFu1jGqXHaiFNhFOoyX/am5AAP75a15a59roqlrfqgL2nlcExNv76Y4GstDCyUbhxG8oCXYwhdp93Fjb/Aycpcx92xq8Ts3vXRaUIfkcAAA=",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRp4AAABXRUJQVlA4IJIAAAAwBACdASoYABgAPu1qq1EppaOiqAqpMB2JQAAFzToJzfpR9wzANHkaglQA/vNsn8sRcg/LqPP5FP7pfqqmhzAzUrvYqlcA55sfkRDLmGLRG7XsbiYXP+qw20wBLtSca2pmHS57HAUBOGjZkendI+i+LXnDHevBRxJcjcH1Bo7N3yVpL6T6L34SuWSkUwoSkE5AAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/46563570212"
+   "source_url": "https://www.flickr.com/photos/prunak/47465807781"
   },
-  "flickr_48718290032": {
+  "2025-10-26_11-45-17_UTC_DQRXBiriSEZ": {
    "src": {
-    "1600": "web/1600/flickr_48718290032.webp",
-    "800": "web/800/flickr_48718290032.webp",
-    "400": "web/400/flickr_48718290032.webp"
+    "1600": "web/1600/2025-10-26_11-45-17_UTC_DQRXBiriSEZ.webp",
+    "800": "web/800/2025-10-26_11-45-17_UTC_DQRXBiriSEZ.webp",
+    "400": "web/400/2025-10-26_11-45-17_UTC_DQRXBiriSEZ.webp"
+   },
+   "width": 1080,
+   "height": 718,
+   "blur": "data:image/webp;base64,UklGRpoAAABXRUJQVlA4II4AAADQAwCdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdABshP0FIsiie2oAA/nJV7Oc5r+OxcdtyUeyh19K39nAYoz2Cx7pxNct5WwBnk7jSDw3nUTwE/retPNLEFBAjMhrWNWrIjP/yD8ttmn5B6Vh2b3XRL53+R1j6kJxgqHU0W43bUCg7ltcM5wlc22JGrAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-10-26",
+   "source_url": "https://www.instagram.com/p/DQRXBiriSEZ/"
+  },
+  "flickr_45731332085": {
+   "src": {
+    "1600": "web/1600/flickr_45731332085.webp",
+    "800": "web/800/flickr_45731332085.webp",
+    "400": "web/400/flickr_45731332085.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRnQAAABXRUJQVlA4IGgAAADwBACdASoYABgAPrVKnUonJCKhsBgMAOAWiWUAwqFtAYFNKooReVapVCjO9E8c2AAA/viwCqyJGLEK/CvYDOE2v99eVBjLrDmKWhAy0bbh74YIJS4aponscHWD/lrSeUsMuuACAIAAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRpAAAABXRUJQVlA4IIQAAACQBACdASoYABgAPu1aqU2ppKQiN/VYATAdiWcAz6AQ66jV1KeGE4g8s5soYAAA/vNwCbS1wvhy9hGI5iSmsrt8+2o/kplMiln+GorPGo1RIPj83KOQYSOgRgLDK0I9LssvRSTfdNnh9v6y4xFlAJ/5I9bxuGsAW6m2nHV0UanLXXKAAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/48718290032"
+   "source_url": "https://www.flickr.com/photos/prunak/45731332085"
   },
-  "flickr_50820293728": {
+  "flickr_30953881247": {
    "src": {
-    "1600": "web/1600/flickr_50820293728.webp",
-    "800": "web/800/flickr_50820293728.webp",
-    "400": "web/400/flickr_50820293728.webp"
-   },
-   "width": 1600,
-   "height": 1131,
-   "blur": "data:image/webp;base64,UklGRmIAAABXRUJQVlA4IFYAAAAwBACdASoYABEAPrVInEonJCKhsBgMAOAWiWUAAB2SGkLofukeJm/n+EAAy4AhyVBnELDCdq6Hv7+9y0UivOx7erN1VwDmqrwueZB10UvNf6gA3vAAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
-   "caption": "",
-   "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/50820293728"
-  },
-  "flickr_51163702659": {
-   "src": {
-    "1600": "web/1600/flickr_51163702659.webp",
-    "800": "web/800/flickr_51163702659.webp",
-    "400": "web/400/flickr_51163702659.webp"
+    "1600": "web/1600/flickr_30953881247.webp",
+    "800": "web/800/flickr_30953881247.webp",
+    "400": "web/400/flickr_30953881247.webp"
    },
    "width": 1600,
    "height": 1600,
-   "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAADQBACdASoYABgAPqlIm0mmJKKhN/VYAMAVCWUAAC3eIpctOGUNQmFEMuBAMfb5gAD++XsHHkznkSMFur27GRMMD7SJFDZCSiLA6OKP0GZVVFT8ztaBxBx/hPasNWBKeFtNsLq0+1KFRfxGpohH4YtV4RjByvHuocecfBtnvBEDrBql0AAAAA==",
-   "title_el": "Θεσσαλονίκη, 2023",
-   "title_en": "Thessaloniki, 2023",
+   "blur": "data:image/webp;base64,UklGRoYAAABXRUJQVlA4IHoAAACQBACdASoYABgAPu1oq08ppiOiKA1RMB2JaQATwADhetvVr/1jvWNCpJ/hgAAA/vNv6GS1znxj50J6ZQN4zgXFw9JVdj9Dj3IxA0Enc9jTlCNz1KlP1h7krEOaGdvxTEl9uyy15YU/Pkoh1jl6zPw4Ye6RVbvpAAAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
    "caption": "",
    "date": "",
-   "source_url": "https://www.flickr.com/photos/prunak/51163702659"
+   "source_url": "https://www.flickr.com/photos/prunak/30953881247"
+  },
+  "flickr_30569193243": {
+   "src": {
+    "1600": "web/1600/flickr_30569193243.webp",
+    "800": "web/800/flickr_30569193243.webp",
+    "400": "web/400/flickr_30569193243.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRoQAAABXRUJQVlA4IHgAAAAQBACdASoYABgAPu1sr1CppiQiqAqpMB2JaQAALmnEk917+PWDdLRigAD+829xOOzjlu1yPnK3YnTUH3VDowHthl8PDYjjKmaO/EHlAVZVyTp74lHEX9ab3BBg7gCMyIXNsMK4AByLgFHAwVWoqW2sYuDESAgAAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/30569193243"
+  },
+  "2025-06-18_10-36-25_UTC_DLCfzf-KPXQ_2": {
+   "src": {
+    "1600": "web/1600/2025-06-18_10-36-25_UTC_DLCfzf-KPXQ_2.webp",
+    "800": "web/800/2025-06-18_10-36-25_UTC_DLCfzf-KPXQ_2.webp",
+    "400": "web/400/2025-06-18_10-36-25_UTC_DLCfzf-KPXQ_2.webp"
+   },
+   "width": 1080,
+   "height": 720,
+   "blur": "data:image/webp;base64,UklGRpQAAABXRUJQVlA4IIgAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZACdIExCvV9+2ODrnZ1sg0WAAP7w3E0cZ3OXiqBBNyYtbCSMcEgRtxKEYsCyeiaxpZOAfQemQ1OIxeFgH6iW3XKlSt3rbaoOptTMPQrHCwrajuag8cDhfZ4bG8nvxWamvfQMsd2+7mw2p7S49YAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-06-18",
+   "source_url": "https://www.instagram.com/p/DLCfzf-KPXQ/"
+  },
+  "flickr_32068133718": {
+   "src": {
+    "1600": "web/1600/flickr_32068133718.webp",
+    "800": "web/800/flickr_32068133718.webp",
+    "400": "web/400/flickr_32068133718.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAABQBACdASoYABgAPuFep02opSOiMAwBEBwJaQAAW7Wgj+Zn/j8+57bHxpyAAP70z1MQzuhPFQByt+PP89VQwwVH+IESSFKOn4zreUC2SA9aiO5qb9lYZj2vei0BchFnGzPXrNgX7bQM8ll1zDCsdBAiWHsywQ9SDNW5fyLAgAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/32068133718"
+  },
+  "2025-06-18_10-36-25_UTC_DLCfzf-KPXQ_3": {
+   "src": {
+    "1600": "web/1600/2025-06-18_10-36-25_UTC_DLCfzf-KPXQ_3.webp",
+    "800": "web/800/2025-06-18_10-36-25_UTC_DLCfzf-KPXQ_3.webp",
+    "400": "web/400/2025-06-18_10-36-25_UTC_DLCfzf-KPXQ_3.webp"
+   },
+   "width": 1080,
+   "height": 720,
+   "blur": "data:image/webp;base64,UklGRpIAAABXRUJQVlA4IIYAAABQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JZwDMHYw67bN3QNC9MelzUXOAAPjkM3T2aX8hCoUqnmCEzoi6iuQPXVepTNbvKwLpOVvmsCRxSqADE0/acbqi+m/6/OaqcJ7cHVrnnJqfSOGOpAuYto1syNbkgtzQPMwBkSnbjLvxrIE1PUAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-06-18",
+   "source_url": "https://www.instagram.com/p/DLCfzf-KPXQ/"
+  },
+  "flickr_19266761744": {
+   "src": {
+    "1600": "web/1600/flickr_19266761744.webp",
+    "800": "web/800/flickr_19266761744.webp",
+    "400": "web/400/flickr_19266761744.webp"
+   },
+   "width": 1067,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRn4AAABXRUJQVlA4IHIAAADQAwCdASoQABgAPu1kqk4ppaQiMAgBMB2JQBOgDWz/+a3+9HmispAA/qnsaCzRQH0xU1AsAKipTjla9zmn2ogzUY/wHzk+hj1GMjSCYkhyyTVYwd3zrQmt0M2evG8VbyVdVawt9YzDGrQ89gk7yEOEoAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/19266761744"
+  },
+  "flickr_9454086354": {
+   "src": {
+    "1600": "web/1600/flickr_9454086354.webp",
+    "800": "web/800/flickr_9454086354.webp",
+    "400": "web/400/flickr_9454086354.webp"
+   },
+   "width": 1600,
+   "height": 1200,
+   "blur": "data:image/webp;base64,UklGRqgAAABXRUJQVlA4IJwAAADQBACdASoYABIAPu1ur1IppiQiqAgBMB2JaQAAFxOUwZnNy9sSy7np0VILLyKCAAD+ghApjDnEWTFF4xPs8DSmvVh+Dm6jxgPPmgDo1fMMQtS83R1CRo3REW8Rz1DI7lSUxgQ8Oi8YEsKI1v1gR0wB1VtQ3FPAqxF8Wv/RkrT/vaKn35rizuPEPJAV/wHMrFLKP4nLdnYb3wAAAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/9454086354"
+  },
+  "flickr_15303760000": {
+   "src": {
+    "1600": "web/1600/flickr_15303760000.webp",
+    "800": "web/800/flickr_15303760000.webp",
+    "400": "web/400/flickr_15303760000.webp"
+   },
+   "width": 1600,
+   "height": 1189,
+   "blur": "data:image/webp;base64,UklGRowAAABXRUJQVlA4IIAAAACQBACdASoYABIAPu1kqE2ppaOiMAgBMB2JaQAAW4T5ilYdBXUfbCno4uguIAAA+yPw54oorugmpuM9/lZ+qMBOCvLT8gRN8oksq5FHdYqey/89qPn0r5Ic4a6SKht/bcYP/90f2eaUktiPhYnZC7XB5LGc4ZDV2xoHMvA+QAAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/15303760000"
+  },
+  "flickr_36216906002": {
+   "src": {
+    "1600": "web/1600/flickr_36216906002.webp",
+    "800": "web/800/flickr_36216906002.webp",
+    "400": "web/400/flickr_36216906002.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRrYAAABXRUJQVlA4IKoAAAAQBQCdASoYABgAPu1urlKppiQiqAgBMB2JZwAFEB7oh4Rbej+764L/Xb8GsMJSriAAAP7zgmBmfk3R210ObQ7MBVMBT+UOtHwi3h3MUhFjFGLruxpWv6utV/R8Us4skjL5DPk6HypfsQ3mdOy3RTyY/TwRYjCvhcM+6CCkLRC4cpBEwwORPophJ+P8HAGPM3Cq92DCvHm2hp0irhzjh0c0glTSL67gVwAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/36216906002"
+  },
+  "flickr_21925358990": {
+   "src": {
+    "1600": "web/1600/flickr_21925358990.webp",
+    "800": "web/800/flickr_21925358990.webp",
+    "400": "web/400/flickr_21925358990.webp"
+   },
+   "width": 1600,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRrQAAABXRUJQVlA4IKgAAACwBACdASoYABgAPu1oqk8ppiOiKA1RMB2JaQAALnjAylauaUrJfzmfRL9zacGAAP7zb8Tcbt0+uQIL6rEoikUjxn5JRpQm1xrXhD9J4xyJvjFvRpXe/SiT2X9Yi+tkCkrhC+F1Cl738QPfX5qV14ijuLON8SkaC45LzFF9Z8BZsItMwIJqKeNnQ/ozB8MueMwP/LWk9zhAfi2QtnvimWYbJcCJuOCYAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "",
+   "source_url": "https://www.flickr.com/photos/prunak/21925358990"
+  },
+  "2025-11-09_11-32-49_UTC_DQ1YujVig84_1": {
+   "src": {
+    "1600": "web/1600/2025-11-09_11-32-49_UTC_DQ1YujVig84_1.webp",
+    "800": "web/800/2025-11-09_11-32-49_UTC_DQ1YujVig84_1.webp",
+    "400": "web/400/2025-11-09_11-32-49_UTC_DQ1YujVig84_1.webp"
+   },
+   "width": 1080,
+   "height": 720,
+   "blur": "data:image/webp;base64,UklGRsYAAABXRUJQVlA4ILoAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JbACdMoR4Lfqi2XgoaYbU+gAA/qLKcKvq2iIziK7f0+wHjLg/qqnO9+04tKmbKpt4W2Nh+WogJEbUsfbX8wf3tWBpZYitDqzHnUXQaS0Zj6zYyd+w9lwXoH/L9JDMl603NOA+nyTPGBh4LWuYZLmEHoSI5BACitLSFSKnM7vX6AMuaYK4DGpLHXn793r+/98zuMPGgWtgCpYV+F44iCiU+AA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-11-09",
+   "source_url": "https://www.instagram.com/p/DQ1YujVig84/"
+  },
+  "2025-11-09_11-32-49_UTC_DQ1YujVig84_3": {
+   "src": {
+    "1600": "web/1600/2025-11-09_11-32-49_UTC_DQ1YujVig84_3.webp",
+    "800": "web/800/2025-11-09_11-32-49_UTC_DQ1YujVig84_3.webp",
+    "400": "web/400/2025-11-09_11-32-49_UTC_DQ1YujVig84_3.webp"
+   },
+   "width": 1080,
+   "height": 720,
+   "blur": "data:image/webp;base64,UklGRpwAAABXRUJQVlA4IJAAAAAQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCxG1ABggo1k3O7W7xuAAD+3HORPo7k6lONTjDshkxeyBk6vGJbLHcbssud8tOSJxZwCZYyieZNjBYf6lsFiKtHxu/9+cNGMmE0ZnKCDlg8treuD8I6GKpRz5up3rQPx26Nbep9SVWuXLyELSraWKdyJxdoAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-11-09",
+   "source_url": "https://www.instagram.com/p/DQ1YujVig84/"
+  },
+  "2025-10-24_11-42-32_UTC_DQMNHpMihQ-": {
+   "src": {
+    "1600": "web/1600/2025-10-24_11-42-32_UTC_DQMNHpMihQ-.webp",
+    "800": "web/800/2025-10-24_11-42-32_UTC_DQMNHpMihQ-.webp",
+    "400": "web/400/2025-10-24_11-42-32_UTC_DQMNHpMihQ-.webp"
+   },
+   "width": 1080,
+   "height": 1440,
+   "blur": "data:image/webp;base64,UklGRpgAAABXRUJQVlA4IIwAAAAQBQCdASoSABgAPu1sqlEppaOiqAqpMB2JYgCdM2QAlBA5DjBr8cMFnG2kC0zXbOoAAPDNl360sa61eT7CRlttd+UcferGHVxbJhCKJ3YrE/40NZ+F4h+tqgxqAq9HqlN6bxFwNF3B+uwroZZ0UurzHEKBdzHVGWqK0uOu0I0l5rmdKLgiHTuN/bAAAA==",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-10-24",
+   "source_url": "https://www.instagram.com/p/DQMNHpMihQ-/"
+  },
+  "2025-11-17_11-53-33_UTC_DRKBdWcCj2j": {
+   "src": {
+    "1600": "web/1600/2025-11-17_11-53-33_UTC_DRKBdWcCj2j.webp",
+    "800": "web/800/2025-11-17_11-53-33_UTC_DRKBdWcCj2j.webp",
+    "400": "web/400/2025-11-17_11-53-33_UTC_DRKBdWcCj2j.webp"
+   },
+   "width": 1080,
+   "height": 720,
+   "blur": "data:image/webp;base64,UklGRsAAAABXRUJQVlA4ILQAAADQBACdASoYABAAPu1iqU2ppaOiMAgBMB2JagCdAywYYJnITm+HzzrauGKl6ehcgADMjD591g/X4oH1spChl1F7X8Iw375uxNk7wm0Q7pC53669c8Uxfv8t46dN18FOpgIlEdNZ8oTfQUQ+45Frlr79Xm7tNnZuOnjYm5ArYVanWjDSLVbreaJ3awgcXwVSup2BCgteEplNyrQLBF30WXNej5KbiIIUNZYHlopeYDwbkogAAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-11-17",
+   "source_url": "https://www.instagram.com/p/DRKBdWcCj2j/"
+  },
+  "2026-05-25_09-42-09_UTC_DYwcqUpAMw6_1": {
+   "src": {
+    "1600": "web/1600/2026-05-25_09-42-09_UTC_DYwcqUpAMw6_1.webp",
+    "800": "web/800/2026-05-25_09-42-09_UTC_DYwcqUpAMw6_1.webp",
+    "400": "web/400/2026-05-25_09-42-09_UTC_DYwcqUpAMw6_1.webp"
+   },
+   "width": 1080,
+   "height": 1440,
+   "blur": "data:image/webp;base64,UklGRqYAAABXRUJQVlA4IJoAAAAwBQCdASoSABgAPu1ur1IppiQiqAgBMB2JaQAFhpBsVG5+cdciwmbHbHwzDXCkPLysQADKA6IQY9Fu67+n4t3o+xIMG8wZqbmt+BqAiRj3gWJ4br1GYkENUeF/I53+JyeVV+sgu5pITMG3LaRQ36W1Zoy8CKZJ5EgCkaICEwfzZAUT40gyL3HC47LPWek7nV/JqOQB1GK8gAAA",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2026-05-25",
+   "source_url": "https://www.instagram.com/p/DYwcqUpAMw6/"
+  },
+  "2025-11-16_12-44-20_UTC_DRHiecHimaK_2": {
+   "src": {
+    "1600": "web/1600/2025-11-16_12-44-20_UTC_DRHiecHimaK_2.webp",
+    "800": "web/800/2025-11-16_12-44-20_UTC_DRHiecHimaK_2.webp",
+    "400": "web/400/2025-11-16_12-44-20_UTC_DRHiecHimaK_2.webp"
+   },
+   "width": 1080,
+   "height": 720,
+   "blur": "data:image/webp;base64,UklGRmwAAABXRUJQVlA4IGAAAAAwBACdASoYABAAPu1iqU2ppaOiMAgBMB2JYwCdACG/QDvMFhS1U1NtImQA/u6O85nX/bNezdeYr3zQR+in2gsOZcBJfVu4zyPXh4PD8Hugc6IGZdnVmKeMJM3dN5AAAAA=",
+   "title_el": "Χωρίς τίτλο",
+   "title_en": "Untitled",
+   "caption": "",
+   "date": "2025-11-16",
+   "source_url": "https://www.instagram.com/p/DRHiecHimaK/"
   }
  }
 }
