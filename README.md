@@ -75,9 +75,9 @@ with a pre-filled quote link. Keep these fields when refreshing the manifest fro
 ## Content placeholders to replace
 
 - **About** (`src/i18n/strings.ts → about.body` + `about.cv.*`, both languages) — bio marked PLACEHOLDER; CV items in `[brackets]` are *to confirm* with her. Verified items (Underdogs #6 2015, Phases Magazine 2018, Dada Tapes 2016, Tuber 2017) have sources listed under the CV.
-- **Services** copy (`strings.ts → services.items.*`) — terms, delivery times, prices are PLACEHOLDER until she confirms.
   Portrait: `src/pages/About.tsx` currently shows one of her own photos; drop a real portrait into
   `public/assets/portrait/` and point the `<img>` at it.
+- **Services** copy (`strings.ts → services.items.*`) — terms, delivery times, prices are PLACEHOLDER until she confirms.
 - **Contact email/phone/ΑΦΜ**: `src/data/site.ts`.
 - Instagram / Flickr links come from `manifest.json → photographer`.
 
