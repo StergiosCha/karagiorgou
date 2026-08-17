@@ -51,9 +51,9 @@ const dict = {
       items: {
         wedding: {
           title: 'Γάμος & Βάπτιση',
-          body: 'Ολοήμερη ή μερική κάλυψη, χωρίς στημένες πόζες — η μέρα όπως έγινε. Παράδοση επεξεργασμένων αρχείων σε online γκαλερί· άλμπουμ και prints κατόπιν συνεννόησης.',
+          body: 'Ολοήμερη ή μερική κάλυψη, χωρίς στημένες πόζες, η μέρα σας χωρίς παρεμβάσεις. Παράδοση επεξεργασμένων αρχείων σε online γκαλερί. Άλμπουμ και prints κατόπιν συνεννόησης.',
           bullets: ['Γρεβενά, Θεσσαλονίκη & Βόρεια Ελλάδα — μετακίνηση παντού', 'Φιλμ ή ψηφιακό, ή συνδυασμός', 'Παράδοση σε 4–8 εβδομάδες'],
-          note: 'ΥΠΟΔΕΙΓΜΑ κειμένου — να επιβεβαιωθούν όροι, τιμές, χρόνοι παράδοσης',
+          note: '',
         },
         music: {
           title: 'Μουσική — bands, live, εξώφυλλα',
@@ -211,9 +211,9 @@ const dict = {
       items: {
         wedding: {
           title: 'Weddings & Christenings',
-          body: 'Full-day or partial coverage, no staged poses — the day as it happened. Edited files delivered in an online gallery; albums and prints by arrangement.',
+          body: 'Full-day or partial coverage, no staged poses, your day without interference. Edited files delivered in an online gallery. Albums and prints by arrangement.',
           bullets: ['Grevena, Thessaloniki & northern Greece — will travel anywhere', 'Film or digital, or both', 'Delivery in 4–8 weeks'],
-          note: 'PLACEHOLDER copy — terms, prices and delivery times to be confirmed',
+          note: '',
         },
         music: {
           title: 'Music — bands, live, covers',
