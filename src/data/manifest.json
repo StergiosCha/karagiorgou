@@ -9,8 +9,8 @@
  "series": [
   {
    "slug": "fog-and-haze",
-   "title_el": "Ομίχλη και Αντάρα",
-   "title_en": "Fog and Haze",
+   "title_el": "Ομίχλη",
+   "title_en": "Fog",
    "description_el": "Τοπία που αχνοφαίνονται.",
    "description_en": "Landscapes faintly seen.",
    "hero": "flickr_51817247234",
@@ -29,10 +29,10 @@
   },
   {
    "slug": "aesthetics-of-decay",
-   "title_el": "Αισθητική της Φθοράς",
-   "title_en": "Aesthetics of Decay",
-   "description_el": "Ρωγμές, σκουριά, ξεφτισμένοι σοβάδες, εγκαταλελειμμένα κτίρια.",
-   "description_en": "Cracks, rust, forgotten plaster, abandoned buildings.",
+   "title_el": "Φθορά",
+   "title_en": "Decay",
+   "description_el": "Ρωγμές, σκουριά, εγκατάλειψη.",
+   "description_en": "Cracks, rust, abandonment.",
    "hero": "flickr_18650742343",
    "photos": [
     "flickr_18650742343",
@@ -109,8 +109,8 @@
   },
   {
    "slug": "winter",
-   "title_el": "Χειμώνας",
-   "title_en": "Winter",
+   "title_el": "Δ΄ Κλιματική Ζώνη",
+   "title_en": "Climate Zone D",
    "description_el": "Χιόνι, πάγος, παγετός. Η Δ΄ Κλιματική Ζώνη της Δυτικής Μακεδονίας.",
    "description_en": "Snow, ice, frost. Climate Zone D of Western Macedonia.",
    "hero": "2026-01-28_06-24-08_UTC_DUC0_tnjL02_3",
@@ -149,8 +149,8 @@
   },
   {
    "slug": "behind-glass",
-   "title_el": "Πίσω από το Τζάμι",
-   "title_en": "Behind Glass",
+   "title_el": "Γυάλινο Παραβάν",
+   "title_en": "Glass Screen",
    "description_el": "Ο κόσμος μέσα από γυάλινο παραβάν.",
    "description_en": "The world through a glass screen.",
    "hero": "flickr_24966100347",
@@ -169,10 +169,10 @@
   },
   {
    "slug": "animals",
-   "title_el": "Τα Ζώα του Τόπου",
-   "title_en": "The Animals Here",
-   "description_el": "Σκύλοι, γάτες, άλογα, πουλιά — οι μόνιμοι κάτοικοι.",
-   "description_en": "Dogs, cats, horses, birds — the permanent residents.",
+   "title_el": "Μόνιμοι Κάτοικοι",
+   "title_en": "Permanent Residents",
+   "description_el": "Τετράποδα.",
+   "description_en": "Four-legged.",
    "hero": "flickr_52578224467",
    "photos": [
     "flickr_52578224467",
@@ -189,8 +189,8 @@
   },
   {
    "slug": "forest-and-leaves",
-   "title_el": "Δάσος και Φύλλα",
-   "title_en": "Forest and Leaves",
+   "title_el": "Φύλλα",
+   "title_en": "Leaves",
    "description_el": "Δέντρα, φύλλα, φυλλωσιές.",
    "description_en": "Trees, leaves, foliage.",
    "hero": "flickr_9454086354",
