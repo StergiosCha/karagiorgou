@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { createPortal } from 'react-dom';
-import { photoSrc, photoSrcSet, sourceLabel, type Photo } from '../data/manifest';
+import { photoSrc, photoSrcSet, photos, sourceLabel, type Photo } from '../data/manifest';
+import { Link } from 'react-router-dom';
 import { useLang } from '../i18n/LanguageContext';
 import './Lightbox.css';
 
@@ -9,6 +10,10 @@ interface Props {
   index: number;
   onClose: () => void;
   onIndex: (i: number) => void;
+}
+
+function photoId(p: Photo): string {
+  return Object.keys(photos).find((k) => photos[k] === p) ?? '';
 }
 
 const FOCUSABLE = 'a[href], button:not([disabled]), [tabindex]:not([tabindex="-1"])';
@@ -145,6 +150,16 @@ export default function Lightbox({ photos, index, onClose, onIndex }: Props) {
           <span className="lb__title">{title}</span>
           {photo.caption && <span className="lb__caption">{photo.caption}</span>}
           {photo.date && <span className="meta lb__date">{photo.date}</span>}
+          {photo.print?.available && (
+            <span className="meta lb__print">
+              {t.lightbox.printAvailable}
+              {photo.print.price_from ? ` · ${t.lightbox.printFrom} ${photo.print.price_from} €` : ''}
+              {' — '}
+              <Link className="link-underline" to={`/quote?service=print&photo=${encodeURIComponent(photoId(photo))}`} onClick={onClose}>
+                {t.lightbox.printAsk}
+              </Link>
+            </span>
+          )}
           <span className="lb__row">
             {photo.source_url && (
               <a className="link-quiet meta" href={photo.source_url} target="_blank" rel="noopener noreferrer">

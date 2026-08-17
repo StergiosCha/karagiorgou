@@ -25,6 +25,30 @@ export interface Photo {
   date: string;
   /** canonical source (Flickr for deduped photos) */
   source_url: string;
+  /**
+   * OPTIONAL — add to manifest.json per photo to offer it as a print:
+   *   "print": { "available": true, "sizes": ["30×40", "50×70"], "edition": "10 + 2 AP", "price_from": "120" }
+   * Missing/absent = not offered.
+   */
+  print?: PrintInfo;
+}
+
+export interface PrintInfo {
+  available: boolean;
+  /** e.g. ["30×40 cm", "50×70 cm"] */
+  sizes?: string[];
+  /** e.g. "edition of 10 + 2 AP" */
+  edition?: string;
+  /** paper / process, e.g. "Hahnemühle Photo Rag, pigment print" */
+  paper?: string;
+  /** starting price in EUR (number as string, no symbol) */
+  price_from?: string;
+}
+
+export function printablePhotos(): { id: string; photo: Photo }[] {
+  return Object.entries(photos)
+    .filter(([, p]) => p.print?.available)
+    .map(([id, photo]) => ({ id, photo }));
 }
 
 export interface Series {

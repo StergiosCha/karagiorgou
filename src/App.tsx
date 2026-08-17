@@ -9,6 +9,8 @@ import SeriesPage from './pages/SeriesPage';
 import About from './pages/About';
 import { JournalIndex, JournalEntryPage } from './pages/Journal';
 import Contact from './pages/Contact';
+import Services from './pages/Services';
+import Quote from './pages/Quote';
 import NotFound from './pages/NotFound';
 
 function ScrollToTop() {
@@ -34,6 +36,8 @@ function Shell() {
           <Route path="/about" element={<About />} />
           <Route path="/journal" element={<JournalIndex />} />
           <Route path="/journal/:slug" element={<JournalEntryPage />} />
+          <Route path="/services" element={<Services />} />
+          <Route path="/quote" element={<Quote />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

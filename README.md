@@ -49,12 +49,36 @@ manifest — nothing is hard-coded in the site. Types live in `src/data/manifest
 - The hero is darkened by the site chrome (`src/components/Hero.css → .hero__shade`);
   pick a photo that survives ~35 % darkening.
 
+## Business details (one file)
+
+`src/data/site.ts` holds email, phone, WhatsApp/Viber numbers, the Formspree form id, and
+invoicing details (ΑΦΜ/ΔΟΥ/έδρα). Empty string = hidden. Fill it once; Contact, Quote and
+the JSON-LD use it.
+
+### The quote form (no backend)
+- Create a free form at https://formspree.io (50 submissions/month), copy the id after `/f/`
+  into `site.formspreeId`. Submissions arrive by email; spam is filtered by a honeypot field.
+- With no id, the form falls back to a `mailto:` link that opens the visitor's email app with the
+  filled-in fields as the body — works everywhere, just less smooth.
+- WhatsApp / Viber buttons appear when `site.whatsapp` / `site.viber` are set (digits only,
+  country code first, e.g. `3069XXXXXXXX`).
+
+### Prints
+Mark any photo as available in `src/data/manifest.json`:
+```json
+"print": { "available": true, "sizes": ["30×40 cm", "50×70 cm"], "edition": "10 + 2 AP", "paper": "Hahnemühle Photo Rag", "price_from": "120" }
+```
+It then shows in the lightbox («Διαθέσιμο ως print — Ζήτησε τιμή») and in Services → Διαθέσιμα έργα,
+with a pre-filled quote link. Keep these fields when refreshing the manifest from the pipeline
+(they are not produced by it) — or keep a small overrides file and merge; ask before automating.
+
 ## Content placeholders to replace
 
-- **About** (`src/i18n/strings.ts → about.body`, both languages) — marked PLACEHOLDER on the page.
+- **About** (`src/i18n/strings.ts → about.body` + `about.cv.*`, both languages) — bio marked PLACEHOLDER; CV items in `[brackets]` are *to confirm* with her. Verified items (Underdogs #6 2015, Phases Magazine 2018, Dada Tapes 2016, Tuber 2017) have sources listed under the CV.
+- **Services** copy (`strings.ts → services.items.*`) — terms, delivery times, prices are PLACEHOLDER until she confirms.
   Portrait: `src/pages/About.tsx` currently shows one of her own photos; drop a real portrait into
   `public/assets/portrait/` and point the `<img>` at it.
-- **Contact email**: `src/pages/Contact.tsx → EMAIL_PLACEHOLDER`.
+- **Contact email/phone/ΑΦΜ**: `src/data/site.ts`.
 - Instagram / Flickr links come from `manifest.json → photographer`.
 
 ## Journal entries (markdown)

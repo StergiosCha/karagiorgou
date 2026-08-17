@@ -26,3 +26,17 @@
   font-size: 1.125rem;
   gap: 2rem;
 }
+.contact__quote {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.5rem;
+  font-size: 1.0625rem;
+}
+.contact__quote span {
+  color: var(--ink-dim);
+}
+.contact__legal {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.35rem;
+}

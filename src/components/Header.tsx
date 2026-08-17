@@ -6,6 +6,7 @@ export default function Header() {
   const { t, lang, toggle } = useLang();
   const items: { to: string; label: string }[] = [
     { to: '/portfolio', label: t.nav.portfolio },
+    { to: '/services', label: t.nav.services },
     { to: '/about', label: t.nav.about },
     { to: '/journal', label: t.nav.journal },
     { to: '/contact', label: t.nav.contact },

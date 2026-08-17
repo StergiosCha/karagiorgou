@@ -1,7 +1,8 @@
 import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import { useLang } from '../i18n/LanguageContext';
-import { getPhoto, photoSrc, siteHeroId } from '../data/manifest';
+import { getPhoto, photoSrc, siteHeroId, photographer } from '../data/manifest';
+import { site } from '../data/site';
 
 interface Props {
   /** page title without the site name */
@@ -12,7 +13,19 @@ interface Props {
   type?: 'website' | 'article';
 }
 
-const SITE_ORIGIN = 'https://stergioscha.github.io';
+const SITE_ORIGIN = site.origin;
+
+function upsertJsonLd(id: string, data: object | null) {
+  let el = document.head.querySelector<HTMLScriptElement>(`script[data-jsonld="${id}"]`);
+  if (!data) { el?.remove(); return; }
+  if (!el) {
+    el = document.createElement('script');
+    el.type = 'application/ld+json';
+    el.dataset.jsonld = id;
+    document.head.appendChild(el);
+  }
+  el.textContent = JSON.stringify(data);
+}
 
 function upsertMeta(attr: 'name' | 'property', key: string, content: string) {
   let el = document.head.querySelector<HTMLMetaElement>(`meta[${attr}="${key}"]`);
@@ -66,6 +79,44 @@ export default function Seo({ title, description, image, type = 'website' }: Pro
     upsertMeta('name', 'twitter:description', description);
     upsertMeta('name', 'twitter:image', img);
     upsertLink('canonical', url);
+
+    // structured data — Person everywhere, LocalBusiness on the commercial pages
+    const person = {
+      '@context': 'https://schema.org',
+      '@type': 'Person',
+      name: lang === 'el' ? photographer.name_el : photographer.name_en,
+      alternateName: 'Prunak',
+      jobTitle: lang === 'el' ? 'Φωτογράφος' : 'Photographer',
+      url: `${SITE_ORIGIN}${base}/`,
+      image: img,
+      sameAs: [photographer.instagram, photographer.flickr],
+      address: { '@type': 'PostalAddress', addressLocality: 'Thessaloniki', addressCountry: 'GR' },
+    };
+    upsertJsonLd('person', person);
+    const commercial = pathname.startsWith('/services') || pathname.startsWith('/quote') || pathname.startsWith('/contact');
+    upsertJsonLd(
+      'business',
+      commercial
+        ? {
+            '@context': 'https://schema.org',
+            '@type': 'LocalBusiness',
+            '@id': `${SITE_ORIGIN}${base}/#business`,
+            name: `${t.siteName} — ${lang === 'el' ? photographer.name_el : photographer.name_en}`,
+            image: img,
+            url: `${SITE_ORIGIN}${base}/services`,
+            email: site.email,
+            ...(site.phone ? { telephone: site.phone } : {}),
+            address: { '@type': 'PostalAddress', addressLocality: 'Thessaloniki', addressRegion: 'Central Macedonia', addressCountry: 'GR' },
+            areaServed: 'Thessaloniki, Northern Greece',
+            priceRange: '€€',
+            makesOffer: [
+              { '@type': 'Offer', itemOffered: { '@type': 'Service', name: t.services.items.wedding.title } },
+              { '@type': 'Offer', itemOffered: { '@type': 'Service', name: t.services.items.music.title } },
+              { '@type': 'Offer', itemOffered: { '@type': 'Service', name: t.services.items.prints.title } },
+            ],
+          }
+        : null,
+    );
   }, [title, description, image, type, lang, t, pathname]);
 
   return null;

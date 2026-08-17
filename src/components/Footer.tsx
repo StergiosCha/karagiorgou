@@ -10,7 +10,7 @@ export default function Footer() {
     <footer className="ftr">
       <div className="wrap ftr__inner">
         <p className="ftr__copy meta">
-          © {year} {lang === 'el' ? photographer.name_el : photographer.name_en}. {t.footer.rights}
+          © {year} {lang === 'el' ? photographer.name_el : photographer.name_en}. {t.footer.rights} {t.footer.licence}
         </p>
         <ul className="ftr__links">
           <li>
@@ -22,6 +22,16 @@ export default function Footer() {
             <a className="link-quiet meta" href={photographer.flickr} target="_blank" rel="noopener noreferrer">
               Flickr
             </a>
+          </li>
+          <li>
+            <Link className="link-quiet meta" to="/services">
+              {t.nav.services}
+            </Link>
+          </li>
+          <li>
+            <Link className="link-quiet meta" to="/quote">
+              {t.nav.quote}
+            </Link>
           </li>
           <li>
             <Link className="link-quiet meta" to="/contact">
