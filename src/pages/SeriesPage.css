@@ -1,0 +1,116 @@
+/* ─── photobook sequence ────────────────────────────────────────────────── */
+
+.book {
+  padding-block: clamp(3rem, 10vh, 7rem) clamp(2rem, 6vh, 4rem);
+  display: flex;
+  flex-direction: column;
+  gap: clamp(4rem, 14vh, 10rem);
+}
+
+.book__row {
+  display: grid;
+  gap: clamp(3rem, 10vh, 7rem) clamp(2rem, 6vw, 6rem);
+}
+
+.plate {
+  margin: 0;
+  width: 100%;
+}
+.plate__btn {
+  display: block;
+  width: 100%;
+  cursor: zoom-in;
+}
+.plate__btn:focus-visible {
+  outline-offset: 10px;
+}
+.plate__cap {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem 1rem;
+  margin-top: 0.9rem;
+}
+.plate__num {
+  color: var(--ink-faint);
+}
+.plate__caption,
+.plate__date {
+  color: var(--ink-faint);
+}
+
+/* single plates are centred and never taller than the viewport */
+.book__row--single .plate {
+  width: min(100%, calc(84vh * (var(--ar))));
+  margin-inline: auto;
+}
+
+@media (min-width: 900px) {
+  .book__row--pair {
+    grid-template-columns: 1fr 1fr;
+    align-items: start;
+  }
+  /* second plate of a pair sits lower — the photobook spread */
+  .book__row--pair .plate:nth-child(2) {
+    margin-top: clamp(3rem, 12vh, 8rem);
+  }
+  .book__row--pair .plate {
+    width: min(100%, calc(72vh * (var(--ar))));
+  }
+  .book__row--pair .plate:nth-child(1) {
+    justify-self: end;
+  }
+  .book__row--pair .plate:nth-child(2) {
+    justify-self: start;
+  }
+  /* every other single plate drifts off-centre */
+  .book__row--shift.book__row--single .plate {
+    margin-inline: 8% auto;
+  }
+}
+
+/* ─── prev / next ─────────────────────────────────────────────────────── */
+
+.book-nav {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  gap: 2rem;
+  align-items: end;
+  padding-block: clamp(3rem, 8vh, 6rem);
+  border-top: 1px solid var(--line);
+}
+.book-nav__link {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  color: var(--ink-dim);
+  transition: color var(--fade-short) var(--ease);
+}
+.book-nav__link:hover,
+.book-nav__link:focus-visible {
+  color: var(--ink);
+}
+.book-nav__link--next {
+  text-align: right;
+  align-items: flex-end;
+}
+.book-nav__title {
+  font-size: clamp(1.1rem, 1.7vw, 1.5rem);
+  max-width: 20ch;
+}
+.book-nav__all {
+  align-self: center;
+}
+
+@media (max-width: 640px) {
+  .book-nav {
+    grid-template-columns: 1fr;
+  }
+  .book-nav__link--next {
+    text-align: left;
+    align-items: flex-start;
+  }
+  .book-nav__all {
+    order: 3;
+    justify-self: start;
+  }
+}

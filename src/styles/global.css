@@ -1,0 +1,312 @@
+/* ─── Prunak — global styles ───────────────────────────────────────────
+   Chrome carries the mood (near-black, bone text, film grain, slow fades).
+   Photographs are never filtered, tinted or desaturated. */
+
+@import '@fontsource/gfs-didot/greek-400.css';
+@import '@fontsource/gfs-didot/latin-400.css';
+@import '@fontsource/ibm-plex-sans/greek-300.css';
+@import '@fontsource/ibm-plex-sans/latin-300.css';
+@import '@fontsource/ibm-plex-sans/greek-400.css';
+@import '@fontsource/ibm-plex-sans/latin-400.css';
+
+:root {
+  color-scheme: dark;
+
+  --bg: #0e0d0b;
+  --bg-raised: #14120f;
+  --line: #262320;
+  --ink: #d6d2c8;
+  --ink-dim: #9a958a;
+  --ink-faint: #6b665d;
+  --accent: #a3593f; /* dried-blood ochre — rules, focus, underline only */
+  --accent-deep: #6a3527;
+
+  --font-display: 'GFS Didot', 'Didot', 'Bodoni MT', 'Times New Roman', Georgia, serif;
+  --font-text: 'IBM Plex Sans', 'Helvetica Neue', Arial, system-ui, sans-serif;
+
+  --ease: cubic-bezier(0.25, 0.1, 0.25, 1);
+  --fade: 800ms;
+  --fade-short: 600ms;
+
+  --gutter: clamp(1.25rem, 4vw, 3.5rem);
+  --measure: 60ch;
+  --content-max: 1480px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --fade: 0ms;
+    --fade-short: 0ms;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  background: var(--bg);
+  -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font-text);
+  font-weight: 300;
+  font-size: 1rem;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+body.scroll-locked {
+  overflow: hidden;
+}
+
+/* film grain on the chrome — sits beneath content, so opaque photographs cover it */
+.grain {
+  position: fixed;
+  inset: -50%;
+  width: 200%;
+  height: 200%;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.038;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-size: 300px 300px;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .grain {
+    animation: grain-drift 9s steps(6) infinite;
+  }
+}
+@keyframes grain-drift {
+  0% { transform: translate(0, 0); }
+  20% { transform: translate(-2%, 1%); }
+  40% { transform: translate(1%, -2%); }
+  60% { transform: translate(-1%, 2%); }
+  80% { transform: translate(2%, -1%); }
+  100% { transform: translate(0, 0); }
+}
+
+#root {
+  position: relative;
+  z-index: 1;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+::selection {
+  background: var(--accent-deep);
+  color: var(--ink);
+}
+
+/* focus — a thin ochre hairline, offset, no glow */
+:focus {
+  outline: none;
+}
+:focus-visible {
+  outline: 1px solid var(--accent);
+  outline-offset: 4px;
+}
+
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: var(--gutter);
+  z-index: 100;
+  padding: 0.5rem 0.75rem;
+  background: var(--bg-raised);
+  color: var(--ink);
+  font-size: 0.75rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.skip-link:focus {
+  top: 0.75rem;
+}
+
+/* ─── type ─────────────────────────────────────────────────────────────── */
+
+.display {
+  font-family: var(--font-display);
+  font-weight: 400;
+  line-height: 1.12;
+  letter-spacing: 0.005em;
+  text-wrap: balance;
+}
+
+.label {
+  font-family: var(--font-text);
+  font-weight: 400;
+  font-size: 0.6875rem;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-dim);
+}
+.label--faint {
+  color: var(--ink-faint);
+}
+
+.meta {
+  font-family: var(--font-text);
+  font-weight: 300;
+  font-size: 0.8125rem;
+  letter-spacing: 0.04em;
+  color: var(--ink-dim);
+  font-variant-numeric: tabular-nums;
+}
+
+.rule {
+  width: 2.5rem;
+  height: 1px;
+  background: var(--accent-deep);
+  border: 0;
+  margin: 0;
+}
+
+.link-quiet {
+  color: var(--ink-dim);
+  border-bottom: 1px solid transparent;
+  transition: color var(--fade-short) var(--ease), border-color var(--fade-short) var(--ease);
+}
+.link-quiet:hover,
+.link-quiet:focus-visible {
+  color: var(--ink);
+  border-bottom-color: var(--accent);
+}
+
+.link-underline {
+  color: var(--ink);
+  border-bottom: 1px solid var(--line);
+  transition: border-color var(--fade-short) var(--ease);
+}
+.link-underline:hover,
+.link-underline:focus-visible {
+  border-bottom-color: var(--accent);
+}
+
+/* ─── layout ───────────────────────────────────────────────────────────── */
+
+.wrap {
+  width: 100%;
+  max-width: var(--content-max);
+  margin-inline: auto;
+  padding-inline: var(--gutter);
+}
+
+.wrap--narrow {
+  max-width: 44rem;
+}
+
+.page {
+  flex: 1;
+  animation: page-in var(--fade) var(--ease) both;
+}
+@keyframes page-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.page-head {
+  padding-top: clamp(4rem, 12vh, 8rem);
+  padding-bottom: clamp(2rem, 6vh, 4rem);
+}
+.page-head .display {
+  font-size: clamp(1.9rem, 3.4vw, 3rem);
+  margin: 0.75rem 0 0;
+  max-width: 22ch;
+}
+.page-head .lead {
+  margin: 1.25rem 0 0;
+  max-width: var(--measure);
+  color: var(--ink-dim);
+}
+.page-head .rule {
+  margin-top: 2rem;
+}
+
+.section {
+  padding-block: clamp(3rem, 8vh, 6rem);
+}
+
+.stack > * + * {
+  margin-top: 1.25rem;
+}
+
+.prose {
+  max-width: var(--measure);
+  font-size: 1.0625rem;
+  line-height: 1.75;
+}
+.prose p {
+  margin: 0 0 1.25em;
+}
+.prose h2,
+.prose h3 {
+  font-family: var(--font-display);
+  font-weight: 400;
+  margin: 2em 0 0.6em;
+}
+.prose a {
+  border-bottom: 1px solid var(--line);
+}
+.prose a:hover {
+  border-bottom-color: var(--accent);
+}
+
+.placeholder-tag {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border: 1px dashed var(--accent-deep);
+  color: var(--accent);
+  font-size: 0.625rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  margin-bottom: 1.5rem;
+}
+
+.sr-only {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}

@@ -1,0 +1,30 @@
+# build / deps
+node_modules/
+dist/
+*.local
+.DS_Store
+npm-debug.log*
+
+# generated at build (npm run gen:seo)
+public/sitemap.xml
+public/robots.txt
+
+# ── toumpano-assets hygiene ─────────────────────────────────────────────
+# Only web/ derivatives and manifest.json may enter this repo.
+# The full-resolution originals and the curation/metadata folders must
+# NEVER be committed or published, even if toumpano-assets/ is copied in whole.
+raw/
+curated/
+metadata/
+**/raw/
+**/curated/
+**/metadata/
+toumpano-assets/
+public/assets/raw/
+public/assets/curated/
+public/assets/metadata/
+*.jpg
+*.jpeg
+*.JPG
+*.png
+!src/**/*.png

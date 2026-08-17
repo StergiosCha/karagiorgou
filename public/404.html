@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="el">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Prunak</title>
+    <meta name="robots" content="noindex" />
+    <style>html{background:#0e0d0b}</style>
+    <script>
+      // GitHub Pages SPA fallback (spa-github-pages pattern).
+      // Keeps 1 path segment (/karagiorgou/) and forwards the rest to index.html as ?/path.
+      // If moving to a custom domain (base '/'), set pathSegmentsToKeep = 0.
+      var pathSegmentsToKeep = 1;
+      var l = window.location;
+      l.replace(
+        l.protocol + '//' + l.hostname + (l.port ? ':' + l.port : '') +
+        l.pathname.split('/').slice(0, 1 + pathSegmentsToKeep).join('/') + '/?/' +
+        l.pathname.slice(1).split('/').slice(pathSegmentsToKeep).join('/').replace(/&/g, '~and~') +
+        (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
+        l.hash
+      );
+    </script>
+  </head>
+  <body></body>
+</html>

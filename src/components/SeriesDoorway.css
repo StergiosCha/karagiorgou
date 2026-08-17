@@ -1,0 +1,84 @@
+.door {
+  padding-block: clamp(2rem, 6vh, 4.5rem);
+}
+.door + .door {
+  border-top: 1px solid var(--line);
+}
+
+.door__link {
+  display: grid;
+  gap: 1.5rem clamp(2rem, 5vw, 5rem);
+  align-items: end;
+  color: inherit;
+}
+.door__link:focus-visible {
+  outline-offset: 12px;
+}
+
+.door__num {
+  margin: 0 0 0.75rem;
+}
+.door__title {
+  margin: 0;
+  font-size: clamp(1.4rem, 2.2vw, 2rem);
+  max-width: 20ch;
+  transition: color var(--fade-short) var(--ease);
+}
+.door__desc {
+  margin: 1rem 0 0;
+  max-width: 40ch;
+  color: var(--ink-dim);
+  font-size: 0.9375rem;
+  line-height: 1.7;
+}
+.door__count {
+  margin: 1.25rem 0 0;
+  color: var(--ink-faint);
+}
+.door__link:hover .door__title,
+.door__link:focus-visible .door__title {
+  color: var(--ink);
+}
+
+/* the photograph itself never zooms; the whole plate simply brightens very slightly */
+.door__pic {
+  opacity: 0.92;
+  transition: opacity var(--fade) var(--ease);
+}
+.door__link:hover .door__pic,
+.door__link:focus-visible .door__pic {
+  opacity: 1;
+}
+
+@media (min-width: 900px) {
+  .door--door .door__link {
+    grid-template-columns: 46% 1fr;
+  }
+  .door--door.door--alt .door__link {
+    grid-template-columns: 1fr 46%;
+  }
+  .door--door.door--alt .door__pic {
+    order: 2;
+  }
+  .door--door.door--alt .door__text {
+    text-align: right;
+    justify-self: end;
+  }
+  .door--door.door--alt .door__title,
+  .door--door.door--alt .door__desc {
+    margin-left: auto;
+  }
+
+  .door--plate .door__link {
+    grid-template-columns: 62% 1fr;
+  }
+  .door--plate.door--alt .door__link {
+    grid-template-columns: 1fr 62%;
+  }
+  .door--plate.door--alt .door__pic {
+    order: 2;
+  }
+  .door--plate .door__title {
+    font-size: clamp(1.6rem, 2.6vw, 2.4rem);
+  }
+}

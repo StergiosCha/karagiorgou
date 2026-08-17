@@ -1,0 +1,24 @@
+.about {
+  display: grid;
+  gap: 3rem clamp(2rem, 6vw, 6rem);
+  align-items: start;
+}
+.about__portrait {
+  max-width: 28rem;
+}
+.about__portrait-note {
+  margin: 0.75rem 0 0;
+}
+.about__links {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 2.5rem;
+}
+@media (min-width: 900px) {
+  .about {
+    grid-template-columns: 34% 1fr;
+  }
+  .about__text {
+    padding-top: 0.5rem;
+  }
+}

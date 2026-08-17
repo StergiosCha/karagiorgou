@@ -1,0 +1,36 @@
+.pic {
+  position: relative;
+  display: block;
+  width: 100%;
+  overflow: hidden;
+  background: var(--bg-raised);
+}
+
+.pic__blur {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  /* slight overscale hides the soft edge of the tiny placeholder */
+  transform: scale(1.04);
+  opacity: 1;
+  transition: opacity var(--fade) var(--ease);
+}
+
+.pic__img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity var(--fade) var(--ease);
+}
+
+.pic.is-loaded .pic__img {
+  opacity: 1;
+}
+.pic.is-loaded .pic__blur {
+  opacity: 0;
+  transition-delay: 200ms;
+}
