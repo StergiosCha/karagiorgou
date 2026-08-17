@@ -51,8 +51,8 @@
    "slug": "urban-melancholy",
    "title_el": "Αστική Μελαγχολία",
    "title_en": "Urban Melancholy",
-   "description_el": "Άνθρωποι στην πόλη — περιμένοντας, περνώντας, μόνοι.",
-   "description_en": "People in the city — waiting, passing, alone.",
+   "description_el": "Μόνιμοι περαστικοί, περαστικοί θαμώνες.",
+   "description_en": "Permanent passers-by, passing regulars.",
    "hero": "flickr_38322486755",
    "photos": [
     "flickr_38322486755",
@@ -169,10 +169,10 @@
   },
   {
    "slug": "animals",
-   "title_el": "Μόνιμοι Περαστικοί",
-   "title_en": "Permanent Passers-by",
-   "description_el": "Περαστικοί θαμώνες — σκύλοι, γάτες, άλογα, πουλιά.",
-   "description_en": "Passing regulars — dogs, cats, horses, birds.",
+   "title_el": "Τα Ζώα του Τόπου",
+   "title_en": "The Animals Here",
+   "description_el": "Σκύλοι, γάτες, άλογα, πουλιά — οι μόνιμοι κάτοικοι.",
+   "description_en": "Dogs, cats, horses, birds — the permanent residents.",
    "hero": "flickr_52578224467",
    "photos": [
     "flickr_52578224467",
