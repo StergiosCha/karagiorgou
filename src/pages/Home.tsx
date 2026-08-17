@@ -1,8 +1,12 @@
+import { Link } from 'react-router-dom';
 import Hero from '../components/Hero';
 import Seo from '../components/Seo';
 import SeriesDoorway from '../components/SeriesDoorway';
 import { getPhoto, seriesList, siteHeroId, photographer } from '../data/manifest';
 import { useLang } from '../i18n/LanguageContext';
+
+/** how many series doorways the home page shows (the rest live on /portfolio) */
+const HOME_SERIES = 6;
 
 export default function Home() {
   const { t, lang } = useLang();
@@ -19,9 +23,14 @@ export default function Home() {
         </p>
       </section>
       <section className="wrap" aria-label={t.home.seriesLabel}>
-        {seriesList.map((s, i) => (
+        {seriesList.slice(0, HOME_SERIES).map((s, i) => (
           <SeriesDoorway key={s.slug} series={s} index={i} total={seriesList.length} variant="door" />
         ))}
+        <p className="home__more">
+          <Link to="/portfolio" className="link-underline">
+            {t.home.allSeries(seriesList.length)}
+          </Link>
+        </p>
       </section>
       <div className="section" aria-hidden="true" />
     </>
