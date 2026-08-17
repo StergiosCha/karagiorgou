@@ -1,15 +1,22 @@
 import Seo from '../components/Seo';
 import Picture from '../components/Picture';
-import { getPhoto, getSeries, photographer, seriesList } from '../data/manifest';
+import { photographer, type Photo } from '../data/manifest';
+import portraitMeta from '../data/portrait.json';
 import { useLang } from '../i18n/LanguageContext';
 import './About.css';
 
-/**
- * PLACEHOLDER portrait: until a real portrait is supplied, the slot shows one of her
- * own photographs. To replace, drop the portrait into public/assets/portrait/ and swap
- * <Picture> for a plain <img> — see README → "About page / portrait".
- */
-const PORTRAIT_PLACEHOLDER_ID = getSeries('urban-melancholy-solitude')?.hero ?? seriesList[0].hero;
+/** Portrait lives in public/assets/portrait/ (WebP 1600/800/400 + blur in src/data/portrait.json). */
+const portrait: Photo = {
+  src: { '1600': 'portrait/portrait-1600.webp', '800': 'portrait/portrait-800.webp', '400': 'portrait/portrait-400.webp' },
+  width: portraitMeta.width,
+  height: portraitMeta.height,
+  blur: portraitMeta.blur,
+  title_el: 'Παναγιώτα Καραγιώργου',
+  title_en: 'Panagiota Karagiorgou',
+  caption: '',
+  date: '',
+  source_url: '',
+};
 
 /** Sources for the verified CV lines — kept next to the data so nobody has to trust us. */
 const SOURCES: { label: string; url: string }[] = [
@@ -23,7 +30,6 @@ const SOURCES: { label: string; url: string }[] = [
 export default function About() {
   const { t, lang } = useLang();
   const name = lang === 'el' ? photographer.name_el : photographer.name_en;
-  const portrait = getPhoto(PORTRAIT_PLACEHOLDER_ID);
   const cv = t.about.cv;
   const sections = [cv.studies, cv.exhibitions, cv.publications, cv.commissions, cv.awards, cv.online];
 
@@ -38,8 +44,7 @@ export default function About() {
 
       <section className="about wrap">
         <div className="about__portrait">
-          <Picture photo={portrait} alt={t.about.portraitAlt} sizes="(min-width: 900px) 34vw, 100vw" />
-          <p className="label label--faint about__portrait-note">{t.about.placeholderNote}</p>
+          <Picture photo={portrait} alt={t.about.portraitAlt} sizes="(min-width: 900px) 34vw, 100vw" priority />
         </div>
         <div className="about__text prose">
           <span className="placeholder-tag">{t.about.placeholderNote}</span>

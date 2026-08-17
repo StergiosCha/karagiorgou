@@ -28,3 +28,4 @@ public/assets/metadata/
 *.JPG
 *.png
 !src/**/*.png
+!public/assets/portrait/*.webp
