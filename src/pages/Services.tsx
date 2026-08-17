@@ -1,16 +1,25 @@
 import { Link } from 'react-router-dom';
 import Seo from '../components/Seo';
 import Picture from '../components/Picture';
-import { getPhoto, getSeries, printablePhotos, seriesList } from '../data/manifest';
+import { getPhoto, getSeries, photos, printablePhotos, seriesList } from '../data/manifest';
 import { useLang } from '../i18n/LanguageContext';
 import './Services.css';
 
 type Key = 'wedding' | 'music' | 'prints';
 
-/** one photograph per offer — pulled from the manifest so nothing is hard-coded to a file */
+/**
+ * One photograph per offer. Prefer an explicit photo id (must exist in the manifest);
+ * fall back to a series hero, then to the first series. Change the ids here to re-art-direct.
+ */
+const OFFER_PHOTO: Record<Key, { id?: string; series: string }> = {
+  wedding: { id: 'flickr_26458806856', series: 'urban-melancholy' },   // children running through dappled light
+  music: { id: 'flickr_22702028713', series: 'negative-space' },       // double-exposure portrait
+  prints: { series: 'fog-and-haze' },
+};
 function offerPhoto(key: Key) {
-  const bySlug: Record<Key, string> = { wedding: 'urban-melancholy', music: 'negative-space', prints: 'fog-and-haze' };
-  const s = getSeries(bySlug[key]) ?? seriesList[0];
+  const o = OFFER_PHOTO[key];
+  if (o.id && photos[o.id]) return photos[o.id];
+  const s = getSeries(o.series) ?? seriesList[0];
   return getPhoto(s.hero);
 }
 
