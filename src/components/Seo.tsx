@@ -55,7 +55,7 @@ export default function Seo({ title, description, image, type = 'website' }: Pro
   const { pathname } = useLocation();
 
   useEffect(() => {
-    const full = title ? `${title} — ${t.siteName}` : `${t.siteName} — ${lang === 'el' ? 'Παναγιώτα Καραγιώργου' : 'Panagiota Karagiorgou'}`;
+    const full = title ? `${title} · ${t.siteName}` : `${t.siteName} · ${lang === 'el' ? 'Παναγιώτα Καραγιώργου' : 'Panagiota Karagiorgou'}`;
     document.title = full;
 
     const base = import.meta.env.BASE_URL.replace(/\/$/, '');
@@ -101,7 +101,7 @@ export default function Seo({ title, description, image, type = 'website' }: Pro
             '@context': 'https://schema.org',
             '@type': 'LocalBusiness',
             '@id': `${SITE_ORIGIN}${base}/#business`,
-            name: `${t.siteName} — ${lang === 'el' ? photographer.name_el : photographer.name_en}`,
+            name: `${t.siteName} · ${lang === 'el' ? photographer.name_el : photographer.name_en}`,
             image: img,
             url: `${SITE_ORIGIN}${base}/services`,
             email: site.email,

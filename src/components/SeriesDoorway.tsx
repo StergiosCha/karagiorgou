@@ -22,7 +22,7 @@ export default function SeriesDoorway({ series, index, total, variant = 'door' }
 
   return (
     <article className={`door door--${variant}${index % 2 ? ' door--alt' : ''}`}>
-      <Link to={`/series/${series.slug}`} className="door__link" aria-label={`${title} — ${t.home.enter}`}>
+      <Link to={`/series/${series.slug}`} className="door__link" aria-label={`${title}: ${t.home.enter}`}>
         <div className="door__pic">
           <Picture photo={hero} alt={title} sizes={variant === 'plate' ? '(min-width: 900px) 62vw, 100vw' : '(min-width: 900px) 46vw, 100vw'} decorative />
         </div>
