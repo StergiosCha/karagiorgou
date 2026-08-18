@@ -29,8 +29,11 @@ export default function Header() {
                 </NavLink>
               </li>
             ))}
-            <li className="hdr__lang-item">
-              <button type="button" className="hdr__lang" onClick={toggle} aria-label={t.langToggle} lang={lang === 'el' ? 'en' : 'el'}>
+
+          </ul>
+        </nav>
+        <div className="hdr__lang-item">
+          <button type="button" className="hdr__lang" onClick={toggle} aria-label={t.langToggle} lang={lang === 'el' ? 'en' : 'el'}>
                 <span className={lang === 'el' ? 'is-on' : ''} aria-hidden="true">
                   ΕΛ
                 </span>
@@ -41,9 +44,7 @@ export default function Header() {
                   EN
                 </span>
               </button>
-            </li>
-          </ul>
-        </nav>
+        </div>
       </div>
     </header>
   );

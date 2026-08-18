@@ -65,3 +65,10 @@
   font-size: clamp(1.25rem, 1.8vw, 1.75rem);
   letter-spacing: 0.12em;
 }
+
+@media (max-width: 720px) {
+  .hero--full { min-height: calc(100svh - 6rem); }
+  /* portrait phones: crop out the photo's own white border instead of showing a grey band */
+  .hero__frame .pic__img { transform: scale(1.5); }
+  .hero__text { padding-top: 3rem; }
+}

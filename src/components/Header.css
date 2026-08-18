@@ -7,6 +7,7 @@
 }
 
 .hdr__inner {
+  position: relative;
   display: flex;
   align-items: baseline;
   justify-content: space-between;
@@ -52,6 +53,7 @@
 
 .hdr__lang-item {
   margin-left: clamp(0.25rem, 1.5vw, 1rem);
+  align-self: baseline;
 }
 .hdr__lang {
   display: inline-flex;
@@ -64,18 +66,25 @@
   color: var(--ink-faint);
 }
 
-@media (max-width: 640px) {
+@media (max-width: 720px) {
+  /* on phones the header is a solid bar above the content, never over the hero */
+  .hdr {
+    position: sticky;
+    background: var(--bg);
+    border-bottom: 1px solid var(--line);
+  }
   .hdr__inner {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.9rem;
-    padding-block: 1.25rem;
+    display: grid;
+    grid-template-columns: 1fr auto;
+    grid-template-areas: 'brand lang' 'nav nav';
+    align-items: center;
+    gap: 0.6rem 1rem;
+    padding-block: 0.9rem 0.6rem;
   }
-  .hdr__nav ul {
-    flex-wrap: wrap;
-    gap: 0.9rem 1.25rem;
-  }
-  .hdr__lang-item {
-    margin-left: 0;
-  }
+  .hdr__brand { grid-area: brand; }
+  .hdr__nav { grid-area: nav; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; margin-inline: calc(-1 * var(--gutter)); padding-inline: var(--gutter); }
+  .hdr__nav::-webkit-scrollbar { display: none; }
+  .hdr__nav ul { flex-wrap: nowrap; gap: 1.25rem; white-space: nowrap; padding-bottom: 0.2rem; }
+  .hdr__lang-item { grid-area: lang; margin-left: 0; justify-self: end; }
+  .hdr__lang { color: var(--ink); }
 }
