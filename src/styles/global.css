@@ -315,3 +315,4 @@ button {
   padding-block: clamp(2rem, 6vh, 4rem) 0;
   font-size: 1rem;
 }
+body.menu-open { overflow: hidden; }

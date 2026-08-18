@@ -1,9 +1,19 @@
-import { NavLink, Link } from 'react-router-dom';
+import { useEffect, useState } from 'react';
+import { NavLink, Link, useLocation } from 'react-router-dom';
 import { useLang } from '../i18n/LanguageContext';
 import './Header.css';
 
 export default function Header() {
   const { t, lang, toggle } = useLang();
+  const [open, setOpen] = useState(false);
+  const { pathname } = useLocation();
+  useEffect(() => setOpen(false), [pathname]);
+  useEffect(() => {
+    document.body.classList.toggle('menu-open', open);
+    const onKey = (e: KeyboardEvent) => e.key === 'Escape' && setOpen(false);
+    document.addEventListener('keydown', onKey);
+    return () => { document.removeEventListener('keydown', onKey); document.body.classList.remove('menu-open'); };
+  }, [open]);
   const items: { to: string; label: string }[] = [
     { to: '/portfolio', label: t.nav.portfolio },
     { to: '/services', label: t.nav.services },
@@ -20,7 +30,10 @@ export default function Header() {
         <Link to="/" className="hdr__brand" aria-label={`${t.siteName} — ${t.nav.home}`}>
           <span className="hdr__brand-name display">{t.siteName}</span>
         </Link>
-        <nav className="hdr__nav" aria-label={lang === 'el' ? 'Κύριο μενού' : 'Main navigation'}>
+        <button type="button" className="hdr__burger" aria-expanded={open} aria-controls="site-nav" aria-label={open ? (lang === 'el' ? 'Κλείσιμο μενού' : 'Close menu') : (lang === 'el' ? 'Μενού' : 'Menu')} onClick={() => setOpen((o) => !o)}>
+          <span className="hdr__burger-line" /><span className="hdr__burger-line" /><span className="hdr__burger-line" />
+        </button>
+        <nav id="site-nav" className={`hdr__nav${open ? ' is-open' : ''}`} aria-label={lang === 'el' ? 'Κύριο μενού' : 'Main navigation'}>
           <ul>
             {items.map((it) => (
               <li key={it.to}>

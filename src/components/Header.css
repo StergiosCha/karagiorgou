@@ -66,25 +66,62 @@
   color: var(--ink-faint);
 }
 
+/* burger, hidden on desktop */
+.hdr__burger {
+  display: none;
+  width: 2.5rem;
+  height: 2.5rem;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  margin: -0.5rem -0.5rem -0.5rem 0;
+}
+.hdr__burger-line {
+  display: block;
+  width: 20px;
+  height: 1px;
+  background: var(--ink);
+  transition: transform var(--fade-short) var(--ease), opacity var(--fade-short) var(--ease);
+}
+.hdr__burger[aria-expanded='true'] .hdr__burger-line:nth-child(1) { transform: translateY(6px) rotate(45deg); }
+.hdr__burger[aria-expanded='true'] .hdr__burger-line:nth-child(2) { opacity: 0; }
+.hdr__burger[aria-expanded='true'] .hdr__burger-line:nth-child(3) { transform: translateY(-6px) rotate(-45deg); }
+
 @media (max-width: 720px) {
-  /* on phones the header is a solid bar above the content, never over the hero */
+  /* on phones: solid bar above the hero, brand left, ΕΛ/EN + burger right, menu drops down full width */
   .hdr {
     position: sticky;
     background: var(--bg);
     border-bottom: 1px solid var(--line);
   }
   .hdr__inner {
-    display: grid;
-    grid-template-columns: 1fr auto;
-    grid-template-areas: 'brand lang' 'nav nav';
+    display: flex;
     align-items: center;
-    gap: 0.6rem 1rem;
-    padding-block: 0.9rem 0.6rem;
+    justify-content: space-between;
+    gap: 0.75rem;
+    padding-block: 0.9rem;
+    flex-wrap: nowrap;
   }
-  .hdr__brand { grid-area: brand; }
-  .hdr__nav { grid-area: nav; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; margin-inline: calc(-1 * var(--gutter)); padding-inline: var(--gutter); }
-  .hdr__nav::-webkit-scrollbar { display: none; }
-  .hdr__nav ul { flex-wrap: nowrap; gap: 1.25rem; white-space: nowrap; padding-bottom: 0.2rem; }
-  .hdr__lang-item { grid-area: lang; margin-left: 0; justify-self: end; }
+  .hdr__brand { margin-right: auto; }
+  .hdr__lang-item { margin-left: 0; order: 2; }
   .hdr__lang { color: var(--ink); }
+  .hdr__burger { display: flex; order: 3; }
+  .hdr__nav {
+    order: 4;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 100%;
+    background: var(--bg);
+    border-bottom: 1px solid var(--line);
+    padding: 0.5rem var(--gutter) 1.25rem;
+    display: none;
+  }
+  .hdr__nav.is-open { display: block; animation: page-in var(--fade-short) var(--ease) both; }
+  .hdr__nav ul { flex-direction: column; align-items: stretch; gap: 0; }
+  .hdr__nav li { border-top: 1px solid var(--line); }
+  .hdr__link { display: block; padding: 0.95rem 0; font-size: 0.8rem; border-bottom: 0; }
+  .hdr__link.is-active { color: var(--ink); border-bottom: 0; }
+  .hdr__link.is-active::before { content: '— '; color: var(--accent); }
 }
