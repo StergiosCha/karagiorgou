@@ -136,7 +136,8 @@
     "flickr_38684222970",
     "flickr_15551591884",
     "flickr_32231638175",
-    "2026-01-01_11-55-22_UTC_DS95cDViCP3_1"
+    "2026-01-01_11-55-22_UTC_DS95cDViCP3_1",
+    "up-winter-aytokinito-sto-chioni"
    ]
   },
   {
@@ -2836,6 +2837,21 @@
    "caption": "",
    "date": "",
    "source_url": "https://www.flickr.com/photos/prunak/36364916186"
+  },
+  "up-winter-aytokinito-sto-chioni": {
+   "src": {
+    "400": "web/400/up-winter-aytokinito-sto-chioni.webp",
+    "800": "web/800/up-winter-aytokinito-sto-chioni.webp",
+    "1600": "web/1600/up-winter-aytokinito-sto-chioni.webp"
+   },
+   "width": 1064,
+   "height": 1600,
+   "blur": "data:image/webp;base64,UklGRkIAAABXRUJQVlA4IDYAAABQAwCdASoQABgAPu1iqU2ppaQiMAgBMB2JaQAAW+nyDkxHiAD+9BuLMUFQ1f0xW+wRc6NUAAA=",
+   "title_el": "",
+   "title_en": "",
+   "caption": "",
+   "date": "",
+   "source_url": ""
   }
  }
 }
