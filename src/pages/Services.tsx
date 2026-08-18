@@ -1,7 +1,8 @@
 import { Link } from 'react-router-dom';
 import Seo from '../components/Seo';
 import Picture from '../components/Picture';
-import { getPhoto, getSeries, photos, printablePhotos, seriesList } from '../data/manifest';
+import { getPhoto, getSeries, photos, printablePhotos, seriesList, type Photo } from '../data/manifest';
+import darkNightmare from '../data/dark-nightmare.json';
 import { useLang } from '../i18n/LanguageContext';
 import './Services.css';
 
@@ -16,7 +17,10 @@ const OFFER_PHOTO: Record<Key, { id?: string; series: string }> = {
   music: { id: 'flickr_22702028713', series: 'negative-space' },       // double-exposure portrait
   prints: { series: 'fog-and-haze' },
 };
+/** Dark Nightmare promo photo (band shot by Panagiota), lives outside the manifest in public/assets/extra/ */
+const DARK_NIGHTMARE: Photo = { src: darkNightmare.src as Photo['src'], width: darkNightmare.width, height: darkNightmare.height, blur: darkNightmare.blur, title_el: 'Dark Nightmare', title_en: 'Dark Nightmare', caption: '', date: '', source_url: '' };
 function offerPhoto(key: Key) {
+  if (key === 'music') return DARK_NIGHTMARE;
   const o = OFFER_PHOTO[key];
   if (o.id && photos[o.id]) return photos[o.id];
   const s = getSeries(o.series) ?? seriesList[0];
