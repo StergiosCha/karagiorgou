@@ -25,10 +25,8 @@ const manifest = JSON.parse(readFileSync(MANIFEST, 'utf8'));
 let changed = false;
 const log = (line) => { console.log(line); appendFileSync(LOG, `${new Date().toISOString().slice(0, 16).replace('T', ' ')}  ${line}\n`); };
 
-const slugify = (s) => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
-  .replace(/[αάa]/g, 'a').replace(/[βb]/g, 'b').replace(/γ/g, 'g').replace(/δ/g, 'd').replace(/[εέe]/g, 'e').replace(/ζ/g, 'z').replace(/[ηήh]/g, 'i').replace(/θ/g, 'th')
-  .replace(/[ιίϊΐi]/g, 'i').replace(/κ/g, 'k').replace(/λ/g, 'l').replace(/μ/g, 'm').replace(/ν/g, 'n').replace(/ξ/g, 'x').replace(/[οόo]/g, 'o').replace(/π/g, 'p').replace(/ρ/g, 'r')
-  .replace(/[σςs]/g, 's').replace(/τ/g, 't').replace(/[υύϋΰy]/g, 'y').replace(/φ/g, 'f').replace(/χ/g, 'ch').replace(/ψ/g, 'ps').replace(/[ωώw]/g, 'o')
+const GR = { α: 'a', ά: 'a', β: 'b', γ: 'g', δ: 'd', ε: 'e', έ: 'e', ζ: 'z', η: 'i', ή: 'i', θ: 'th', ι: 'i', ί: 'i', ϊ: 'i', ΐ: 'i', κ: 'k', λ: 'l', μ: 'm', ν: 'n', ξ: 'x', ο: 'o', ό: 'o', π: 'p', ρ: 'r', σ: 's', ς: 's', τ: 't', υ: 'y', ύ: 'y', ϋ: 'y', ΰ: 'y', φ: 'f', χ: 'ch', ψ: 'ps', ω: 'o', ώ: 'o' };
+const slugify = (s) => Array.from(s.toLowerCase()).map((c) => GR[c] ?? c).join('').normalize('NFD').replace(/[\u0300-\u036f]/g, '')
   .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '') || 'x';
 
 async function derive(file, outDir, base, sizes) {
