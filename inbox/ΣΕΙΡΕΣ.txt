@@ -1,0 +1,5 @@
+# Μία γραμμή ανά σειρά:  κωδικός | Ελληνικός τίτλος | English title
+# Ο κωδικός είναι το όνομα του φακέλου μέσα στο inbox (λατινικά, χωρίς κενά, π.χ. thalassa).
+# Για να μετονομάσεις μια υπάρχουσα σειρά, γράψε τον κωδικό της με τους νέους τίτλους.
+# Υπάρχουσες σειρές: fog-and-haze, aesthetics-of-decay, urban-melancholy, negative-space, still-waters,
+#   winter, hard-light, behind-glass, animals, forest-and-leaves, night, industrial, roads-and-horizons, still-life

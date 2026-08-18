@@ -28,5 +28,6 @@ public/assets/metadata/
 *.JPG
 *.png
 !src/**/*.png
+!inbox/**
 !public/assets/portrait/*.webp
 !public/assets/extra/*.webp
