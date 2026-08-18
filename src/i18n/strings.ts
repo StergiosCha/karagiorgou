@@ -10,7 +10,7 @@ const dict = {
     placeholder: 'ΥΠΟΔΕΙΓΜΑ, προς αντικατάσταση',
     toConfirm: 'προς επιβεβαίωση',
     home: {
-      intro: 'Ερείπια, ομίχλη, στάσιμα νερά: φωτογραφίες από τον βορρά της Ελλάδας, φωτογραφίες από τις εσχατιές των Βαλκανίων.',
+      intro: 'Φωτογραφίες από τον βορρά της Ελλάδας.',
       seriesLabel: 'Σειρές',
       enter: 'Είσοδος',
       allSeries: (n: number) => `Όλες οι σειρές (${n}) →`,
@@ -168,7 +168,7 @@ const dict = {
     placeholder: 'PLACEHOLDER, replace',
     toConfirm: 'to confirm',
     home: {
-      intro: 'Ruins, fog, still waters: photographs from the north of Greece, photographs from the far edges of the Balkans.',
+      intro: 'Photographs from the north of Greece.',
       seriesLabel: 'Series',
       enter: 'Enter',
       allSeries: (n: number) => `All series (${n}) →`,
