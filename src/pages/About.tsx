@@ -21,7 +21,6 @@ const portrait: Photo = {
 /** Sources for the verified CV lines — kept next to the data so nobody has to trust us. */
 const SOURCES: { label: string; url: string }[] = [
   { label: 'Underdogs #6 (2015)', url: 'https://www.flickr.com/photos/isagelb/21446578733' },
-  { label: 'Phases Magazine (2018)', url: 'https://www.phasesmag.com/tpost/panagiota-karagiorgou/' },
   { label: 'Dada Tapes (2016)', url: 'https://dadatapes.bandcamp.com/album/a-cold-kiss-for-torrid-days' },
   { label: 'Tuber — Out Of The Blue (2017)', url: 'https://tuber.bandcamp.com/album/out-of-the-blue' },
   { label: 'Discogs', url: 'https://www.discogs.com/artist/5408181-Panagiota-Karagiorgou' },
@@ -31,7 +30,7 @@ export default function About() {
   const { t, lang } = useLang();
   const name = lang === 'el' ? photographer.name_el : photographer.name_en;
   const cv = t.about.cv;
-  const sections = [cv.studies, cv.exhibitions, cv.publications, cv.commissions, cv.awards, cv.online];
+  const sections = [cv.publications, cv.commissions, cv.online];
 
   return (
     <>

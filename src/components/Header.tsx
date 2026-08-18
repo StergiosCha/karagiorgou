@@ -8,7 +8,6 @@ export default function Header() {
     { to: '/portfolio', label: t.nav.portfolio },
     { to: '/services', label: t.nav.services },
     { to: '/about', label: t.nav.about },
-    { to: '/journal', label: t.nav.journal },
     { to: '/contact', label: t.nav.contact },
   ];
 
@@ -19,7 +18,7 @@ export default function Header() {
       </a>
       <div className="hdr__inner wrap">
         <Link to="/" className="hdr__brand" aria-label={`${t.siteName} — ${t.nav.home}`}>
-          <span className="hdr__brand-name display">Prunak</span>
+          <span className="hdr__brand-name display">{t.siteName}</span>
         </Link>
         <nav className="hdr__nav" aria-label={lang === 'el' ? 'Κύριο μενού' : 'Main navigation'}>
           <ul>

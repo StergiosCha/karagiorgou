@@ -2,7 +2,7 @@ export type Lang = 'el' | 'en';
 
 const dict = {
   el: {
-    siteName: 'Prunak',
+    siteName: 'P. Karagiorgou',
     tagline: 'φωτογραφίες',
     nav: { home: 'Αρχική', portfolio: 'Portfolio', services: 'Υπηρεσίες', about: 'Βιογραφικό', journal: 'Ημερολόγιο', contact: 'Επικοινωνία', quote: 'Ζήτησε προσφορά' },
     langToggle: 'Αλλαγή γλώσσας σε Αγγλικά',
@@ -15,7 +15,7 @@ const dict = {
       enter: 'Είσοδος',
       allSeries: (n: number) => `Όλες οι σειρές (${n}) →`,
       metaDescription:
-        'Prunak, φωτογραφικό portfolio της Παναγιώτας Καραγιώργου. Ομίχλη, φθορά, αστική μελαγχολία, αρνητικός χώρος, στάσιμα νερά, χειμώνας.',
+        'Φωτογραφικό portfolio της Παναγιώτας Καραγιώργου. Ομίχλη, φθορά, αστική μελαγχολία, αρνητικός χώρος, στάσιμα νερά, χειμώνας.',
     },
     portfolio: {
       title: 'Portfolio',
@@ -52,12 +52,12 @@ const dict = {
       items: {
         wedding: {
           title: 'Γάμος & Βάπτιση',
-          body: 'Ολοήμερη ή μερική κάλυψη, χωρίς στημένες πόζες, η μέρα σας χωρίς παρεμβάσεις. Παράδοση επεξεργασμένων αρχείων σε online γκαλερί. Άλμπουμ και prints κατόπιν συνεννόησης.',
+          body: 'Ολοήμερη ή μερική κάλυψη. Παράδοση επεξεργασμένων αρχείων σε online γκαλερί.',
           bullets: ['Γρεβενά, Θεσσαλονίκη & Βόρεια Ελλάδα, μετακίνηση παντού', 'Φιλμ ή ψηφιακό, ή συνδυασμός', 'Παράδοση σε 4–8 εβδομάδες'],
           note: '',
         },
         music: {
-          title: 'Μουσική: bands, live, εξώφυλλα',
+          title: 'Μπάντες, Εξώφυλλα',
           body: 'Πορτρέτα συγκροτημάτων, live φωτογράφιση, εικόνα για δίσκους και promo. Ενδεικτικά: το band photo των Dada Tapes (A Cold Kiss For Torrid Days, 2016) και η φωτογραφία του άλμπουμ Out Of The Blue των Tuber (Neda Records, 2017).',
           bullets: ['Promo / press photos', 'Live σε clubs και φεστιβάλ', 'Εικόνα εξωφύλλου, artwork από το αρχείο'],
           note: '',
@@ -66,7 +66,7 @@ const dict = {
           title: 'Prints, εκθέσεις & γκαλερί',
           body: 'Επιλεγμένα έργα διατίθενται ως prints σε περιορισμένες εκδόσεις. Ανοιχτή σε συνεργασίες με γκαλερί, ομαδικές εκθέσεις, εκδόσεις και δανεισμό έργων.',
           bullets: ['Pigment prints σε χαρτί αρχειακής ποιότητας', 'Αριθμημένες εκδόσεις, υπογεγραμμένες', 'Πιστοποιητικό αυθεντικότητας'],
-          note: 'ΥΠΟΔΕΙΓΜΑ: μεγέθη, χαρτί, εκδόσεις και τιμές προς επιβεβαίωση',
+          note: '',
         },
       },
       printsAvailableTitle: 'Διαθέσιμα έργα',
@@ -77,7 +77,7 @@ const dict = {
       title: 'Ζήτησε προσφορά',
       lead: 'Πες μου τι χρειάζεσαι. Απαντώ συνήθως μέσα σε δύο μέρες.',
       serviceLabel: 'Τι σε ενδιαφέρει;',
-      services: { wedding: 'Γάμος / Βάπτιση', music: 'Μουσική: band, live, εξώφυλλο', print: 'Print / έκθεση / γκαλερί', other: 'Κάτι άλλο' },
+      services: { wedding: 'Γάμος / Βάπτιση', music: 'Μπάντες, Εξώφυλλα', print: 'Print / έκθεση / γκαλερί', other: 'Κάτι άλλο' },
       name: 'Όνομα',
       email: 'Email',
       phone: 'Τηλέφωνο (προαιρετικό)',
@@ -113,14 +113,12 @@ const dict = {
       title: 'Βιογραφικό',
       placeholderNote: 'ΚΕΙΜΕΝΟ ΥΠΟΔΕΙΓΜΑ, προς αντικατάσταση',
       body: [
-        'Η Παναγιώτα Καραγιώργου (Prunak) φωτογραφίζει από το 2013 τον βορρά της Ελλάδας και τα Βαλκάνια, ό,τι απομένει όταν οι άνθρωποι φεύγουν: κτίσματα που φθίνουν, πεδιάδες μέσα στην ομίχλη, στάσιμα νερά, χιόνι.',
+        'Η Παναγιώτα Καραγιώργου φωτογραφίζει από το 2013 τον βορρά της Ελλάδας και τα Βαλκάνια, ό,τι απομένει όταν οι άνθρωποι φεύγουν: κτίσματα που φθίνουν, πεδιάδες μέσα στην ομίχλη, στάσιμα νερά, χιόνι.',
         'Δουλεύει κυρίως με φιλμ (Zenit ET, Zenit 122, Mamiya ZE2, Mamiya Universal) με διπλές εκθέσεις, freelensing και κυανοτυπίες, και ψηφιακά με Nikon. Ζει και εργάζεται στα Γρεβενά.',
       ],
       portraitAlt: 'Πορτρέτο της Παναγιώτας Καραγιώργου',
       cvTitle: 'Βιογραφικό σημείωμα',
       cv: {
-        studies: { title: 'Σπουδές', items: ['[προς επιβεβαίωση]'] },
-        exhibitions: { title: 'Εκθέσεις', items: ['[προς επιβεβαίωση: ατομικές / ομαδικές]'] },
         publications: {
           title: 'Δημοσιεύσεις & features',
           items: ['Underdogs, τεύχος 6, photozine της Isa Gelb, Οκτώβριος 2015', 'Phases Magazine, featured photographer, Φεβρουάριος 2018', 'Yes We Are Magazine (Tumblr), αναδημοσίευση έργων ως PrunaK'],
@@ -129,11 +127,10 @@ const dict = {
           title: 'Παραγγελίες & credits',
           items: ['Dada Tapes, band photo, A Cold Kiss For Torrid Days (2016)', 'Tuber, φωτογραφία άλμπουμ Out Of The Blue (Neda Records, 2017)', '[γάμοι, βαπτίσεις, live, προς επιβεβαίωση]'],
         },
-        awards: { title: 'Διακρίσεις', items: ['[προς επιβεβαίωση]'] },
-        online: { title: 'Online', items: ['Flickr, prunak, από το 2013, ~1.000 φωτογραφίες', 'Instagram, @karagiorgou_panagiota'] },
+        online: { title: 'Online', items: ['Flickr, prunak, από το 2013', 'Instagram, @karagiorgou_panagiota'] },
       },
       downloadCv: 'Λήψη CV (PDF)',
-      metaDescription: 'Βιογραφικό της φωτογράφου Παναγιώτας Καραγιώργου (Prunak), Γρεβενά. Φιλμ, κυανοτυπία, βόρεια τοπία.',
+      metaDescription: 'Βιογραφικό της φωτογράφου Παναγιώτας Καραγιώργου, Γρεβενά. Φιλμ, κυανοτυπία, βόρεια τοπία.',
     },
     journal: {
       title: 'Ημερολόγιο',
@@ -163,7 +160,7 @@ const dict = {
     footer: { rights: 'Όλα τα δικαιώματα διατηρούνται.', copyright: 'Παναγιώτα Καραγιώργου', licence: 'Οι φωτογραφίες δεν επιτρέπεται να αναπαραχθούν χωρίς άδεια.' },
   },
   en: {
-    siteName: 'Prunak',
+    siteName: 'P. Karagiorgou',
     tagline: 'photographs',
     nav: { home: 'Home', portfolio: 'Portfolio', services: 'Services', about: 'About', journal: 'Journal', contact: 'Contact', quote: 'Get a quote' },
     langToggle: 'Switch language to Greek',
@@ -176,7 +173,7 @@ const dict = {
       enter: 'Enter',
       allSeries: (n: number) => `All series (${n}) →`,
       metaDescription:
-        'Prunak, the photographic portfolio of Panagiota Karagiorgou. Fog, decay, urban melancholy, negative space, still waters, winter.',
+        'The photographic portfolio of Panagiota Karagiorgou. Fog, decay, urban melancholy, negative space, still waters, winter.',
     },
     portfolio: {
       title: 'Portfolio',
@@ -213,12 +210,12 @@ const dict = {
       items: {
         wedding: {
           title: 'Weddings & Christenings',
-          body: 'Full-day or partial coverage, no staged poses, your day without interference. Edited files delivered in an online gallery. Albums and prints by arrangement.',
+          body: 'Full-day or partial coverage. Edited files delivered in an online gallery.',
           bullets: ['Grevena, Thessaloniki & northern Greece, will travel anywhere', 'Film or digital, or both', 'Delivery in 4–8 weeks'],
           note: '',
         },
         music: {
-          title: 'Music: bands, live, covers',
+          title: 'Bands, Covers',
           body: 'Band portraits, live shows, album and promo imagery. Credits include the band photo for Dada Tapes (A Cold Kiss For Torrid Days, 2016) and the album photography for Tuber’s Out Of The Blue (Neda Records, 2017).',
           bullets: ['Promo / press photos', 'Live in clubs and festivals', 'Cover imagery, artwork from the archive'],
           note: '',
@@ -227,7 +224,7 @@ const dict = {
           title: 'Prints, exhibitions & galleries',
           body: 'Selected works are available as prints in limited editions. Open to gallery collaborations, group shows, publications and loans.',
           bullets: ['Pigment prints on archival paper', 'Numbered, signed editions', 'Certificate of authenticity'],
-          note: 'PLACEHOLDER: sizes, paper, editions and prices to be confirmed',
+          note: '',
         },
       },
       printsAvailableTitle: 'Available works',
@@ -238,7 +235,7 @@ const dict = {
       title: 'Get a quote',
       lead: 'Tell me what you need. I usually reply within two days.',
       serviceLabel: 'What is it about?',
-      services: { wedding: 'Wedding / Christening', music: 'Music: band, live, cover', print: 'Print / exhibition / gallery', other: 'Something else' },
+      services: { wedding: 'Wedding / Christening', music: 'Bands, Covers', print: 'Print / exhibition / gallery', other: 'Something else' },
       name: 'Name',
       email: 'Email',
       phone: 'Phone (optional)',
@@ -274,14 +271,12 @@ const dict = {
       title: 'About',
       placeholderNote: 'PLACEHOLDER, replace this text',
       body: [
-        'Panagiota Karagiorgou (Prunak) has photographed northern Greece and the Balkans since 2013, whatever remains when people leave: buildings in decline, plains under fog, still water, snow.',
+        'Panagiota Karagiorgou has photographed northern Greece and the Balkans since 2013, whatever remains when people leave: buildings in decline, plains under fog, still water, snow.',
         'She works mostly on film (Zenit ET, Zenit 122, Mamiya ZE2, Mamiya Universal) with double exposures, freelensing and cyanotypes, and digitally on Nikon. She lives and works in Grevena.',
       ],
       portraitAlt: 'Portrait of Panagiota Karagiorgou',
       cvTitle: 'Curriculum vitae',
       cv: {
-        studies: { title: 'Studies', items: ['[to confirm]'] },
-        exhibitions: { title: 'Exhibitions', items: ['[to confirm: solo / group]'] },
         publications: {
           title: 'Publications & features',
           items: ['Underdogs, issue 6, the photozine of Isa Gelb, October 2015', 'Phases Magazine, featured photographer, February 2018', 'Yes We Are Magazine (Tumblr), work republished as PrunaK'],
@@ -290,11 +285,10 @@ const dict = {
           title: 'Commissions & credits',
           items: ['Dada Tapes, band photo, A Cold Kiss For Torrid Days (2016)', 'Tuber, album photography, Out Of The Blue (Neda Records, 2017)', '[weddings, christenings, live, to confirm]'],
         },
-        awards: { title: 'Awards', items: ['[to confirm]'] },
-        online: { title: 'Online', items: ['Flickr, prunak, since 2013, ~1,000 photographs', 'Instagram, @karagiorgou_panagiota'] },
+        online: { title: 'Online', items: ['Flickr, prunak, since 2013', 'Instagram, @karagiorgou_panagiota'] },
       },
       downloadCv: 'Download CV (PDF)',
-      metaDescription: 'About the photographer Panagiota Karagiorgou (Prunak), Grevena. Film, cyanotype, northern landscapes.',
+      metaDescription: 'About the photographer Panagiota Karagiorgou, Grevena. Film, cyanotype, northern landscapes.',
     },
     journal: {
       title: 'Journal',

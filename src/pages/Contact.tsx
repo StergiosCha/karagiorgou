@@ -11,7 +11,6 @@ export default function Contact() {
   const c = t.contact;
   const wa = waLink(lang === 'el' ? 'Γεια σου Παναγιώτα,' : 'Hi Panagiota,');
   const vb = viberLink();
-  const hasLegal = site.legalName || site.afm || site.doy || site.address;
 
   return (
     <>
@@ -78,38 +77,6 @@ export default function Contact() {
             </dd>
           </div>
 
-          <div className="contact__row">
-            <dt className="label label--faint">{c.legalLabel}</dt>
-            <dd className="contact__legal meta">
-              {hasLegal ? (
-                <>
-                  {site.legalName && <span>{site.legalName}</span>}
-                  {site.afm && (
-                    <span>
-                      {c.afm} {site.afm}
-                    </span>
-                  )}
-                  {site.doy && (
-                    <span>
-                      {c.doy} {site.doy}
-                    </span>
-                  )}
-                  {(site.address || site.city) && (
-                    <span>
-                      {c.based}: {site.address || site.city}
-                    </span>
-                  )}
-                </>
-              ) : (
-                <>
-                  <span>
-                    {c.based}: {site.city}
-                  </span>
-                  <span className="placeholder-tag contact__tag">{t.placeholder} — ΑΦΜ / ΔΟΥ</span>
-                </>
-              )}
-            </dd>
-          </div>
         </dl>
       </section>
       <div className="section" aria-hidden="true" />

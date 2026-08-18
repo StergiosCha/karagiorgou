@@ -85,7 +85,7 @@ export default function Seo({ title, description, image, type = 'website' }: Pro
       '@context': 'https://schema.org',
       '@type': 'Person',
       name: lang === 'el' ? photographer.name_el : photographer.name_en,
-      alternateName: 'Prunak',
+      alternateName: 'prunak',
       jobTitle: lang === 'el' ? 'Φωτογράφος' : 'Photographer',
       url: `${SITE_ORIGIN}${base}/`,
       image: img,

@@ -8,7 +8,7 @@ const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const manifest = JSON.parse(readFileSync(resolve(root, 'src/data/manifest.json'), 'utf8'));
 const SITE_URL = (process.env.SITE_URL ?? 'https://stergioscha.github.io/karagiorgou').replace(/\/$/, '');
 
-const routes = ['/', '/portfolio', '/services', '/quote', '/about', '/journal', '/contact', ...manifest.series.map((s) => `/series/${s.slug}`)];
+const routes = ['/', '/portfolio', '/services', '/quote', '/about', '/contact', ...manifest.series.map((s) => `/series/${s.slug}`)];
 const today = new Date().toISOString().slice(0, 10);
 
 const sitemap =

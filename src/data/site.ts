@@ -10,9 +10,9 @@ export interface SiteConfig {
 }
 
 export const site: SiteConfig = {
-  brand: 'Prunak',
+  brand: 'P. Karagiorgou',
   origin: 'https://stergioscha.github.io',            // no trailing slash; change on custom domain
-  email: 'email@example.com',                          // PLACEHOLDER
+  email: 'unrealpk@gmail.com',                          // PLACEHOLDER
   phone: '',                                           // PLACEHOLDER e.g. '+30 69X XXX XXXX' (shown as text)
   whatsapp: '',                                        // PLACEHOLDER digits only, e.g. '3069XXXXXXXX' → wa.me link
   viber: '',                                           // PLACEHOLDER digits only, e.g. '3069XXXXXXXX' → viber://chat
